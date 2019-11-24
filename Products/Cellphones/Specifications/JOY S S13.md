@@ -1,0 +1,169 @@
+ 
+|Property| Value |
+|--------|-------|
+|Color|
+|Memory|4 GB
+|Launched|
+|Memory Card Slot|`true`
+|Shockproof|`false`
+|Waterproof|`false`
+|Stylus|`false`
+|Type of Memory Card Slot|
+|Product Line|
+|Operating System|
+|Operating System Version|
+|Form Factor|`Phablet`
+|Width|56 mm
+|Height|123 mm
+|Depth|21 mm
+|Weight|75 g
+# Camera
+|Property| Value |
+|--------|-------|
+|Rear Camera|`true`
+|Camera Resolution|2 MegaPixels
+|Number of Rear Cameras|1
+|Autofocus|`false`
+|Flash|`None`
+|Flash Type|
+|Front Camera|`false`
+|Resolution of Front Camera|
+|Optical Stabilization|`false`
+|Video Recording Resolution|
+|Macro Mode|`false`
+|Geo-tagging|
+|RAW Format Support|`false`
+# Display
+|Property| Value |
+|--------|-------|
+|Display Size|1.77 "
+|Display Aspect Ratio|
+|Touch Screen|`false`
+|Multitouch|
+|Display Technology|`TFT`
+|Scratch Resistant Glass|`false`
+|Force Touch|`false`
+|Colorful Display|`true`
+|Touch Screen Technology|
+|Two Displays|`false`
+|Curved Display|`false`
+|Colorful Secondary Display|`false`
+# Communications
+|Property| Value |
+|--------|-------|
+|SIM Card Form Factor|`Normal`
+|SIM Card Slots|2
+|Dual SIM Card Mode|`Dual SIM Standby`
+|Glonass|`true`
+|Bluetooth Standard Version|4.0
+|Wi-Fi Standard Version|802.11n
+|LTE Advanced Speed|
+|GPS|`true`
+|4G LTE|`true`
+|NFC|`false`
+|3G|`true`
+|Wi-Fi|`true`
+|Bluetooth|`true`
+|4G LTE-A|
+|A-GPS|`false`
+|BeiDou|`false`
+|Wi-Fi Direct|
+|WiMAX|`false`
+|CDMA 800|`false`
+|GSM 900|`true`
+|GSM 1800|`true`
+|GSM 1900|`true`
+|CDMA 1900|`false`
+|CDMA 450|`false`
+|VoLTE|
+|GPRS|
+|EDGE|
+|HSDPA|
+|HSUPA|
+|HSPA+|
+|FM Transmitter|`false`
+|Integrated Radio Antenna|
+|TV Tunner|`false`
+|FM-radio|`true`
+|Integrated Two-Way Radio Set|`false`
+|Power of Radio Set|
+|VoIP|
+|DLNA Support|`false`
+|Bluetooth Audio Streaming|
+|VHF|
+|UHF|
+|MMS|`false`
+|ANT+|`false`
+# Hardware
+|Property| Value |
+|--------|-------|
+|RAM|0.5 GB
+|Memory Card Maximum Capacity|32 GB
+|CPU Cores|2
+|CPU Model|
+|CPU Clock Rate|1200 MHz
+|Graphics Processor Unit|
+# Battery & Charging
+|Property| Value |
+|--------|-------|
+|Battery Capacity|4000 mAh
+|Fast Charging Standard|
+|Run Time in Idle Mode|
+|Battery Mount Type|`Removable`
+|Speaking Run Time|
+|Type of Battery|`Li-polymer`
+|Additional Battery Capacity|
+|Audio Playback Run Time|
+|Wireless Charging|`false`
+|Fast Charging Support|`false`
+|Charging via USB|
+# Sensors
+|Property| Value |
+|--------|-------|
+|Compass|
+|Gyroscope|`false`
+|Light Sensor|
+|Proximity Sensor|
+|Hall Sensor|`false`
+|Barometer|`false`
+|Fingerprint Scanner|`false`
+|Iris scanner|`false`
+# Ports
+|Property| Value |
+|--------|-------|
+|USB Port|
+|IrDA Port|`false`
+|Headphone Port|3.5 mm
+|External Antenna Port|`false`
+# Others
+|Property| Value |
+|--------|-------|
+|Push-To-Talk|`false`
+|Body Material|
+|Specific Absorption Rate|
+|Changeable Parts|`false`
+|Buttons|
+|Vibration|
+|Flashlight|`true`
+|MP3 Support|
+|Speech Recording|
+|Stereo Sound|`false`
+|AAC Support|`true`
+|WAV Support|`true`
+|WMA Support|`false`
+|Speakerphone Mode|
+|MP3 Ringtones|
+|Notification Indicator|
+|QWERTY Keyboard|`false`
+|Sync with Personal Computer|
+|Automaric Display Orientation Change|`false`
+|Video Output Type|
+|Games|
+|Alarm|`true`
+|Using as USB Drive|`true`
+|Call Making Using Voice|`false`
+|Voice Control|`false`
+|Airplane Mode|
+|Java applications|
+|MST|`false`
+|USB-host/OTG|`false`
