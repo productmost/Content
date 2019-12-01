@@ -1,8 +1,8 @@
-# Verizon Wireless
+# Verizon
 
 | Property   | Value
 |------------|--------
-| Name       | AT&T   
+| Name       | Verizon
 | Prefixes   | `https://www.verizonwireless.com`
 | Payments   | `VISA` `MasterCard` `Cash`
 
