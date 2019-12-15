@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|iTravel LM-801b
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`true`
-|Waterproof|`true`
+|Memory Card Slot|`Yes`
+|Shockproof|`Yes`
+|Waterproof|`Yes`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,84 +22,92 @@
 |Height|115 mm
 |Depth|23 mm
 |Weight|142 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`false`
+|Rear Camera|`No`
 |Camera Resolution|
 |Number of Rear Cameras|
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
-|Macro Mode|`false`
+|Macro Mode|`No`
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2 "
+|Display Size|2 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
+|GPS|`No`
+|4G LTE|`No`
 |NFC|
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`false`
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
+|GPRS|`Yes`
 |EDGE|
-|HSDPA|`false`
-|HSUPA|`false`
-|HSPA+|`false`
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`true`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`false`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`false`
+|MMS|`No`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1300 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`true`
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Compass|`Yes`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
-|Barometer|`true`
-|Fingerprint Scanner|`false`
+|Barometer|`Yes`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|`Proprietary`
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`false`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`No`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

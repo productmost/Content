@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Vertu Ascent Ferrari GT Limited Edition
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
-|Launched|2011
-|Memory Card Slot|`false`
-|Shockproof|`false`
-|Waterproof|`false`
+|Memory Card Slot|`No`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,84 +22,92 @@
 |Height|118 mm
 |Depth|18 mm
 |Weight|187 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|5 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|5 MP
 |Number of Rear Cameras|1
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|
-|Geo-tagging|`false`
+|Geo-tagging|`No`
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2 "
+|Display Size|2 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|`true`
+|Scratch Resistant Glass|`Yes`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|2.1
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
+|GPS|`Yes`
+|4G LTE|`No`
 |NFC|
-|3G|`true`
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|3G|`Yes`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`true`
+|A-GPS|`Yes`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
 |HSUPA|
-|HSPA+|`false`
-|FM Transmitter|`false`
+|HSPA+|`No`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`true`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`true`
+|MP3 Support|`Yes`
 |Speech Recording|
-|Stereo Sound|`false`
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
+|QWERTY Keyboard|`No`
 |Sync with Personal Computer|
-|Automaric Display Orientation Change|`true`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
+|Call Making Using Voice|`Yes`
 |Voice Control|
 |Airplane Mode|
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

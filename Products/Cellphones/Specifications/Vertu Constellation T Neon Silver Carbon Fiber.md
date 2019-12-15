@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Vertu Constellation T Neon Silver Carbon Fiber
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
-|Launched|
-|Memory Card Slot|`false`
-|Shockproof|`false`
-|Waterproof|`false`
+|Memory Card Slot|`No`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|`Constellation`
@@ -17,38 +22,44 @@
 |Height|118.2 mm
 |Depth|12.2 mm
 |Weight|
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|8 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|8 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|3.5 "
+|Display Size|3.5 in
 |Display Aspect Ratio|
-|Touch Screen|`true`
+|Touch Screen|`Yes`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|`true`
+|Scratch Resistant Glass|`Yes`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -59,42 +70,44 @@
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
 |Wi-Fi Direct|
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
 |HSDPA|
 |HSUPA|
 |HSPA+|
-|FM Transmitter|`false`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
+|TV Tunner|`No`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`false`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|
@@ -117,53 +132,59 @@
 |Wireless Charging|
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`false`
-|MP3 Support|`true`
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`Yes`
 |Speech Recording|
-|Stereo Sound|`false`
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

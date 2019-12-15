@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|T-Mobile MDA Vario
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
+|Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|
-|Stylus|`true`
+|Stylus|`Yes`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|`Windows`
@@ -17,74 +22,80 @@
 |Height|109 mm
 |Depth|24 mm
 |Weight|168 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|1.3 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|1.3 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2.8 "
+|Display Size|2.8 in
 |Display Aspect Ratio|
-|Touch Screen|`true`
+|Touch Screen|`Yes`
 |Multitouch|
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
 |Two Displays|
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|2.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
 |3G|
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`false`
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
 |CDMA 1900|
-|CDMA 450|`false`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
 |Integrated Radio Antenna|
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
@@ -92,9 +103,11 @@
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|`TI OMAP850`
 |CPU Clock Rate|200 MHz
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1200 mAh
@@ -114,28 +129,34 @@
 |Type of Battery|`Li-polymer`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`true`
+|USB Port|`Yes`
+|IrDA Port|`Yes`
 |Headphone Port|
-|External Antenna Port|`true`
+|External Antenna Port|`Yes`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -145,16 +166,16 @@
 |Buttons|
 |Vibration|
 |Flashlight|
-|MP3 Support|`true`
+|MP3 Support|`Yes`
 |Speech Recording|
 |Stereo Sound|
 |AAC Support|
-|WAV Support|`true`
-|WMA Support|`true`
+|WAV Support|`Yes`
+|WMA Support|`Yes`
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`true`
+|QWERTY Keyboard|`Yes`
 |Sync with Personal Computer|
 |Automaric Display Orientation Change|
 |Video Output Type|

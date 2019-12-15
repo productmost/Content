@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|Fashion TW810
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`true`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`Yes`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|
@@ -17,84 +22,92 @@
 |Height|56 mm
 |Depth|14 mm
 |Weight|130 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
+|Rear Camera|`Yes`
 |Camera Resolution|
 |Number of Rear Cameras|1
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`true`
-|Resolution of Front Camera|1.3 MegaPixels
+|Front Camera|`Yes`
+|Resolution of Front Camera|1.3 MP
 |Optical Stabilization|
 |Video Recording Resolution|
-|Macro Mode|`false`
-|Geo-tagging|`false`
+|Macro Mode|`No`
+|Geo-tagging|`No`
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|1.6 "
+|Display Size|1.6 in
 |Display Aspect Ratio|
-|Touch Screen|`true`
+|Touch Screen|`Yes`
 |Multitouch|
 |Display Technology|`IPS`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`false`
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
+|GPRS|`Yes`
 |EDGE|
 |HSDPA|
 |HSUPA|
 |HSPA+|
-|FM Transmitter|`false`
-|Integrated Radio Antenna|`false`
-|TV Tunner|`false`
-|FM-radio|`true`
+|FM Transmitter|`No`
+|Integrated Radio Antenna|`No`
+|TV Tunner|`No`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`true`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|600 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`false`
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Compass|`No`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|`Proprietary`
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|`Metal + Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`false`
-|MP3 Support|`true`
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`Yes`
 |Speech Recording|
-|Stereo Sound|`false`
+|Stereo Sound|`No`
 |AAC Support|
-|WAV Support|`true`
+|WAV Support|`Yes`
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`false`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
 |Sync with Personal Computer|
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
-|Java applications|`true`
+|Java applications|`Yes`
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|Nobby S300 Pro
+|Price|65.1 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
-|Color|`Golden` `Gray` `Blue` `Black`
+|Color|`Gold` `Gray` `Blue` `Black`
 |Memory|16 GB
-|Launched|2019
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`No`
 |Type of Memory Card Slot|`Separate`
 |Product Line|
 |Operating System|`Android`
@@ -17,84 +22,92 @@
 |Height|141 mm
 |Depth|9.4 mm
 |Weight|135 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|5 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|5 MP
 |Number of Rear Cameras|1
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`true`
-|Resolution of Front Camera|2 MegaPixels
-|Optical Stabilization|`false`
+|Front Camera|`Yes`
+|Resolution of Front Camera|2 MP
+|Optical Stabilization|`No`
 |Video Recording Resolution|
-|Macro Mode|`true`
-|Geo-tagging|`true`
-|RAW Format Support|`true`
+|Macro Mode|`Yes`
+|Geo-tagging|`Yes`
+|RAW Format Support|`Yes`
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|4.95 "
+|Display Size|4.95 in
 |Display Aspect Ratio|18:9
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|`IPS`
-|Scratch Resistant Glass|`false`
-|Force Touch|`false`
-|Colorful Display|`true`
+|Scratch Resistant Glass|`No`
+|Force Touch|`No`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`micro SIM`
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
-|Glonass|`true`
+|Glonass|`Yes`
 |Bluetooth Standard Version|2.1
 |Wi-Fi Standard Version|802.11b
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`true`
+|A-GPS|`Yes`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`true`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`true`
-|VoLTE|`false`
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
-|HSPA+|`true`
-|FM Transmitter|`false`
-|Integrated Radio Antenna|`false`
-|TV Tunner|`false`
-|FM-radio|`true`
-|Integrated Two-Way Radio Set|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`Yes`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`Yes`
+|VoLTE|`No`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
+|HSPA+|`Yes`
+|FM Transmitter|`No`
+|Integrated Radio Antenna|`No`
+|TV Tunner|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
+|VoIP|`No`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|2 GB
@@ -103,7 +116,9 @@
 |CPU Model|`MediaTek MT6580M`
 |CPU Clock Rate|1300 MHz
 |Graphics Processor Unit|`Mali-400 MP1`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|2000 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
-|Fast Charging Support|`false`
-|Charging via USB|`true`
+|Wireless Charging|`No`
+|Fast Charging Support|`No`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`false`
-|Gyroscope|`true`
+|Compass|`No`
+|Gyroscope|`Yes`
 |Light Sensor|
-|Proximity Sensor|`true`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
-|Barometer|`false`
+|Barometer|`No`
 |Fingerprint Scanner|
-|Iris scanner|`false`
+|Iris scanner|`No`
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`false`
+|Push-To-Talk|`No`
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|`Sensory`
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
-|AAC Support|`true`
-|WAV Support|`true`
-|WMA Support|`true`
-|Speakerphone Mode|`true`
-|MP3 Ringtones|`true`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
+|WMA Support|`Yes`
+|Speakerphone Mode|`Yes`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
-|Using as USB Drive|`true`
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
-|Java applications|`false`
-|MST|`false`
-|USB-host/OTG|`true`
+|Games|`Yes`
+|Alarm|`Yes`
+|Using as USB Drive|`Yes`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
+|Java applications|`No`
+|MST|`No`
+|USB-host/OTG|`Yes`

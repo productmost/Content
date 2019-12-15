@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Meizu MX2
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;64 GB;16 GB
-|Launched|2012
-|Memory Card Slot|`false`
-|Shockproof|`false`
-|Waterproof|`false`
+|Memory Card Slot|`No`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,84 +22,92 @@
 |Height|124.9 mm
 |Depth|10.2 mm
 |Weight|142 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|8 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|8 MP
 |Number of Rear Cameras|1
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`true`
-|Resolution of Front Camera|1.3 MegaPixels
+|Front Camera|`Yes`
+|Resolution of Front Camera|1.3 MP
 |Optical Stabilization|
 |Video Recording Resolution|1920x1080
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|4.4 "
+|Display Size|4.4 in
 |Display Aspect Ratio|16:10
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|
-|Scratch Resistant Glass|`true`
+|Scratch Resistant Glass|`Yes`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`true`
+|Glonass|`Yes`
 |Bluetooth Standard Version|4.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`true`
+|A-GPS|`Yes`
 |BeiDou|
-|Wi-Fi Direct|`true`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`Yes`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
-|HSPA+|`true`
-|FM Transmitter|`false`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
+|HSPA+|`Yes`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`false`
+|TV Tunner|`No`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`true`
-|Bluetooth Audio Streaming|`true`
+|DLNA Support|`Yes`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|2 GB
@@ -103,7 +116,9 @@
 |CPU Model|`Samsung Exynos 4412`
 |CPU Clock Rate|1600 MHz
 |Graphics Processor Unit|`Mali-400 MP4`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1800 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|46 h
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`true`
-|Gyroscope|`true`
-|Light Sensor|`true`
-|Proximity Sensor|`true`
+|Compass|`Yes`
+|Gyroscope|`Yes`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|`Sensory`
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
-|AAC Support|`true`
-|WAV Support|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|`MHL`
 |Games|
-|Alarm|`true`
-|Using as USB Drive|`true`
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Alarm|`Yes`
+|Using as USB Drive|`Yes`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
-|USB-host/OTG|`true`
+|USB-host/OTG|`Yes`

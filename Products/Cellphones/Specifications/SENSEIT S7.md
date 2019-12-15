@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|SENSEIT S7
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`false`
-|Shockproof|`false`
-|Waterproof|`false`
+|Memory Card Slot|`No`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,38 +22,44 @@
 |Height|118.9 mm
 |Depth|14.9 mm
 |Weight|97 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`false`
+|Rear Camera|`No`
 |Camera Resolution|
 |Number of Rear Cameras|
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
-|Macro Mode|`false`
-|Geo-tagging|`false`
+|Macro Mode|`No`
+|Geo-tagging|`No`
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2 "
+|Display Size|2 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
@@ -58,43 +69,45 @@
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`false`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`No`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`false`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`No`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`false`
-|EDGE|`false`
-|HSDPA|`false`
-|HSUPA|`false`
-|HSPA+|`false`
-|FM Transmitter|`false`
-|Integrated Radio Antenna|`false`
-|TV Tunner|`false`
-|FM-radio|`true`
+|GPRS|`No`
+|EDGE|`No`
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
+|FM Transmitter|`No`
+|Integrated Radio Antenna|`No`
+|TV Tunner|`No`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`false`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`false`
+|MMS|`No`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1000 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
-|IrDA Port|`false`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`false`
+|Push-To-Talk|`No`
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
 |Vibration|
-|Flashlight|`true`
-|MP3 Support|`false`
+|Flashlight|`Yes`
+|MP3 Support|`No`
 |Speech Recording|
 |Stereo Sound|
-|AAC Support|`false`
-|WAV Support|`false`
-|WMA Support|`false`
+|AAC Support|`No`
+|WAV Support|`No`
+|WMA Support|`No`
 |Speakerphone Mode|
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`false`
+|QWERTY Keyboard|`No`
 |Sync with Personal Computer|
-|Automaric Display Orientation Change|`false`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

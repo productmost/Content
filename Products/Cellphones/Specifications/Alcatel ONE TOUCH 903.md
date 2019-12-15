@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Alcatel ONE TOUCH 903
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,11 +22,13 @@
 |Height|110 mm
 |Depth|12.5 mm
 |Weight|114 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|2 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|2 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|
@@ -33,22 +40,26 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2.8 "
+|Display Size|2.8 in
 |Display Aspect Ratio|
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|`TFT`
-|Scratch Resistant Glass|`false`
+|Scratch Resistant Glass|`No`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -58,43 +69,45 @@
 |Bluetooth Standard Version|3.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`true`
+|A-GPS|`Yes`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
-|HSPA+|`false`
-|FM Transmitter|`false`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
+|HSPA+|`No`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
+|TV Tunner|`No`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`true`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|`MediaTek MT6573`
 |CPU Clock Rate|650 MHz
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1300 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|15 h
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`true`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|`Plastic`
 |Specific Absorption Rate|0.891 W/kg
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`false`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

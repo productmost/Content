@@ -1,10 +1,15 @@
+|Property|Value|
+|--------|-----|
+|Name|Palm Treo 180
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`false`
+|Memory Card Slot|`No`
 |Shockproof|
 |Waterproof|
 |Stylus|
@@ -17,7 +22,9 @@
 |Height|110 mm
 |Depth|18 mm
 |Weight|153 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
 |Rear Camera|
@@ -33,68 +40,74 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`false`
+|Colorful Display|`No`
 |Touch Screen Technology|
 |Two Displays|
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`false`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`No`
 |4G LTE-A|
-|A-GPS|`false`
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
 |CDMA 1900|
-|CDMA 450|`false`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
+|GPRS|`Yes`
 |EDGE|
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`false`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`false`
+|MMS|`No`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|33 MHz
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1400 mAh
@@ -114,28 +129,34 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`true`
+|USB Port|`Yes`
+|IrDA Port|`Yes`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -143,18 +164,18 @@
 |Specific Absorption Rate|
 |Changeable Parts|
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`false`
+|MP3 Support|`No`
 |Speech Recording|
 |Stereo Sound|
-|AAC Support|`false`
-|WAV Support|`false`
-|WMA Support|`false`
+|AAC Support|`No`
+|WAV Support|`No`
+|WMA Support|`No`
 |Speakerphone Mode|
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`true`
+|QWERTY Keyboard|`Yes`
 |Sync with Personal Computer|
 |Automaric Display Orientation Change|
 |Video Output Type|
@@ -164,6 +185,6 @@
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
-|Java applications|`false`
+|Java applications|`No`
 |MST|
 |USB-host/OTG|

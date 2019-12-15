@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|BlackBerry Porsche Design P’9981
+|Price|675.7 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|`Silver` `Black`
 |Memory|8 GB
-|Launched|2011
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,84 +22,92 @@
 |Height|115 mm
 |Depth|11.3 mm
 |Weight|155 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|5 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|5 MP
 |Number of Rear Cameras|1
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|1280x720
 |Macro Mode|
-|Geo-tagging|`true`
+|Geo-tagging|`Yes`
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2.8 "
+|Display Size|2.8 in
 |Display Aspect Ratio|
-|Touch Screen|`true`
+|Touch Screen|`Yes`
 |Multitouch|
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`true`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`Yes`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
 |HSUPA|
-|HSPA+|`false`
-|FM Transmitter|`false`
+|HSPA+|`No`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
 |DLNA Support|
-|Bluetooth Audio Streaming|`true`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|`Qualcomm MSM8655`
 |CPU Clock Rate|1200 MHz
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|
@@ -114,49 +129,55 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`true`
-|Gyroscope|`false`
-|Light Sensor|`true`
-|Proximity Sensor|`true`
+|Compass|`Yes`
+|Gyroscope|`No`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|`Steel`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
-|AAC Support|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
+|AAC Support|`Yes`
 |WAV Support|
 |WMA Support|
-|Speakerphone Mode|`true`
-|MP3 Ringtones|`true`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`true`
+|Speakerphone Mode|`Yes`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`Yes`
 |Sync with Personal Computer|
-|Automaric Display Orientation Change|`true`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
 |Alarm|
@@ -166,4 +187,4 @@
 |Airplane Mode|
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

@@ -1,10 +1,15 @@
+|Property|Value|
+|--------|-----|
+|Name|HTC T-Mobile G1
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
+|Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|
 |Stylus|
@@ -17,84 +22,92 @@
 |Height|117 mm
 |Depth|17 mm
 |Weight|158 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|3.2 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|3.2 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|3.2 "
+|Display Size|3.2 in
 |Display Aspect Ratio|
-|Touch Screen|`true`
+|Touch Screen|`Yes`
 |Multitouch|
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|2.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
 |CDMA 1900|
-|CDMA 450|`false`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
 |DLNA Support|
-|Bluetooth Audio Streaming|`false`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|`Qualcomm MSM 7201A`
 |CPU Clock Rate|528 MHz
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1150 mAh
@@ -114,28 +129,34 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -143,27 +164,27 @@
 |Specific Absorption Rate|
 |Changeable Parts|
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`true`
-|Speech Recording|`true`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
 |Stereo Sound|
-|AAC Support|`true`
-|WAV Support|`true`
-|WMA Support|`true`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
+|WMA Support|`Yes`
 |Speakerphone Mode|
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`true`
-|Sync with Personal Computer|`true`
+|QWERTY Keyboard|`Yes`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
-|Java applications|`false`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
+|Java applications|`No`
 |MST|
 |USB-host/OTG|

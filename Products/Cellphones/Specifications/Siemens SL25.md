@@ -1,10 +1,15 @@
+|Property|Value|
+|--------|-----|
+|Name|Siemens SL25
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`false`
+|Memory Card Slot|`No`
 |Shockproof|
 |Waterproof|
 |Stylus|
@@ -17,7 +22,9 @@
 |Height|102 mm
 |Depth|19 mm
 |Weight|75 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
 |Rear Camera|
@@ -33,68 +40,74 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`false`
+|Colorful Display|`No`
 |Touch Screen Technology|
 |Two Displays|
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|2
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
 |Wi-Fi|
-|Bluetooth|`false`
+|Bluetooth|`No`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
 |CDMA 800|
-|GSM 900|`true`
-|GSM 1800|`true`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
 |GSM 1900|
 |CDMA 1900|
 |CDMA 450|
 |VoLTE|
-|GPRS|`false`
-|EDGE|`false`
+|GPRS|`No`
+|EDGE|`No`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
 |DLNA Support|
-|Bluetooth Audio Streaming|`false`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`false`
+|MMS|`No`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|650 mAh
@@ -114,28 +129,34 @@
 |Type of Battery|`NiMH`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
-|IrDA Port|`true`
+|IrDA Port|`Yes`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -143,26 +164,26 @@
 |Specific Absorption Rate|
 |Changeable Parts|
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`false`
+|MP3 Support|`No`
 |Speech Recording|
 |Stereo Sound|
-|AAC Support|`false`
-|WAV Support|`false`
-|WMA Support|`false`
-|Speakerphone Mode|`false`
-|MP3 Ringtones|`false`
+|AAC Support|`No`
+|WAV Support|`No`
+|WMA Support|`No`
+|Speakerphone Mode|`No`
+|MP3 Ringtones|`No`
 |Notification Indicator|
 |QWERTY Keyboard|
-|Sync with Personal Computer|`false`
+|Sync with Personal Computer|`No`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`false`
-|Alarm|`true`
+|Games|`No`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`false`
-|Voice Control|`false`
+|Call Making Using Voice|`No`
+|Voice Control|`No`
 |Airplane Mode|
 |Java applications|
 |MST|

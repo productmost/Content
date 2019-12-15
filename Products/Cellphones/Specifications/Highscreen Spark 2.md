@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|Highscreen Spark 2
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|4 GB
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`No`
 |Type of Memory Card Slot|`Separate`
 |Product Line|
 |Operating System|`Android`
@@ -17,84 +22,92 @@
 |Height|122.4 mm
 |Depth|9.69 mm
 |Weight|108 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|2 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|2 MP
 |Number of Rear Cameras|1
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`true`
-|Resolution of Front Camera|0.3 MegaPixels
-|Optical Stabilization|`false`
+|Front Camera|`Yes`
+|Resolution of Front Camera|0.3 MP
+|Optical Stabilization|`No`
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|4 "
+|Display Size|4 in
 |Display Aspect Ratio|5:3
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|
-|Scratch Resistant Glass|`false`
+|Scratch Resistant Glass|`No`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
-|Glonass|`true`
+|Glonass|`Yes`
 |Bluetooth Standard Version|4.0
 |Wi-Fi Standard Version|802.11n
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
-|BeiDou|`false`
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|BeiDou|`No`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
-|HSPA+|`true`
-|FM Transmitter|`false`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
+|HSPA+|`Yes`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`false`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`No`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`true`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
-|ANT+|`false`
+|MMS|`Yes`
+|ANT+|`No`
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|0.5 GB
@@ -103,7 +116,9 @@
 |CPU Model|`Qualcomm MSM8212`
 |CPU Clock Rate|1200 MHz
 |Graphics Processor Unit|`Adreno 302`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1420 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`true`
-|Proximity Sensor|`true`
+|Gyroscope|`No`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|`Sensory`
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
 |Stereo Sound|
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

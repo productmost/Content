@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|Sonim XP5560 BOLT
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`true`
-|Waterproof|`true`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`Yes`
+|Waterproof|`Yes`
+|Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|
@@ -17,84 +22,92 @@
 |Height|126 mm
 |Depth|25 mm
 |Weight|190 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|2 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|2 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
-|Optical Stabilization|`false`
+|Optical Stabilization|`No`
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2 "
+|Display Size|2 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|`true`
+|Scratch Resistant Glass|`Yes`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|3.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`true`
+|A-GPS|`Yes`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
 |HSPA+|
-|FM Transmitter|`false`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`true`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|`MediaTek MT6276W`
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1950 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`false`
-|MP3 Support|`true`
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`Yes`
 |Speech Recording|
 |Stereo Sound|
-|AAC Support|`true`
-|WAV Support|`true`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
+|QWERTY Keyboard|`No`
 |Sync with Personal Computer|
-|Automaric Display Orientation Change|`false`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
-|Java applications|`true`
+|Java applications|`Yes`
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Nubia Z5S
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB;32 GB
-|Launched|2013
-|Memory Card Slot|`false`
-|Shockproof|`false`
-|Waterproof|`false`
+|Memory Card Slot|`No`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|`Nubia`
@@ -17,38 +22,44 @@
 |Height|136 mm
 |Depth|7 mm
 |Weight|126 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|13 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|13 MP
 |Number of Rear Cameras|1
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`true`
-|Resolution of Front Camera|5 MegaPixels
-|Optical Stabilization|`true`
+|Front Camera|`Yes`
+|Resolution of Front Camera|5 MP
+|Optical Stabilization|`Yes`
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|5 "
+|Display Size|5 in
 |Display Aspect Ratio|16:9
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|
-|Scratch Resistant Glass|`false`
+|Scratch Resistant Glass|`No`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -58,43 +69,45 @@
 |Bluetooth Standard Version|4.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|`Cat. 4`
-|GPS|`true`
-|4G LTE|`true`
+|GPS|`Yes`
+|4G LTE|`Yes`
 |NFC|
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
-|4G LTE-A|`true`
-|A-GPS|`true`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
+|4G LTE-A|`Yes`
+|A-GPS|`Yes`
 |BeiDou|
-|Wi-Fi Direct|`true`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`Yes`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
+|TV Tunner|`No`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`true`
-|Bluetooth Audio Streaming|`true`
+|DLNA Support|`Yes`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|2 GB
@@ -103,7 +116,9 @@
 |CPU Model|`Qualcomm Snapdragon 800 MSM8974`
 |CPU Clock Rate|2260 MHz
 |Graphics Processor Unit|`Adreno 330`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|2400 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`true`
-|Gyroscope|`true`
-|Light Sensor|`true`
-|Proximity Sensor|`true`
+|Compass|`Yes`
+|Gyroscope|`Yes`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`true`
+|USB Port|`Yes`
+|IrDA Port|`Yes`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`Yes`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|`SlimPort`
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
 |USB-host/OTG|

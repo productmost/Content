@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|RugGear P860 Explorer
+|Price|105 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`true`
-|Waterproof|`true`
+|Memory Card Slot|`Yes`
+|Shockproof|`Yes`
+|Waterproof|`Yes`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,11 +22,13 @@
 |Height|126 mm
 |Depth|22 mm
 |Weight|160 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|2 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|2 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|
@@ -33,22 +40,26 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2.2 "
+|Display Size|2.2 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -58,43 +69,45 @@
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
+|GPS|`Yes`
+|4G LTE|`No`
 |NFC|
 |3G|
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`false`
-|HSUPA|`false`
-|HSPA+|`false`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
 |FM Transmitter|
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
-|Integrated Two-Way Radio Set|`true`
+|TV Tunner|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|`Yes`
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
+|VoIP|`No`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
-|UHF|`true`
-|MMS|`true`
+|UHF|`Yes`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1800 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
-|Speakerphone Mode|`true`
-|MP3 Ringtones|`true`
+|Speakerphone Mode|`Yes`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
+|QWERTY Keyboard|`No`
 |Sync with Personal Computer|
-|Automaric Display Orientation Change|`false`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
-|Java applications|`true`
+|Java applications|`Yes`
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

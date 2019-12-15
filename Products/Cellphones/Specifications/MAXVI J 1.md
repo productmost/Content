@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|MAXVI J-1
+|Price|21.9 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|`Pink`
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|
@@ -17,38 +22,44 @@
 |Height|91 mm
 |Depth|14.8 mm
 |Weight|
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|0.3 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|0.3 MP
 |Number of Rear Cameras|1
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
-|Optical Stabilization|`false`
+|Optical Stabilization|`No`
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|1.44 "
+|Display Size|1.44 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|`false`
+|Scratch Resistant Glass|`No`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -59,32 +70,32 @@
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
+|4G LTE|`No`
 |NFC|
-|3G|`false`
+|3G|`No`
 |Wi-Fi|
-|Bluetooth|`true`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
 |Wi-Fi Direct|
 |WiMAX|
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
 |GPRS|
 |EDGE|
 |HSDPA|
 |HSUPA|
 |HSPA+|
-|FM Transmitter|`false`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
+|TV Tunner|`No`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
@@ -94,7 +105,9 @@
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|
@@ -117,46 +132,52 @@
 |Wireless Charging|
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
 |IrDA Port|
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`false`
-|MP3 Support|`true`
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`Yes`
 |Speech Recording|
-|Stereo Sound|`false`
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`false`
+|QWERTY Keyboard|`No`
 |Sync with Personal Computer|
-|Automaric Display Orientation Change|`false`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
 |Games|
 |Alarm|

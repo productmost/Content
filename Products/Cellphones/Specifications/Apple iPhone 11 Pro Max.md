@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|Apple iPhone 11 Pro Max
+|Price|1711.6 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Golden` `Silver` `Gray` `Black`
+|Color|`Green` `Gold` `Silver` `Gray` `Black`
 |Memory|256 GB;512 GB;64 GB
-|Launched|2019
-|Memory Card Slot|`false`
-|Shockproof|`false`
-|Waterproof|`true`
-|Stylus|`false`
+|Memory Card Slot|`No`
+|Shockproof|`No`
+|Waterproof|`Yes`
+|Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|`iPhone 11`
 |Operating System|`iOS`
@@ -17,84 +22,92 @@
 |Height|158 mm
 |Depth|8.1 mm
 |Weight|226 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|12 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|12 MP
 |Number of Rear Cameras|3
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`true`
-|Resolution of Front Camera|12 MegaPixels
-|Optical Stabilization|`true`
+|Front Camera|`Yes`
+|Resolution of Front Camera|12 MP
+|Optical Stabilization|`Yes`
 |Video Recording Resolution|3840x2160
-|Macro Mode|`true`
-|Geo-tagging|`true`
-|RAW Format Support|`false`
+|Macro Mode|`Yes`
+|Geo-tagging|`Yes`
+|RAW Format Support|`No`
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|6.5 "
+|Display Size|6.5 in
 |Display Aspect Ratio|19.5:9
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|`OLED`
 |Scratch Resistant Glass|
-|Force Touch|`true`
-|Colorful Display|`true`
+|Force Touch|`Yes`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`nano SIM+eSIM`
 |SIM Card Slots|2
 |Dual SIM Card Mode|
-|Glonass|`true`
+|Glonass|`Yes`
 |Bluetooth Standard Version|5.0
 |Wi-Fi Standard Version|802.11ax
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`true`
-|NFC|`true`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
-|4G LTE-A|`true`
-|A-GPS|`true`
-|BeiDou|`false`
+|GPS|`Yes`
+|4G LTE|`Yes`
+|NFC|`Yes`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
+|4G LTE-A|`Yes`
+|A-GPS|`Yes`
+|BeiDou|`No`
 |Wi-Fi Direct|
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
-|VoLTE|`true`
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
-|HSPA+|`true`
-|FM Transmitter|`false`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
+|VoLTE|`Yes`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
+|HSPA+|`Yes`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`false`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`No`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`true`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|`Apple A13 Bionic`
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|80 h
-|Wireless Charging|`true`
-|Fast Charging Support|`true`
-|Charging via USB|`true`
+|Wireless Charging|`Yes`
+|Fast Charging Support|`Yes`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`true`
-|Gyroscope|`true`
-|Light Sensor|`true`
-|Proximity Sensor|`true`
-|Hall Sensor|`false`
-|Barometer|`true`
-|Fingerprint Scanner|`false`
-|Iris scanner|`false`
+|Compass|`Yes`
+|Gyroscope|`Yes`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
+|Hall Sensor|`No`
+|Barometer|`Yes`
+|Fingerprint Scanner|`No`
+|Iris scanner|`No`
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`false`
-|IrDA Port|`false`
+|USB Port|`No`
+|IrDA Port|`No`
 |Headphone Port|`Lightning`
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`false`
+|Push-To-Talk|`No`
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`true`
-|AAC Support|`true`
-|WAV Support|`true`
-|WMA Support|`true`
-|Speakerphone Mode|`true`
-|MP3 Ringtones|`true`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`Yes`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
+|WMA Support|`Yes`
+|Speakerphone Mode|`Yes`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
-|Alarm|`true`
-|Using as USB Drive|`false`
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Alarm|`Yes`
+|Using as USB Drive|`No`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
-|MST|`false`
-|USB-host/OTG|`false`
+|MST|`No`
+|USB-host/OTG|`No`

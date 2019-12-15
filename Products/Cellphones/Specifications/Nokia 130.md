@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|Nokia 130
+|Price|30.2 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
-|Launched|2014
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|
@@ -17,84 +22,92 @@
 |Height|106 mm
 |Depth|13.9 mm
 |Weight|68 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`false`
+|Rear Camera|`No`
 |Camera Resolution|
 |Number of Rear Cameras|
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
-|Optical Stabilization|`false`
+|Optical Stabilization|`No`
 |Video Recording Resolution|
-|Macro Mode|`false`
-|Geo-tagging|`false`
+|Macro Mode|`No`
+|Geo-tagging|`No`
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|1.8 "
+|Display Size|1.8 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|`false`
+|Scratch Resistant Glass|`No`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|3.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`false`
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`false`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`No`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`false`
-|EDGE|`false`
-|HSDPA|`false`
-|HSUPA|`false`
-|HSPA+|`false`
-|FM Transmitter|`false`
+|GPRS|`No`
+|EDGE|`No`
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
+|VoIP|`No`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1020 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|46 h
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`false`
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Compass|`No`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`false`
+|Push-To-Talk|`No`
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`true`
+|MP3 Support|`Yes`
 |Speech Recording|
-|Stereo Sound|`false`
-|AAC Support|`true`
-|WAV Support|`true`
+|Stereo Sound|`No`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
 |WMA Support|
-|Speakerphone Mode|`true`
-|MP3 Ringtones|`true`
+|Speakerphone Mode|`Yes`
+|MP3 Ringtones|`Yes`
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`false`
-|Automaric Display Orientation Change|`false`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`No`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
-|Airplane Mode|`false`
+|Airplane Mode|`No`
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

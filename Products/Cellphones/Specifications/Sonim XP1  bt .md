@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Sonim XP1 (bt)
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`false`
-|Shockproof|`true`
-|Waterproof|`true`
+|Memory Card Slot|`No`
+|Shockproof|`Yes`
+|Waterproof|`Yes`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,84 +22,92 @@
 |Height|116 mm
 |Depth|22 mm
 |Weight|128 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`false`
+|Rear Camera|`No`
 |Camera Resolution|
 |Number of Rear Cameras|
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
-|Macro Mode|`false`
-|Geo-tagging|`false`
+|Macro Mode|`No`
+|Geo-tagging|`No`
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|`STN`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`false`
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`false`
-|HSDPA|`false`
-|HSUPA|`false`
-|HSPA+|`false`
-|FM Transmitter|`false`
-|Integrated Radio Antenna|`false`
+|GPRS|`Yes`
+|EDGE|`No`
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
+|FM Transmitter|`No`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
+|VoIP|`No`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
-|MMS|`false`
+|MMS|`No`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1100 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`false`
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Compass|`No`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|2.5 mm
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`false`
+|Push-To-Talk|`No`
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`false`
-|MP3 Support|`false`
-|Speech Recording|`true`
-|Stereo Sound|`false`
-|AAC Support|`false`
-|WAV Support|`false`
-|WMA Support|`false`
-|Speakerphone Mode|`true`
-|MP3 Ringtones|`false`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`false`
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`No`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
+|AAC Support|`No`
+|WAV Support|`No`
+|WMA Support|`No`
+|Speakerphone Mode|`Yes`
+|MP3 Ringtones|`No`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
-|Games|`false`
-|Alarm|`true`
+|Games|`No`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
-|Java applications|`false`
+|Java applications|`No`
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

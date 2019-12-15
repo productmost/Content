@@ -1,9 +1,14 @@
+|Property|Value|
+|--------|-----|
+|Name|Samsung SCH-V410
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
 |Memory Card Slot|
 |Shockproof|
 |Waterproof|
@@ -17,11 +22,13 @@
 |Height|89 mm
 |Depth|24 mm
 |Weight|108 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|0.3 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|0.3 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|`Rear Flash`
@@ -33,7 +40,9 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
@@ -43,58 +52,62 @@
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`true`
+|Two Displays|`Yes`
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
 |Wi-Fi|
-|Bluetooth|`false`
+|Bluetooth|`No`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
-|CDMA 800|`true`
-|GSM 900|`false`
-|GSM 1800|`false`
-|GSM 1900|`false`
+|CDMA 800|`Yes`
+|GSM 900|`No`
+|GSM 1800|`No`
+|GSM 1900|`No`
 |CDMA 1900|
-|CDMA 450|`false`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`false`
-|EDGE|`false`
+|GPRS|`No`
+|EDGE|`No`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
 |DLNA Support|
-|Bluetooth Audio Streaming|`false`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1300 mAh
@@ -114,28 +129,34 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`true`
+|USB Port|`Yes`
+|IrDA Port|`Yes`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -143,10 +164,10 @@
 |Specific Absorption Rate|
 |Changeable Parts|
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`true`
-|Speech Recording|`true`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
 |Stereo Sound|
 |AAC Support|
 |WAV Support|
@@ -155,15 +176,15 @@
 |MP3 Ringtones|
 |Notification Indicator|
 |QWERTY Keyboard|
-|Sync with Personal Computer|`true`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
 |Airplane Mode|
-|Java applications|`true`
+|Java applications|`Yes`
 |MST|
 |USB-host/OTG|

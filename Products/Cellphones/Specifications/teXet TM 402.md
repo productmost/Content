@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|teXet TM-402
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|2017
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|
@@ -17,84 +22,92 @@
 |Height|113 mm
 |Depth|15 mm
 |Weight|115 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
+|Rear Camera|`Yes`
 |Camera Resolution|
 |Number of Rear Cameras|1
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|`None`
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
-|Optical Stabilization|`false`
+|Optical Stabilization|`No`
 |Video Recording Resolution|
-|Macro Mode|`false`
-|Geo-tagging|`false`
-|RAW Format Support|`false`
+|Macro Mode|`No`
+|Geo-tagging|`No`
+|RAW Format Support|`No`
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2.4 "
+|Display Size|2.4 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|`false`
-|Force Touch|`false`
-|Colorful Display|`true`
+|Scratch Resistant Glass|`No`
+|Force Touch|`No`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`true`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`false`
-|BeiDou|`false`
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
-|VoLTE|`false`
+|A-GPS|`No`
+|BeiDou|`No`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
+|VoLTE|`No`
 |GPRS|
 |EDGE|
-|HSDPA|`false`
-|HSUPA|`false`
-|HSPA+|`false`
-|FM Transmitter|`false`
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
+|VoIP|`No`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|
-|ANT+|`false`
+|ANT+|`No`
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|800 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
-|Fast Charging Support|`false`
+|Wireless Charging|`No`
+|Fast Charging Support|`No`
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`false`
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
-|Hall Sensor|`false`
-|Barometer|`false`
-|Fingerprint Scanner|`false`
-|Iris scanner|`false`
+|Compass|`No`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
+|Hall Sensor|`No`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
+|Iris scanner|`No`
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
-|IrDA Port|`false`
+|IrDA Port|`No`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`false`
+|Push-To-Talk|`No`
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
 |Speech Recording|
-|Stereo Sound|`false`
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`false`
+|QWERTY Keyboard|`No`
 |Sync with Personal Computer|
-|Automaric Display Orientation Change|`false`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
 |Games|
 |Alarm|
 |Using as USB Drive|
-|Call Making Using Voice|`false`
-|Voice Control|`false`
+|Call Making Using Voice|`No`
+|Voice Control|`No`
 |Airplane Mode|
 |Java applications|
-|MST|`false`
-|USB-host/OTG|`false`
+|MST|`No`
+|USB-host/OTG|`No`

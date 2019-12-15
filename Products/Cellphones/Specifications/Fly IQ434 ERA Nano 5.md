@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|Fly IQ434 ERA Nano 5
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`No`
 |Type of Memory Card Slot|`Separate`
 |Product Line|`ERA`
 |Operating System|`Android`
@@ -17,84 +22,92 @@
 |Height|113 mm
 |Depth|12 mm
 |Weight|100 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|1.3 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|1.3 MP
 |Number of Rear Cameras|1
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
-|Optical Stabilization|`false`
+|Optical Stabilization|`No`
 |Video Recording Resolution|640x480
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|3.5 "
+|Display Size|3.5 in
 |Display Aspect Ratio|
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|`TFT`
-|Scratch Resistant Glass|`false`
+|Scratch Resistant Glass|`No`
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`micro SIM`
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
 |3G|
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`false`
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
-|FM Transmitter|`false`
+|HSPA+|`No`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`true`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
-|MMS|`true`
-|ANT+|`false`
+|MMS|`Yes`
+|ANT+|`No`
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|`MediaTek MT6571`
 |CPU Clock Rate|1300 MHz
 |Graphics Processor Unit|`Mali-400 MP`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1000 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`false`
-|Gyroscope|`false`
+|Compass|`No`
+|Gyroscope|`No`
 |Light Sensor|
 |Proximity Sensor|
 |Hall Sensor|
-|Barometer|`false`
-|Fingerprint Scanner|`false`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|`Sensory`
-|Vibration|`true`
-|Flashlight|`false`
-|MP3 Support|`true`
-|Speech Recording|`true`
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
 |Stereo Sound|
-|AAC Support|`true`
-|WAV Support|`true`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

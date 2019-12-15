@@ -1,9 +1,14 @@
+|Property|Value|
+|--------|-----|
+|Name|Motorola V400
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
 |Memory Card Slot|
 |Shockproof|
 |Waterproof|
@@ -17,10 +22,12 @@
 |Height|89 mm
 |Depth|25 mm
 |Weight|123 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
+|Rear Camera|`Yes`
 |Camera Resolution|
 |Number of Rear Cameras|1
 |Autofocus|
@@ -33,7 +40,9 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
@@ -43,58 +52,62 @@
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`true`
+|Two Displays|`Yes`
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
 |Wi-Fi|
-|Bluetooth|`false`
+|Bluetooth|`No`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
 |CDMA 800|
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
 |CDMA 1900|
 |CDMA 450|
 |VoLTE|
-|GPRS|`true`
-|EDGE|`false`
+|GPRS|`Yes`
+|EDGE|`No`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
 |DLNA Support|
-|Bluetooth Audio Streaming|`false`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|700 mAh
@@ -114,28 +129,34 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
+|USB Port|`Yes`
 |IrDA Port|
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -143,27 +164,27 @@
 |Specific Absorption Rate|
 |Changeable Parts|
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`true`
+|MP3 Support|`Yes`
 |Speech Recording|
 |Stereo Sound|
 |AAC Support|
 |WAV Support|
 |WMA Support|
-|Speakerphone Mode|`true`
+|Speakerphone Mode|`Yes`
 |MP3 Ringtones|
 |Notification Indicator|
 |QWERTY Keyboard|
-|Sync with Personal Computer|`true`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
 |Airplane Mode|
-|Java applications|`true`
+|Java applications|`Yes`
 |MST|
 |USB-host/OTG|

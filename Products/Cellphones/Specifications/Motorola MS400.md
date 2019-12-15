@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Motorola MS400
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
-|Memory Card Slot|`false`
+|Memory Card Slot|`No`
 |Shockproof|
-|Waterproof|`false`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,10 +22,12 @@
 |Height|90 mm
 |Depth|21 mm
 |Weight|90 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
+|Rear Camera|`Yes`
 |Camera Resolution|
 |Number of Rear Cameras|1
 |Autofocus|
@@ -33,7 +40,9 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
@@ -43,58 +52,62 @@
 |Display Technology|`TFT`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
-|NFC|`false`
-|3G|`true`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`Yes`
 |Wi-Fi|
-|Bluetooth|`false`
+|Bluetooth|`No`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
 |CDMA 800|
-|GSM 900|`false`
-|GSM 1800|`false`
-|GSM 1900|`false`
+|GSM 900|`No`
+|GSM 1800|`No`
+|GSM 1900|`No`
 |CDMA 1900|
 |CDMA 450|
 |VoLTE|
-|GPRS|`false`
-|EDGE|`false`
+|GPRS|`No`
+|EDGE|`No`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
 |DLNA Support|
-|Bluetooth Audio Streaming|`false`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|950 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|680 mAh
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
-|MP3 Support|`true`
+|MP3 Support|`Yes`
 |Speech Recording|
 |Stereo Sound|
 |AAC Support|
 |WAV Support|
-|WMA Support|`false`
-|Speakerphone Mode|`true`
+|WMA Support|`No`
+|Speakerphone Mode|`Yes`
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
 |Airplane Mode|
-|Java applications|`false`
+|Java applications|`No`
 |MST|
 |USB-host/OTG|

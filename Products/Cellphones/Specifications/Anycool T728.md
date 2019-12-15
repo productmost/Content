@@ -1,9 +1,14 @@
+|Property|Value|
+|--------|-----|
+|Name|Anycool T728
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
 |Memory Card Slot|
 |Shockproof|
 |Waterproof|
@@ -17,7 +22,9 @@
 |Height|
 |Depth|
 |Weight|
+
 # Camera
+
 |Property| Value |
 |--------|-------|
 |Rear Camera|
@@ -33,7 +40,9 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
@@ -48,7 +57,9 @@
 |Two Displays|
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -94,7 +105,9 @@
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|
@@ -117,7 +132,9 @@
 |Wireless Charging|
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
@@ -128,14 +145,18 @@
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
 |IrDA Port|
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|

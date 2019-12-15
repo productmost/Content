@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|HTC J butterfly
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
-|Launched|2012
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`true`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`Yes`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,38 +22,44 @@
 |Height|143 mm
 |Depth|9.1 mm
 |Weight|140 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|8 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|8 MP
 |Number of Rear Cameras|1
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|
-|Front Camera|`true`
-|Resolution of Front Camera|2.1 MegaPixels
+|Front Camera|`Yes`
+|Resolution of Front Camera|2.1 MP
 |Optical Stabilization|
 |Video Recording Resolution|1920x1080
 |Macro Mode|
-|Geo-tagging|`true`
+|Geo-tagging|`Yes`
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|5 "
+|Display Size|5 in
 |Display Aspect Ratio|16:9
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|`Super LCD 3`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|`false`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -58,33 +69,33 @@
 |Bluetooth Standard Version|4.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`true`
-|NFC|`true`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|GPS|`Yes`
+|4G LTE|`Yes`
+|NFC|`Yes`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`true`
+|A-GPS|`Yes`
 |BeiDou|
 |Wi-Fi Direct|
-|WiMAX|`false`
-|CDMA 800|`true`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`true`
+|WiMAX|`No`
+|CDMA 800|`Yes`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`Yes`
 |CDMA 450|
-|VoLTE|`true`
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
+|VoLTE|`Yes`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
 |HSPA+|
-|FM Transmitter|`false`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`false`
+|TV Tunner|`No`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
@@ -92,9 +103,11 @@
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
-|MMS|`true`
+|MMS|`Yes`
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|2 GB
@@ -103,7 +116,9 @@
 |CPU Model|`Qualcomm APQ8064`
 |CPU Clock Rate|1500 MHz
 |Graphics Processor Unit|`Adreno 320`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|2020 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`true`
+|Compass|`Yes`
 |Gyroscope|
-|Light Sensor|`true`
-|Proximity Sensor|`true`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`false`
+|Fingerprint Scanner|`No`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`true`
+|USB Port|`Yes`
+|IrDA Port|`Yes`
 |Headphone Port|3.5 mm
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
-|AAC Support|`true`
-|WAV Support|`true`
-|WMA Support|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
+|WMA Support|`Yes`
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
-|Notification Indicator|`false`
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|`MHL`
 |Games|
-|Alarm|`true`
-|Using as USB Drive|`true`
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Alarm|`Yes`
+|Using as USB Drive|`Yes`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
-|USB-host/OTG|`false`
+|USB-host/OTG|`No`

@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|teXet TM-121
+|Price|6 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|
-|Launched|2017
-|Memory Card Slot|`false`
-|Shockproof|`false`
-|Waterproof|`false`
-|Stylus|`false`
+|Memory Card Slot|`No`
+|Shockproof|`No`
+|Waterproof|`No`
+|Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|
@@ -17,84 +22,92 @@
 |Height|107 mm
 |Depth|14.3 mm
 |Weight|67 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`false`
+|Rear Camera|`No`
 |Camera Resolution|
 |Number of Rear Cameras|
-|Autofocus|`false`
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|`false`
+|Front Camera|`No`
 |Resolution of Front Camera|
-|Optical Stabilization|`false`
+|Optical Stabilization|`No`
 |Video Recording Resolution|
-|Macro Mode|`false`
-|Geo-tagging|`false`
-|RAW Format Support|`false`
+|Macro Mode|`No`
+|Geo-tagging|`No`
+|RAW Format Support|`No`
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|1.44 "
+|Display Size|1.44 in
 |Display Aspect Ratio|
-|Touch Screen|`false`
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|`false`
-|Force Touch|`false`
-|Colorful Display|`true`
+|Scratch Resistant Glass|`No`
+|Force Touch|`No`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`false`
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
-|Wi-Fi|`false`
-|Bluetooth|`false`
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`No`
 |4G LTE-A|
-|A-GPS|`false`
-|BeiDou|`false`
-|Wi-Fi Direct|`false`
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`false`
-|CDMA 1900|`false`
-|CDMA 450|`false`
-|VoLTE|`false`
-|GPRS|`false`
-|EDGE|`false`
-|HSDPA|`false`
-|HSUPA|`false`
-|HSPA+|`false`
-|FM Transmitter|`false`
+|A-GPS|`No`
+|BeiDou|`No`
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`No`
+|CDMA 1900|`No`
+|CDMA 450|`No`
+|VoLTE|`No`
+|GPRS|`No`
+|EDGE|`No`
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`false`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`No`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`false`
-|DLNA Support|`false`
-|Bluetooth Audio Streaming|`false`
+|VoIP|`No`
+|DLNA Support|`No`
+|Bluetooth Audio Streaming|`No`
 |VHF|
 |UHF|
-|MMS|`false`
-|ANT+|`false`
+|MMS|`No`
+|ANT+|`No`
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|500 mAh
@@ -114,56 +129,62 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
-|Fast Charging Support|`false`
+|Wireless Charging|`No`
+|Fast Charging Support|`No`
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`false`
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
-|Hall Sensor|`false`
-|Barometer|`false`
-|Fingerprint Scanner|`false`
-|Iris scanner|`false`
+|Compass|`No`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
+|Hall Sensor|`No`
+|Barometer|`No`
+|Fingerprint Scanner|`No`
+|Iris scanner|`No`
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`false`
-|IrDA Port|`false`
+|USB Port|`No`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`false`
+|Push-To-Talk|`No`
 |Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`false`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`No`
 |Speech Recording|
-|Stereo Sound|`false`
-|AAC Support|`false`
-|WAV Support|`false`
-|WMA Support|`false`
+|Stereo Sound|`No`
+|AAC Support|`No`
+|WAV Support|`No`
+|WMA Support|`No`
 |Speakerphone Mode|
 |MP3 Ringtones|
 |Notification Indicator|
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`false`
-|Automaric Display Orientation Change|`false`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`No`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
 |Games|
 |Alarm|
-|Using as USB Drive|`false`
-|Call Making Using Voice|`false`
-|Voice Control|`false`
+|Using as USB Drive|`No`
+|Call Making Using Voice|`No`
+|Voice Control|`No`
 |Airplane Mode|
 |Java applications|
-|MST|`false`
-|USB-host/OTG|`false`
+|MST|`No`
+|USB-host/OTG|`No`

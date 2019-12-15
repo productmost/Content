@@ -1,10 +1,15 @@
+|Property|Value|
+|--------|-----|
+|Name|DOOGEE X70
+|Price|72.1 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Golden` `Black`
+|Color|`Blue` `Gold` `Black`
 |Memory|16 GB
-|Launched|
-|Memory Card Slot|`true`
+|Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|
 |Stylus|
@@ -17,38 +22,44 @@
 |Height|144 mm
 |Depth|11.1 mm
 |Weight|167 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|8 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|8 MP
 |Number of Rear Cameras|2
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|
 |Flash Type|
-|Front Camera|`true`
-|Resolution of Front Camera|5 MegaPixels
+|Front Camera|`Yes`
+|Resolution of Front Camera|5 MP
 |Optical Stabilization|
 |Video Recording Resolution|1920x1080
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|5.5 "
+|Display Size|5.5 in
 |Display Aspect Ratio|18.5:9
-|Touch Screen|`true`
+|Touch Screen|`Yes`
 |Multitouch|
 |Display Technology|`IPS`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
 |Two Displays|
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -58,12 +69,12 @@
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`true`
-|4G LTE|`false`
+|GPS|`Yes`
+|4G LTE|`No`
 |NFC|
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
@@ -94,7 +105,9 @@
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|2 GB
@@ -103,7 +116,9 @@
 |CPU Model|`MediaTek MT6580`
 |CPU Clock Rate|1300 MHz
 |Graphics Processor Unit|`Mali-400 MP2`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|4000 mAh
@@ -116,26 +131,32 @@
 |Audio Playback Run Time|
 |Wireless Charging|
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`true`
-|Proximity Sensor|`true`
+|Gyroscope|`No`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
 |Barometer|
-|Fingerprint Scanner|`true`
+|Fingerprint Scanner|`Yes`
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
 |IrDA Port|
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -145,8 +166,8 @@
 |Buttons|
 |Vibration|
 |Flashlight|
-|MP3 Support|`true`
-|Speech Recording|`true`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
 |Stereo Sound|
 |AAC Support|
 |WAV Support|
@@ -155,15 +176,15 @@
 |MP3 Ringtones|
 |Notification Indicator|
 |QWERTY Keyboard|
-|Sync with Personal Computer|`true`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
 |Games|
-|Alarm|`true`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
 |USB-host/OTG|

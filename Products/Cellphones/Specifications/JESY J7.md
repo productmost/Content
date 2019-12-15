@@ -1,13 +1,18 @@
+|Property|Value|
+|--------|-----|
+|Name|JESY J7
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`false`
-|Waterproof|`true`
-|Stylus|`false`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`Yes`
+|Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|`Android`
@@ -17,84 +22,92 @@
 |Height|145 mm
 |Depth|14.7 mm
 |Weight|198 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|13 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|13 MP
 |Number of Rear Cameras|1
-|Autofocus|`true`
+|Autofocus|`Yes`
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
-|Front Camera|`true`
-|Resolution of Front Camera|5 MegaPixels
-|Optical Stabilization|`false`
+|Front Camera|`Yes`
+|Resolution of Front Camera|5 MP
+|Optical Stabilization|`No`
 |Video Recording Resolution|1920x1080
 |Macro Mode|
 |Geo-tagging|
-|RAW Format Support|`false`
+|RAW Format Support|`No`
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|4.7 "
+|Display Size|4.7 in
 |Display Aspect Ratio|16:9
-|Touch Screen|`true`
-|Multitouch|`true`
+|Touch Screen|`Yes`
+|Multitouch|`Yes`
 |Display Technology|`IPS`
-|Scratch Resistant Glass|`true`
-|Force Touch|`false`
-|Colorful Display|`true`
+|Scratch Resistant Glass|`Yes`
+|Force Touch|`No`
+|Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|
-|Glonass|`true`
+|Glonass|`Yes`
 |Bluetooth Standard Version|4.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|`Cat. 4`
-|GPS|`true`
-|4G LTE|`true`
-|NFC|`false`
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
-|4G LTE-A|`true`
-|A-GPS|`true`
-|BeiDou|`true`
+|GPS|`Yes`
+|4G LTE|`Yes`
+|NFC|`No`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
+|4G LTE-A|`Yes`
+|A-GPS|`Yes`
+|BeiDou|`Yes`
 |Wi-Fi Direct|
-|WiMAX|`false`
-|CDMA 800|`false`
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
-|CDMA 1900|`false`
-|CDMA 450|`false`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|`true`
-|EDGE|`true`
-|HSDPA|`true`
-|HSUPA|`true`
+|GPRS|`Yes`
+|EDGE|`Yes`
+|HSDPA|`Yes`
+|HSUPA|`Yes`
 |HSPA+|
-|FM Transmitter|`false`
+|FM Transmitter|`No`
 |Integrated Radio Antenna|
-|TV Tunner|`false`
-|FM-radio|`true`
-|Integrated Two-Way Radio Set|`false`
+|TV Tunner|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`false`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
-|MMS|`true`
-|ANT+|`false`
+|MMS|`Yes`
+|ANT+|`No`
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|3 GB
@@ -103,7 +116,9 @@
 |CPU Model|`MediaTek MT6753`
 |CPU Clock Rate|1500 MHz
 |Graphics Processor Unit|`Mali-T720`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|4100 mAh
@@ -115,55 +130,61 @@
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|
-|Fast Charging Support|`true`
+|Fast Charging Support|`Yes`
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
-|Compass|`true`
-|Gyroscope|`true`
-|Light Sensor|`true`
-|Proximity Sensor|`true`
+|Compass|`Yes`
+|Gyroscope|`Yes`
+|Light Sensor|`Yes`
+|Proximity Sensor|`Yes`
 |Hall Sensor|
-|Barometer|`true`
-|Fingerprint Scanner|`false`
-|Iris scanner|`false`
+|Barometer|`Yes`
+|Fingerprint Scanner|`No`
+|Iris scanner|`No`
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
-|IrDA Port|`false`
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|`false`
+|External Antenna Port|`No`
+
 # Others
+
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`true`
+|Push-To-Talk|`Yes`
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|`Sensory`
-|Vibration|`true`
-|Flashlight|`true`
-|MP3 Support|`true`
-|Speech Recording|`true`
-|Stereo Sound|`false`
-|AAC Support|`true`
-|WAV Support|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
+|Stereo Sound|`No`
+|AAC Support|`Yes`
+|WAV Support|`Yes`
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|`true`
-|Notification Indicator|`true`
-|QWERTY Keyboard|`false`
-|Sync with Personal Computer|`true`
-|Automaric Display Orientation Change|`true`
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`Yes`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`Yes`
+|Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
 |Alarm|
 |Using as USB Drive|
-|Call Making Using Voice|`true`
-|Voice Control|`true`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
 |Airplane Mode|
 |Java applications|
-|MST|`false`
-|USB-host/OTG|`false`
+|MST|`No`
+|USB-host/OTG|`No`

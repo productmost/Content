@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Ginzzu RS8502
+|Price|162 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|32 GB
-|Launched|
-|Memory Card Slot|`true`
-|Shockproof|`true`
-|Waterproof|`true`
+|Memory Card Slot|`Yes`
+|Shockproof|`Yes`
+|Waterproof|`Yes`
 |Stylus|
 |Type of Memory Card Slot|`Combined with SIM Card`
 |Product Line|
@@ -17,38 +22,44 @@
 |Height|154.9 mm
 |Depth|11.9 mm
 |Weight|
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|8 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|8 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|
 |Flash Type|
-|Front Camera|`true`
-|Resolution of Front Camera|2 MegaPixels
+|Front Camera|`Yes`
+|Resolution of Front Camera|2 MP
 |Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|5 "
+|Display Size|5 in
 |Display Aspect Ratio|16:9
-|Touch Screen|`true`
+|Touch Screen|`Yes`
 |Multitouch|
 |Display Technology|`IPS`
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`micro SIM+nano SIM`
@@ -59,24 +70,24 @@
 |Wi-Fi Standard Version|802.11n
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`true`
+|4G LTE|`Yes`
 |NFC|
-|3G|`true`
-|Wi-Fi|`true`
-|Bluetooth|`true`
+|3G|`Yes`
+|Wi-Fi|`Yes`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
 |Wi-Fi Direct|
 |WiMAX|
 |CDMA 800|
-|GSM 900|`true`
-|GSM 1800|`true`
-|GSM 1900|`true`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
 |CDMA 1900|
 |CDMA 450|
 |VoLTE|
-|GPRS|`true`
+|GPRS|`Yes`
 |EDGE|
 |HSDPA|
 |HSUPA|
@@ -94,7 +105,9 @@
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|3 GB
@@ -103,7 +116,9 @@
 |CPU Model|`MediaTek MT6739`
 |CPU Clock Rate|1500 MHz
 |Graphics Processor Unit|`PowerVR GE8100`
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|4000 mAh
@@ -116,8 +131,10 @@
 |Audio Playback Run Time|
 |Wireless Charging|
 |Fast Charging Support|
-|Charging via USB|`true`
+|Charging via USB|`Yes`
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
@@ -128,14 +145,18 @@
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
-|USB Port|`true`
+|USB Port|`Yes`
 |IrDA Port|
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -145,8 +166,8 @@
 |Buttons|
 |Vibration|
 |Flashlight|
-|MP3 Support|`true`
-|Speech Recording|`true`
+|MP3 Support|`Yes`
+|Speech Recording|`Yes`
 |Stereo Sound|
 |AAC Support|
 |WAV Support|
@@ -155,15 +176,15 @@
 |MP3 Ringtones|
 |Notification Indicator|
 |QWERTY Keyboard|
-|Sync with Personal Computer|`true`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
 |Games|
-|Alarm|`true`
-|Using as USB Drive|`true`
-|Call Making Using Voice|`true`
-|Voice Control|`true`
-|Airplane Mode|`true`
+|Alarm|`Yes`
+|Using as USB Drive|`Yes`
+|Call Making Using Voice|`Yes`
+|Voice Control|`Yes`
+|Airplane Mode|`Yes`
 |Java applications|
 |MST|
 |USB-host/OTG|

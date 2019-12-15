@@ -1,10 +1,15 @@
+|Property|Value|
+|--------|-----|
+|Name|BQ 2810 BOOM XL
+|Price|28.4 USD
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
-|Color|`Golden` `Red` `Silver` `Gray` `Black`
+|Color|`Gold` `Red` `Silver` `Gray` `Black`
 |Memory|
-|Launched|
-|Memory Card Slot|`true`
+|Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|
 |Stylus|
@@ -17,11 +22,13 @@
 |Height|136 mm
 |Depth|17.2 mm
 |Weight|156 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
-|Rear Camera|`true`
-|Camera Resolution|0.3 MegaPixels
+|Rear Camera|`Yes`
+|Camera Resolution|0.3 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|
@@ -33,22 +40,26 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
-|Display Size|2.8 "
+|Display Size|2.8 in
 |Display Aspect Ratio|
 |Touch Screen|
 |Multitouch|
 |Display Technology|
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`true`
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|`false`
-|Curved Display|`false`
-|Colorful Secondary Display|`false`
+|Two Displays|`No`
+|Curved Display|`No`
+|Colorful Secondary Display|`No`
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
@@ -59,19 +70,19 @@
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
+|4G LTE|`No`
 |NFC|
 |3G|
 |Wi-Fi|
-|Bluetooth|`true`
+|Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
 |Wi-Fi Direct|
 |WiMAX|
 |CDMA 800|
-|GSM 900|`true`
-|GSM 1800|`true`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
 |GSM 1900|
 |CDMA 1900|
 |CDMA 450|
@@ -84,7 +95,7 @@
 |FM Transmitter|
 |Integrated Radio Antenna|
 |TV Tunner|
-|FM-radio|`true`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
@@ -94,7 +105,9 @@
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1700 mAh
@@ -117,7 +132,9 @@
 |Wireless Charging|
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
@@ -128,14 +145,18 @@
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
 |IrDA Port|
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -143,8 +164,8 @@
 |Specific Absorption Rate|
 |Changeable Parts|
 |Buttons|
-|Vibration|`true`
-|Flashlight|`true`
+|Vibration|`Yes`
+|Flashlight|`Yes`
 |MP3 Support|
 |Speech Recording|
 |Stereo Sound|

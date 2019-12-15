@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Siemens S45i
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
 |Memory Card Slot|
 |Shockproof|
-|Waterproof|`false`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,7 +22,9 @@
 |Height|109 mm
 |Depth|20 mm
 |Weight|93 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
 |Rear Camera|
@@ -33,7 +40,9 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
@@ -43,46 +52,48 @@
 |Display Technology|
 |Scratch Resistant Glass|
 |Force Touch|
-|Colorful Display|`false`
+|Colorful Display|`No`
 |Touch Screen Technology|
 |Two Displays|
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
 |Wi-Fi|
 |Bluetooth|
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
 |CDMA 800|
-|GSM 900|`true`
-|GSM 1800|`true`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
 |GSM 1900|
 |CDMA 1900|
 |CDMA 450|
 |VoLTE|
-|GPRS|`true`
-|EDGE|`false`
+|GPRS|`Yes`
+|EDGE|`No`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
 |FM-radio|
 |Integrated Two-Way Radio Set|
@@ -94,7 +105,9 @@
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|840 mAh
@@ -114,28 +129,34 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
-|IrDA Port|`true`
+|IrDA Port|`Yes`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
@@ -143,7 +164,7 @@
 |Specific Absorption Rate|
 |Changeable Parts|
 |Buttons|
-|Vibration|`true`
+|Vibration|`Yes`
 |Flashlight|
 |MP3 Support|
 |Speech Recording|
@@ -151,17 +172,17 @@
 |AAC Support|
 |WAV Support|
 |WMA Support|
-|Speakerphone Mode|`true`
+|Speakerphone Mode|`Yes`
 |MP3 Ringtones|
 |Notification Indicator|
 |QWERTY Keyboard|
-|Sync with Personal Computer|`true`
+|Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`true`
-|Alarm|`true`
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`true`
+|Call Making Using Voice|`Yes`
 |Voice Control|
 |Airplane Mode|
 |Java applications|

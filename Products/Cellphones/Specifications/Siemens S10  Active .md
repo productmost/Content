@@ -1,12 +1,17 @@
+|Property|Value|
+|--------|-----|
+|Name|Siemens S10 'Active'
+|Price|
+|Launched|
+
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
-|Launched|
 |Memory Card Slot|
 |Shockproof|
-|Waterproof|`true`
+|Waterproof|`Yes`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
@@ -17,7 +22,9 @@
 |Height|147 mm
 |Depth|25 mm
 |Weight|185 g
+
 # Camera
+
 |Property| Value |
 |--------|-------|
 |Rear Camera|
@@ -33,7 +40,9 @@
 |Macro Mode|
 |Geo-tagging|
 |RAW Format Support|
+
 # Display
+
 |Property| Value |
 |--------|-------|
 |Display Size|
@@ -48,43 +57,45 @@
 |Two Displays|
 |Curved Display|
 |Colorful Secondary Display|
+
 # Communications
+
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
-|Glonass|`false`
+|Glonass|`No`
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
 |GPS|
-|4G LTE|`false`
-|NFC|`false`
-|3G|`false`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
 |Wi-Fi|
 |Bluetooth|
 |4G LTE-A|
 |A-GPS|
 |BeiDou|
-|Wi-Fi Direct|`false`
+|Wi-Fi Direct|`No`
 |WiMAX|
 |CDMA 800|
-|GSM 900|`true`
-|GSM 1800|`false`
-|GSM 1900|`false`
+|GSM 900|`Yes`
+|GSM 1800|`No`
+|GSM 1900|`No`
 |CDMA 1900|
 |CDMA 450|
 |VoLTE|
-|GPRS|`false`
-|EDGE|`false`
+|GPRS|`No`
+|EDGE|`No`
 |HSDPA|
 |HSUPA|
-|HSPA+|`false`
+|HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`false`
+|Integrated Radio Antenna|`No`
 |TV Tunner|
-|FM-radio|`false`
+|FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
 |VoIP|
@@ -94,7 +105,9 @@
 |UHF|
 |MMS|
 |ANT+|
+
 # Hardware
+
 |Property| Value |
 |--------|-------|
 |RAM|
@@ -103,7 +116,9 @@
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
+
 # Battery & Charging
+
 |Property| Value |
 |--------|-------|
 |Battery Capacity|1800 mAh
@@ -114,55 +129,61 @@
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|`false`
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
+
 # Sensors
+
 |Property| Value |
 |--------|-------|
 |Compass|
-|Gyroscope|`false`
-|Light Sensor|`false`
-|Proximity Sensor|`false`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
 |Barometer|
 |Fingerprint Scanner|
 |Iris scanner|
+
 # Ports
+
 |Property| Value |
 |--------|-------|
 |USB Port|
-|IrDA Port|`false`
+|IrDA Port|`No`
 |Headphone Port|
 |External Antenna Port|
+
 # Others
+
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
-|Changeable Parts|`false`
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|`false`
+|Vibration|`No`
 |Flashlight|
-|MP3 Support|`false`
+|MP3 Support|`No`
 |Speech Recording|
 |Stereo Sound|
-|AAC Support|`false`
-|WAV Support|`false`
-|WMA Support|`false`
-|Speakerphone Mode|`false`
+|AAC Support|`No`
+|WAV Support|`No`
+|WMA Support|`No`
+|Speakerphone Mode|`No`
 |MP3 Ringtones|
 |Notification Indicator|
 |QWERTY Keyboard|
-|Sync with Personal Computer|`false`
+|Sync with Personal Computer|`No`
 |Automaric Display Orientation Change|
 |Video Output Type|
-|Games|`false`
-|Alarm|`true`
+|Games|`No`
+|Alarm|`Yes`
 |Using as USB Drive|
-|Call Making Using Voice|`false`
-|Voice Control|`false`
+|Call Making Using Voice|`No`
+|Voice Control|`No`
 |Airplane Mode|
 |Java applications|
 |MST|
