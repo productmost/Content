@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Access 50 3G
-|Price|65.6 USD
-|Launched|
+|Price|64.9 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

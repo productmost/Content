@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL U18
-|Price|150 USD
+|Price|175.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

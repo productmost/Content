@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Oysters Arctic 450
-|Price|19.4 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

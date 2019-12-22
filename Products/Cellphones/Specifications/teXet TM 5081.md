@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-5081
-|Price|59.3 USD
-|Launched|
+|Price|82.6 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

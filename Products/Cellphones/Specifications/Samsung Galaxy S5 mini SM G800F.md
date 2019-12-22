@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S5 mini SM-G800F
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Runbo Q5 LTE
-|Price|328.8 USD
+|Price|418.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

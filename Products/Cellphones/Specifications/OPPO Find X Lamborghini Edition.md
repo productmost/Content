@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|OPPO Find X Lamborghini Edition
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

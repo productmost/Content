@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark S503
-|Price|96 USD
+|Price|97 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

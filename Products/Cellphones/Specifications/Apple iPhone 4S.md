@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|`White`
+|Color|
 |Memory|8 GB;16 GB;32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

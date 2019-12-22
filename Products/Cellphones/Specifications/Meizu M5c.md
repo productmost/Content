@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Meizu M5c
 |Price|114 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red`
+|Color|`Red` `Pink` `Black` `Gold` `Blue`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

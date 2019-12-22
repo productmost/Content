@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress New
-|Price|79.4 USD
+|Price|91.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

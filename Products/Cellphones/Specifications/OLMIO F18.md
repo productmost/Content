@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OLMIO F18
-|Price|26.6 USD
+|Price|27.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

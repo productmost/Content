@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Torex FS1
-|Price|1350.6 USD
+|Price|1349.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

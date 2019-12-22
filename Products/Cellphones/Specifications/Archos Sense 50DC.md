@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Sense 50DC
-|Price|89.2 USD
+|Price|110.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

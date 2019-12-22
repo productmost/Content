@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI C22
-|Price|10.4 USD
+|Price|10.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 287
-|Price|20.3 USD
+|Price|20.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

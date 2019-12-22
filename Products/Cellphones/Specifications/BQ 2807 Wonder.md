@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2807 Wonder
-|Price|40.4 USD
+|Price|33 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray`
+|Color|`Brown` `Red` `Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

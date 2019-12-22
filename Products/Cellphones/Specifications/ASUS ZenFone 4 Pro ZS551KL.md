@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 4 Pro ZS551KL
 |Price|495.3 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White` `Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`

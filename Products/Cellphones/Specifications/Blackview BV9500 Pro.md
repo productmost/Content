@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV9500 Pro
-|Price|389.6 USD
-|Launched|
+|Price|390.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow`
+|Color|`Green` `Black`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

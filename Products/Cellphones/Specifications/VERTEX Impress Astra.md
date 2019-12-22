@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Astra
-|Price|80.9 USD
+|Price|88.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

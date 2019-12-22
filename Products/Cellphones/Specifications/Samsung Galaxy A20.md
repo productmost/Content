@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A20
-|Price|180 USD
-|Launched|
+|Price|210.1 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue` `Black`
+|Color|`Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,12 +17,12 @@
 |Type of Memory Card Slot|`Separate`
 |Product Line|`Galaxy A`
 |Operating System|`Android`
-|Operating System Version|`Android 9.0`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|74.7 mm
 |Height|158.4 mm
 |Depth|7.8 mm
-|Weight|169 g
+|Weight|
 
 # Camera
 
@@ -67,7 +68,7 @@
 |Dual SIM Card Mode|`Dual SIM Standby`
 |Glonass|`Yes`
 |Bluetooth Standard Version|5.0
-|Wi-Fi Standard Version|802.11n
+|Wi-Fi Standard Version|802.11ac
 |LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
@@ -78,7 +79,7 @@
 |4G LTE-A|
 |A-GPS|`Yes`
 |BeiDou|`Yes`
-|Wi-Fi Direct|`Yes`
+|Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
 |GSM 900|`Yes`
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -125,10 +126,10 @@
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
-|Speaking Run Time|26 h
+|Speaking Run Time|
 |Type of Battery|
 |Additional Battery Capacity|
-|Audio Playback Run Time|82 h
+|Audio Playback Run Time|
 |Wireless Charging|`No`
 |Fast Charging Support|`No`
 |Charging via USB|`Yes`
@@ -137,11 +138,11 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|`No`
-|Gyroscope|`Yes`
+|Compass|
+|Gyroscope|`No`
 |Light Sensor|`Yes`
 |Proximity Sensor|`Yes`
-|Hall Sensor|`Yes`
+|Hall Sensor|`No`
 |Barometer|`No`
 |Fingerprint Scanner|`Yes`
 |Iris scanner|`No`
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|`On Display`
@@ -172,7 +173,7 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`

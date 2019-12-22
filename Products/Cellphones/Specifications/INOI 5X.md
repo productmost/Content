@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 5X
-|Price|89.9 USD
-|Launched|
+|Price|85.6 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

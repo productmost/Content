@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 105
-|Price|12.5 USD
+|Price|12 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

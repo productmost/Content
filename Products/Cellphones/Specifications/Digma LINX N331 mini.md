@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX N331 mini
-|Price|9.2 USD
-|Launched|
+|Price|11.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

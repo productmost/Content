@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze A1
-|Price|14.7 USD
+|Price|14.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Power 3s
-|Price|144.3 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

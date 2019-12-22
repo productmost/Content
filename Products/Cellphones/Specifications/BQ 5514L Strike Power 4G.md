@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5514L Strike Power 4G
-|Price|94.4 USD
+|Price|105 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red` `Silver` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

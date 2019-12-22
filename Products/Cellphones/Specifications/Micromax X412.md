@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax X412
-|Price|8.3 USD
+|Price|9.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

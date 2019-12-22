@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BQ 5003L Shark Pro
 |Price|127.5 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Torch 9810
-|Price|193.7 USD
+|Price|165.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

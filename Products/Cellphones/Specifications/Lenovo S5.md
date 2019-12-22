@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Lenovo S5
-|Price|134.4 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

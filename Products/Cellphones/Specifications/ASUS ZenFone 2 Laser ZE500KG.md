@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 2 Laser ZE500KG
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

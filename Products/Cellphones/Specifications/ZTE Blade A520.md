@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade A520
-|Price|74.9 USD
+|Price|89.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray`
+|Color|`Gold` `Gray` `Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

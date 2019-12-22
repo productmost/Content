@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Diamond Alpha
-|Price|178.1 USD
-|Launched|
+|Price|199.7 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

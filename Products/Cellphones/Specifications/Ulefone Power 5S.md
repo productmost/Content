@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Power 5S
-|Price|300.2 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

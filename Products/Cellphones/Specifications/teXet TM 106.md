@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|teXet TM-106
 |Price|14.3 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

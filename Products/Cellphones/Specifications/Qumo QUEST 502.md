@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Qumo QUEST 502
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|`Android`
-|Operating System Version|`Android 4.2`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|73 mm
 |Height|140 mm

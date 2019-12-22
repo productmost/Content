@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|ONEXT Care-Phone 7
-|Price|29.9 USD
+|Price|28.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

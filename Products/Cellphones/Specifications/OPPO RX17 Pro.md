@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|OPPO RX17 Pro
 |Price|750.6 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Green` `Blue` `Purple`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

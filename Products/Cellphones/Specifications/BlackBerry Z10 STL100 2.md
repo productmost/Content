@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BlackBerry Z10 STL100-2
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

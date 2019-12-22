@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LG G7 Fit
-|Price|210.1 USD
-|Launched|
+|Price|345.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

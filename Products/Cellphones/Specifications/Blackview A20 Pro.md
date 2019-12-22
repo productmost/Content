@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview A20 Pro
-|Price|68.5 USD
+|Price|86.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Gray`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

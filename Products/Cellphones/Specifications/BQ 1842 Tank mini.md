@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1842 Tank mini
-|Price|19.4 USD
+|Price|18.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Yellow` `Green` `Orange` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

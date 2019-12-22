@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Motorola RAZR i
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

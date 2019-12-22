@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB;8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

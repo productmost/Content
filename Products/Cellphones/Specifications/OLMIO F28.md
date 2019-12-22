@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OLMIO F28
-|Price|33.8 USD
+|Price|33.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

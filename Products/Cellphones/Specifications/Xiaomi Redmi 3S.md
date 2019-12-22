@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi 3S
-|Price|90 USD
-|Launched|
+|Price|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

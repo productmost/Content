@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Bold 9900
-|Price|187.7 USD
-|Launched|
+|Price|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

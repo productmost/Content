@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Ericsson Vivaz
 |Price|
-|Launched|
+|Launched|2010
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Honor 7A Pro
-|Price|120 USD
-|Launched|
+|Price|135 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Gold` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -21,7 +22,7 @@
 |Width|73 mm
 |Height|152.4 mm
 |Depth|7.8 mm
-|Weight|155 g
+|Weight|
 
 # Camera
 
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|18:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`IPS`
+|Display Technology|
 |Scratch Resistant Glass|`No`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -95,11 +96,11 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -126,11 +127,11 @@
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`No`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

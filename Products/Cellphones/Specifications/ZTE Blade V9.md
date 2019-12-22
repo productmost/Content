@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade V9
-|Price|135 USD
-|Launched|
+|Price|184.5 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Gold` `Black`
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

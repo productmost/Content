@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A7 (2016) SM-A710F
 |Price|300.2 USD
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Gold` `Black`
+|Color|`Gold`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

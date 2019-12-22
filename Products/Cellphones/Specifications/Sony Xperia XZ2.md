@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia XZ2
 |Price|531.5 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

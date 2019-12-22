@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia TX
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

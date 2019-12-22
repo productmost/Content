@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Google Pixel 3
 |Price|763.1 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`

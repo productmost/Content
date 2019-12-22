@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1845 One+
-|Price|10.4 USD
+|Price|10.5 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Yellow` `Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

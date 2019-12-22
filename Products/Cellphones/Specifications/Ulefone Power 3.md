@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Power 3
-|Price|163.5 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

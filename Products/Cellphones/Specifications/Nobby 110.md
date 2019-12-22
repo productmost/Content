@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 110
-|Price|14.9 USD
+|Price|15.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Red` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

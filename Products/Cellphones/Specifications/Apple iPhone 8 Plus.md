@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Apple iPhone 8 Plus
-|Price|675.5 USD
-|Launched|
+|Price|747.6 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Red` `Silver` `Gray` `Black`
-|Memory|64 GB;256 GB;128 GB
+|Memory|64 GB;256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -174,7 +175,7 @@
 |WMA Support|
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`No`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

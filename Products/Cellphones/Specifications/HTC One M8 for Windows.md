@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HTC One M8 for Windows
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

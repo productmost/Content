@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5521L Rich Max
-|Price|76.9 USD
+|Price|86.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Gold` `Red` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Just5 Cosmo L707
-|Price|129.2 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

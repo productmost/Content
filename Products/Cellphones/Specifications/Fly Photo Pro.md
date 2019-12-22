@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Fly Photo Pro
 |Price|74.9 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Red` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

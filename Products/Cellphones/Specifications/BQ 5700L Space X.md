@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5700L Space X
-|Price|150 USD
-|Launched|
+|Price|168.6 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

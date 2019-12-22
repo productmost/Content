@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia XZ3
 |Price|667.4 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black` `White` `Silver`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone S7
-|Price|92.5 USD
-|Launched|
+|Price|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

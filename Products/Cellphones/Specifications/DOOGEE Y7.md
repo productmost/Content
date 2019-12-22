@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE Y7
-|Price|106.6 USD
+|Price|132.1 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Purple` `Black`
+|Color|`Green` `Blue` `Purple` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

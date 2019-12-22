@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S III GT-I9300
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

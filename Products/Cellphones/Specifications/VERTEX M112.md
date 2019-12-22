@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX M112
-|Price|13.4 USD
+|Price|9.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

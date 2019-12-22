@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|JOY'S S12
-|Price|22.4 USD
+|Price|23.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

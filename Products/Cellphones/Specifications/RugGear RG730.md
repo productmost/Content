@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|RugGear RG730
-|Price|315.2 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`No`

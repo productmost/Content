@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Elegance E7
-|Price|76.4 USD
+|Price|114.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

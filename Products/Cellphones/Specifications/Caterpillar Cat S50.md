@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Caterpillar Cat S50
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|

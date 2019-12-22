@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|LG Q7+
 |Price|315.3 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

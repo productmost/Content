@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Green` `Orange` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

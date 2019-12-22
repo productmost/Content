@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Y6 II
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -168,10 +169,10 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
-|AAC Support|`Yes`
-|WAV Support|`Yes`
-|WMA Support|`Yes`
+|Stereo Sound|
+|AAC Support|
+|WAV Support|
+|WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2831 Step XL+
-|Price|15 USD
+|Price|17.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Red` `Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

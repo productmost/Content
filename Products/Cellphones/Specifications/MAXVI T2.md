@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI T2
-|Price|23.6 USD
+|Price|23.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Blue` `Black`
+|Color|`Green` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

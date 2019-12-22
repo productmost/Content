@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel Pixi 4 4034D
-|Price|29.9 USD
+|Price|34.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -168,10 +169,10 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
-|AAC Support|`Yes`
-|WAV Support|`Yes`
-|WMA Support|`Yes`
+|Stereo Sound|
+|AAC Support|
+|WAV Support|
+|WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|

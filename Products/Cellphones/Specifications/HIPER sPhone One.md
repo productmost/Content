@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HIPER sPhone One
-|Price|14.9 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

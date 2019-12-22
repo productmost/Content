@@ -2,18 +2,19 @@
 |--------|-----|
 |Name|Samsung Galaxy J3 (2017)
 |Price|144.1 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
-|Type of Memory Card Slot|`Separate`
+|Type of Memory Card Slot|
 |Product Line|
 |Operating System|`Android`
 |Operating System Version|`Android 8.0`
@@ -76,7 +77,7 @@
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`Yes`
+|A-GPS|
 |BeiDou|`Yes`
 |Wi-Fi Direct|`Yes`
 |WiMAX|`No`
@@ -86,7 +87,7 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
@@ -125,7 +126,7 @@
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|
-|Speaking Run Time|15 h
+|Speaking Run Time|
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|61 h

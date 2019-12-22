@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Alpha A6
-|Price|67.4 USD
+|Price|81.1 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

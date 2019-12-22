@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone Selfie ZD551KL
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

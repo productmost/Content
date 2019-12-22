@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|OUKITEL U7
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

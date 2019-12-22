@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Turbo X Ray 4G
-|Price|74.9 USD
-|Launched|
+|Price|78.7 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

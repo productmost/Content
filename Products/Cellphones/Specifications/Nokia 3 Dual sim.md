@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 3 Dual sim
-|Price|100.5 USD
-|Launched|
+|Price|142.6 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Orange` `Blue`
+|Color|`Beige` `Orange` `Silver` `Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

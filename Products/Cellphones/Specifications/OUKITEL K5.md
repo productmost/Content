@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL K5
-|Price|80.5 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

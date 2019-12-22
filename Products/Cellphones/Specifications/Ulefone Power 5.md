@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Power 5
-|Price|345.2 USD
-|Launched|
+|Price|283.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

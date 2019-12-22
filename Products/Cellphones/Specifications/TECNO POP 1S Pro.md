@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|TECNO POP 1S Pro
-|Price|91.1 USD
+|Price|97.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

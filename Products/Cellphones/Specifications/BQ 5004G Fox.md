@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5004G Fox
-|Price|53.1 USD
+|Price|58.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Pink` `Silver` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ZTE Blade A6 Lite
 |Price|101.1 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Rosso NFC
-|Price|76.9 USD
-|Launched|
+|Price|75.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray` `Black`
+|Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

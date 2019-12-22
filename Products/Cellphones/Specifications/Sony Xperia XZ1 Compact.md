@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia XZ1 Compact
 |Price|405.2 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

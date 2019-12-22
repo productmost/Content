@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Jinga Simple F140
-|Price|7.5 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

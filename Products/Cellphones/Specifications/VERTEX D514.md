@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX D514
-|Price|29.6 USD
+|Price|29.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

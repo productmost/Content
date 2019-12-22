@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy J2 Prime SM-G532F
-|Price|103.5 USD
+|Price|111 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Gold` `Silver` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

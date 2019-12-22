@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Gresso Meridian Titanium M1
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|NOA H4se
-|Price|225.2 USD
+|Price|117 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier P10
-|Price|89.9 USD
+|Price|107.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

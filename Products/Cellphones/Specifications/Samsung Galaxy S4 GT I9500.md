@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S4 GT-I9500
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;64 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

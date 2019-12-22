@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI Y6 (2019)
-|Price|133.3 USD
-|Launched|
+|Price|142.5 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Brown` `Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|8 MP
 |Optical Stabilization|`No`
 |Video Recording Resolution|1920x1080
-|Macro Mode|`Yes`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -93,13 +94,13 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -172,7 +173,7 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`

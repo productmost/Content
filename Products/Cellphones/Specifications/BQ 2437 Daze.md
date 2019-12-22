@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2437 Daze
-|Price|20.9 USD
+|Price|25.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Beige` `Brown` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

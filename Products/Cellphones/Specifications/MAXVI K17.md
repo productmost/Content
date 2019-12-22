@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI K17
-|Price|22.5 USD
+|Price|21.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Red` `Black`
+|Color|`Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

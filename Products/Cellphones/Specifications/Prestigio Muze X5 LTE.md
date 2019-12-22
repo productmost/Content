@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze X5 LTE
-|Price|59.9 USD
+|Price|70.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

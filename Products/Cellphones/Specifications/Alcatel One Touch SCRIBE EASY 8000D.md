@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Alcatel One Touch SCRIBE EASY 8000D
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -104,7 +105,7 @@
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|`Plastic`
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

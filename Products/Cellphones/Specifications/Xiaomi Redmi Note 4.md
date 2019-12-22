@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Xiaomi Redmi Note 4
 |Price|
-|Launched|
+|Launched|2017;2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Gray` `Black`
 |Memory|64 GB;32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

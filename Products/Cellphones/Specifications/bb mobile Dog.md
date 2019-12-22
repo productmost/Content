@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone for Children`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|HIPER sPhone Vinyl
-|Price|23.6 USD
+|Price|28.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Silver` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

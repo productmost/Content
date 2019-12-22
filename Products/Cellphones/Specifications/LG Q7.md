@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LG Q7
-|Price|210.1 USD
-|Launched|
+|Price|242.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

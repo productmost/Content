@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|JESY J9S
-|Price|299.5 USD
+|Price|337.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`Yes`

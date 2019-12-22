@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Apple iPhone SE
-|Price|292.6 USD
-|Launched|
+|Price|316 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Pink` `Gold` `Gray` `Black` `Silver`
+|Color|
 |Memory|128 GB;64 GB;32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

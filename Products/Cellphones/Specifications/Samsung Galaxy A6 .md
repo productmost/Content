@@ -2,18 +2,19 @@
 |--------|-----|
 |Name|Samsung Galaxy A6+
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
-|Type of Memory Card Slot|`Separate` `Combined with SIM Card`
+|Type of Memory Card Slot|`Separate`
 |Product Line|`Galaxy A`
 |Operating System|`Android`
 |Operating System Version|`Android 8.0`

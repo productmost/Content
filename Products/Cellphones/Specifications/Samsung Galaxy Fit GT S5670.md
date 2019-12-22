@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Fit GT-S5670
 |Price|
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

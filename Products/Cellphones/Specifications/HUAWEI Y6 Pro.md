@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Y6 Pro
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -171,7 +172,7 @@
 |Stereo Sound|
 |AAC Support|`Yes`
 |WAV Support|`Yes`
-|WMA Support|`Yes`
+|WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

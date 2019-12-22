@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS508 Cirrus 6
-|Price|67.4 USD
+|Price|64.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

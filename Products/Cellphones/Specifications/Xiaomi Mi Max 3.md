@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Mi Max 3
-|Price|202.7 USD
-|Launched|
+|Price|280.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black` `Blue`
+|Color|`Gold` `Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`IPS`
-|Scratch Resistant Glass|`No`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -93,7 +94,7 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|`No`
@@ -124,7 +125,7 @@
 |Battery Capacity|5500 mAh
 |Fast Charging Standard|`Qualcomm Quick Charge 3.0`
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

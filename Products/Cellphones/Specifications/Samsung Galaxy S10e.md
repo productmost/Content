@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy S10e
-|Price|690.5 USD
-|Launched|
+|Price|854.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Yellow` `Green` `Black`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -36,7 +37,7 @@
 |Front Camera|`Yes`
 |Resolution of Front Camera|10 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|3840x2160
+|Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
 |RAW Format Support|`No`
@@ -77,7 +78,7 @@
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
 |A-GPS|`Yes`
-|BeiDou|`Yes`
+|BeiDou|
 |Wi-Fi Direct|`Yes`
 |WiMAX|`No`
 |CDMA 800|`No`
@@ -95,7 +96,7 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
@@ -172,9 +173,9 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`No`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

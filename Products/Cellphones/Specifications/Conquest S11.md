@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Conquest S11
-|Price|555.4 USD
+|Price|599.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

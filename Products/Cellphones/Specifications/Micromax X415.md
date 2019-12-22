@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax X415
-|Price|7.4 USD
+|Price|12 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue`
+|Color|`Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nubia Z17S
-|Price|315.3 USD
-|Launched|
+|Price|409.6 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue`
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

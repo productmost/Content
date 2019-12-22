@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Micromax X405
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|
 |Shockproof|`No`
 |Waterproof|`No`

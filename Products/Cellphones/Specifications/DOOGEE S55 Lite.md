@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Orange` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

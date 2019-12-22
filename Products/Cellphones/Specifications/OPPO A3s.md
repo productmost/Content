@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OPPO A3s
-|Price|160.7 USD
-|Launched|
+|Price|165 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Purple`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

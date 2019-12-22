@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Mate 10 Pro
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

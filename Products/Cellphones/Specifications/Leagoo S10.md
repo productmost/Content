@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

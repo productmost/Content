@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 6
-|Price|105 USD
+|Price|89.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

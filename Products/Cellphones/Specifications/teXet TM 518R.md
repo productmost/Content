@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-518R
-|Price|37.4 USD
+|Price|40.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

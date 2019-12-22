@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE S60
-|Price|316.8 USD
+|Price|369.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Black`
+|Color|`Gold` `Silver` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

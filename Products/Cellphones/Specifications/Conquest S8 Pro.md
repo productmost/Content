@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Conquest S8 Pro
-|Price|525.4 USD
+|Price|539 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

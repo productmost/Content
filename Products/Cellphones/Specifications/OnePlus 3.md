@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OnePlus 3
-|Price|301.7 USD
-|Launched|
+|Price|405.3 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

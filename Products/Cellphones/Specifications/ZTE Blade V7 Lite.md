@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade V7 Lite
-|Price|82.4 USD
-|Launched|
+|Price|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

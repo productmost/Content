@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|TP-LINK Neffos C5A
 |Price|59.9 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

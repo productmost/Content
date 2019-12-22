@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI V10
-|Price|19.5 USD
+|Price|19.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

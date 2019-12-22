@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Red` `Pink` `Silver` `Gray` `Blue` `Purple` `Black`
+|Color|`Gold` `Red` `Silver` `Gray` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

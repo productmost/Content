@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nubia Z5
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

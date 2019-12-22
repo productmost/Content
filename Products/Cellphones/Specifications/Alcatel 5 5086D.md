@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel 5 5086D
-|Price|165.4 USD
-|Launched|
+|Price|144 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

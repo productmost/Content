@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi 5 Plus
-|Price|130.6 USD
-|Launched|
+|Price|165 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Gold` `Black`
+|Color|`Blue` `Gold` `Pink` `Black`
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Combined with SIM Card`
 |Product Line|`Redmi`
 |Operating System|`Android`
-|Operating System Version|`Android 7.1`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|75.45 mm
 |Height|158.5 mm
@@ -62,20 +63,20 @@
 
 |Property| Value |
 |--------|-------|
-|SIM Card Form Factor|`nano SIM`
+|SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
 |Glonass|`Yes`
 |Bluetooth Standard Version|4.2
 |Wi-Fi Standard Version|802.11n
-|LTE Advanced Speed|`Cat. 6`
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
-|NFC|`No`
+|NFC|
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
-|4G LTE-A|`Yes`
+|4G LTE-A|
 |A-GPS|`Yes`
 |BeiDou|`Yes`
 |Wi-Fi Direct|`Yes`
@@ -86,21 +87,21 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`Yes`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`No`
-|Bluetooth Audio Streaming|`Yes`
+|DLNA Support|
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -111,7 +112,7 @@
 |Property| Value |
 |--------|-------|
 |RAM|4 GB;3 GB
-|Memory Card Maximum Capacity|128 GB
+|Memory Card Maximum Capacity|
 |CPU Cores|8
 |CPU Model|`Qualcomm Snapdragon 625 MSM8953`
 |CPU Clock Rate|2000 MHz
@@ -124,7 +125,7 @@
 |Battery Capacity|4000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
 |Type of Battery|
 |Additional Battery Capacity|
@@ -137,11 +138,11 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|`No`
-|Gyroscope|`No`
+|Compass|
+|Gyroscope|
 |Light Sensor|`Yes`
 |Proximity Sensor|`Yes`
-|Hall Sensor|`No`
+|Hall Sensor|
 |Barometer|`No`
 |Fingerprint Scanner|`Yes`
 |Iris scanner|`No`
@@ -168,13 +169,13 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
+|Stereo Sound|
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

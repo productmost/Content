@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Y6 Prime (2018)
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -137,7 +138,7 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|`No` `Yes`
+|Compass|`No`
 |Gyroscope|`No`
 |Light Sensor|`Yes`
 |Proximity Sensor|`Yes`

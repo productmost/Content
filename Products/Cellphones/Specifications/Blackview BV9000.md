@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

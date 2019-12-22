@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Passport
-|Price|373.9 USD
-|Launched|
+|Price|348.1 USD
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

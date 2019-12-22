@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Jinga Hit 4G
-|Price|60 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

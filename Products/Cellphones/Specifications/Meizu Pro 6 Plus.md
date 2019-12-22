@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Meizu Pro 6 Plus
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

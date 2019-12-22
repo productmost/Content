@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Qumo Push X7
-|Price|15.8 USD
+|Price|13.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

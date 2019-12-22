@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE X10
-|Price|40.2 USD
+|Price|64 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Silver` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

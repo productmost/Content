@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|OnePlus 5
 |Price|420.3 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

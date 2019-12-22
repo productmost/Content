@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A6
 |Price|210.1 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`Gold` `Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -21,7 +22,7 @@
 |Width|70.8 mm
 |Height|149.9 mm
 |Depth|7.7 mm
-|Weight|162 g
+|Weight|
 
 # Camera
 
@@ -36,8 +37,8 @@
 |Front Camera|`Yes`
 |Resolution of Front Camera|16 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|1920x1080
-|Macro Mode|`Yes`
+|Video Recording Resolution|
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`AMOLED`
-|Scratch Resistant Glass|`No`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -76,9 +77,9 @@
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
-|A-GPS|`Yes`
+|A-GPS|
 |BeiDou|`Yes`
-|Wi-Fi Direct|`Yes`
+|Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
 |GSM 900|`Yes`
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -124,13 +125,13 @@
 |Battery Capacity|3000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
-|Speaking Run Time|20 h
+|Battery Mount Type|
+|Speaking Run Time|
 |Type of Battery|
 |Additional Battery Capacity|
-|Audio Playback Run Time|70 h
+|Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`No`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
@@ -152,7 +153,7 @@
 |--------|-------|
 |USB Port|`Yes`
 |IrDA Port|`No`
-|Headphone Port|3.5 mm
+|Headphone Port|
 |External Antenna Port|`No`
 
 # Others
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`No`
+|USB-host/OTG|

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade L8
-|Price|52.4 USD
-|Launched|
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Separate`
 |Product Line|`Blade`
 |Operating System|`Android`
-|Operating System Version|`Android 9 (Go edition)`
+|Operating System Version|`Android 9.0`
 |Form Factor|`Phablet`
 |Width|67.5 mm
 |Height|137.3 mm
@@ -113,9 +114,9 @@
 |RAM|1 GB
 |Memory Card Maximum Capacity|128 GB
 |CPU Cores|4
-|CPU Model|`Unisoc SC7731E`
+|CPU Model|`UNISOC SC7731E`
 |CPU Clock Rate|1300 MHz
-|Graphics Processor Unit|`Mali-T820`
+|Graphics Processor Unit|
 
 # Battery & Charging
 

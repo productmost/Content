@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy J7 (2017)
-|Price|270.1 USD
-|Launched|
+|Price|226.4 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

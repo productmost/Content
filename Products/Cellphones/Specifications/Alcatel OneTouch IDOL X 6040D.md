@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -104,7 +105,7 @@
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

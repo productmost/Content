@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|TP-LINK Neffos C5 Max
-|Price|168.2 USD
+|Price|135 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White`
+|Color|`White` `Gray`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

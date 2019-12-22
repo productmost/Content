@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Google Pixel 2
 |Price|539.8 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`

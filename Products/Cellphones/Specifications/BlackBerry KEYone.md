@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry KEYone
-|Price|448.9 USD
-|Launched|
+|Price|390.4 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

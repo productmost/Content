@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI X600
-|Price|19.4 USD
+|Price|25.7 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

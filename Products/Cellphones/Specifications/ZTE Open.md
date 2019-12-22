@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ZTE Open
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

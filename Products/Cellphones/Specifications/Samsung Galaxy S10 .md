@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy S10+
-|Price|1050.9 USD
-|Launched|
+|Price|1111 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Green` `Red` `Black`
-|Memory|128 GB
+|Color|`White` `Green` `Black`
+|Memory|128 GB;512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`AMOLED`
-|Scratch Resistant Glass|`Yes`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -77,7 +78,7 @@
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
 |A-GPS|`Yes`
-|BeiDou|`Yes`
+|BeiDou|
 |Wi-Fi Direct|`Yes`
 |WiMAX|`No`
 |CDMA 800|`No`
@@ -125,10 +126,10 @@
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
-|Speaking Run Time|25 h
-|Type of Battery|`Li-Ion`
+|Speaking Run Time|
+|Type of Battery|
 |Additional Battery Capacity|
-|Audio Playback Run Time|101 h
+|Audio Playback Run Time|
 |Wireless Charging|`Yes`
 |Fast Charging Support|`Yes`
 |Charging via USB|`Yes`
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|

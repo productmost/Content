@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Caterpillar Cat B25
-|Price|59.9 USD
+|Price|53.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

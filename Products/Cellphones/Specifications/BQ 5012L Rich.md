@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5012L Rich
-|Price|71.9 USD
+|Price|77.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Red` `Black`
+|Color|`Gold` `Red` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

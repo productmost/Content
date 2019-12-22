@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|OPPO F5
 |Price|187.5 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

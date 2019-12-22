@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Ra
-|Price|70.4 USD
+|Price|81.1 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Gray` `Black`
+|Color|`Gold`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|TP-LINK Neffos C9
-|Price|97.4 USD
-|Launched|
+|Price|120 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

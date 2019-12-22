@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|DEXP Larus S3
-|Price|28.7 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

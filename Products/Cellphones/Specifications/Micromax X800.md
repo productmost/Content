@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax X800
-|Price|22.4 USD
+|Price|36.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

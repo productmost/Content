@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel 3 5052D
-|Price|119.7 USD
+|Price|118.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

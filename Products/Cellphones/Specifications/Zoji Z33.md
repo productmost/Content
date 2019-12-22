@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Zoji Z33
-|Price|195 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Sony Xperia L3
-|Price|216.7 USD
-|Launched|
+|Price|225.1 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Black`
+|Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX C314
-|Price|27 USD
+|Price|27.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 1
-|Price|65.9 USD
-|Launched|
+|Price|74.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

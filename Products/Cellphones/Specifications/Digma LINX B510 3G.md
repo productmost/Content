@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX B510 3G
-|Price|59.9 USD
+|Price|67.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Runbo X5
-|Price|328.8 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

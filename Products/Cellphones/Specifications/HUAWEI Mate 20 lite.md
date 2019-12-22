@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI Mate 20 lite
-|Price|240.1 USD
-|Launched|
+|Price|300.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`IPS`
-|Scratch Resistant Glass|`Yes`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -93,13 +94,13 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`No`
-|DLNA Support|`No`
+|VoIP|
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

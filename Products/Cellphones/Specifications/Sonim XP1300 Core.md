@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sonim XP1300 Core
 |Price|
-|Launched|
+|Launched|2010
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

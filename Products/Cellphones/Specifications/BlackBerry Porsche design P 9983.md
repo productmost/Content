@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Porsche design P'9983
-|Price|750.7 USD
-|Launched|
+|Price|719.7 USD
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

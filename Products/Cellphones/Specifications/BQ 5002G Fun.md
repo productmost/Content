@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5002G Fun
-|Price|49.4 USD
+|Price|56.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

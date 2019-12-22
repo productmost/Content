@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL WP2
-|Price|292.2 USD
+|Price|313.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

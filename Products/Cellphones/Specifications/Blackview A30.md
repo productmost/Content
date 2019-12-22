@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview A30
-|Price|59.6 USD
-|Launched|
+|Price|87.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

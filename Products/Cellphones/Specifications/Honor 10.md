@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Honor 10
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

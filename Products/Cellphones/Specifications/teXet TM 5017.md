@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-5017
-|Price|74.9 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Pink`
+|Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

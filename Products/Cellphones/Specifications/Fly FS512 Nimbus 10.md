@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS512 Nimbus 10
-|Price|71.3 USD
+|Price|71.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

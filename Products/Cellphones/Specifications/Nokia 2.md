@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 2
-|Price|108.1 USD
-|Launched|
+|Price|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

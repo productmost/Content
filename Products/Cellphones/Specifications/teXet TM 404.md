@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-404
-|Price|28.4 USD
+|Price|29.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade A7 Vita
-|Price|105 USD
-|Launched|
+|Price|118.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

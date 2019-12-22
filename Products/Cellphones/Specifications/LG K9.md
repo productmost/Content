@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LG K9
-|Price|97.4 USD
-|Launched|
+|Price|116.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

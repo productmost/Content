@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 6016L Mercury
-|Price|112.5 USD
+|Price|127.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A7 SM-A700F Single Sim
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

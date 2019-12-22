@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade A3 (2019)
-|Price|59.9 USD
-|Launched|
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -113,7 +114,7 @@
 |RAM|1 GB
 |Memory Card Maximum Capacity|128 GB
 |CPU Cores|4
-|CPU Model|`Unisoc SC9832E`
+|CPU Model|`UNISOC SC9832E`
 |CPU Clock Rate|1400 MHz
 |Graphics Processor Unit|
 

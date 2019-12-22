@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy M10
 |Price|
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

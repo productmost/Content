@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Xiaomi Redmi Note 3
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

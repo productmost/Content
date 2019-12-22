@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-B208
-|Price|15 USD
+|Price|14.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

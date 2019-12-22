@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5044 Strike LTE
-|Price|74.9 USD
+|Price|86.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Pink`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

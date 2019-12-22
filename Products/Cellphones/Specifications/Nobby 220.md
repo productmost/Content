@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 220
-|Price|17.9 USD
-|Launched|
+|Price|18 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Yellow` `Red`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

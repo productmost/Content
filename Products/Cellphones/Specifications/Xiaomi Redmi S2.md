@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi S2
-|Price|133.5 USD
-|Launched|
+|Price|156.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Gold` `Silver` `Gray`
+|Color|`Blue` `Pink` `Silver` `Gray` `Black` `Gold`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|`Metal` `Aluminium`
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|

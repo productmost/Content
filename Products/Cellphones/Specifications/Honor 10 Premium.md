@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Honor 10 Premium
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

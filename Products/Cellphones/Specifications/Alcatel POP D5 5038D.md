@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -98,13 +99,13 @@
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`No`
 |Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -169,9 +170,9 @@
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
 |Stereo Sound|`No`
-|AAC Support|`Yes`
-|WAV Support|`Yes`
-|WMA Support|`Yes`
+|AAC Support|
+|WAV Support|
+|WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

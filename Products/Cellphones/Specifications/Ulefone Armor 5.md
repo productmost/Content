@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Armor 5
-|Price|225.1 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

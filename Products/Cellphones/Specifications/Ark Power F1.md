@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Power F1
-|Price|22.4 USD
-|Launched|
+|Price|26.1 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

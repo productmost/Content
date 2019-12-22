@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Indigo
-|Price|60.1 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

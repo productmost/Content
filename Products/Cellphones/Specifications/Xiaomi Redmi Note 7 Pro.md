@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi Note 7 Pro
-|Price|198.6 USD
-|Launched|
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Red` `Blue` `Black`
+|Color|
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -113,9 +114,9 @@
 |RAM|6 GB;4 GB
 |Memory Card Maximum Capacity|256 GB
 |CPU Cores|8
-|CPU Model|`Qualcomm Snapdragon 675`
+|CPU Model|
 |CPU Clock Rate|
-|Graphics Processor Unit|`Adreno 612`
+|Graphics Processor Unit|
 
 # Battery & Charging
 

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE X50
-|Price|55.9 USD
+|Price|59.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`Gold` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

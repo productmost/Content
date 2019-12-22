@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS ZenFone Max Pro M1 ZB602KL
-|Price|210.2 USD
-|Launched|
+|Price|250.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Silver` `Blue` `Black`
 |Memory|128 GB;32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

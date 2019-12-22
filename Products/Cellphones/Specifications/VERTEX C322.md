@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX C322
-|Price|18 USD
-|Launched|
+|Price|19.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

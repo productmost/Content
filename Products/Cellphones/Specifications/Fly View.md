@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly View
-|Price|63.1 USD
+|Price|74.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

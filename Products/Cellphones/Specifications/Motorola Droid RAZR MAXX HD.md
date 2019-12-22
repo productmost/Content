@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Motorola Droid RAZR MAXX HD
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

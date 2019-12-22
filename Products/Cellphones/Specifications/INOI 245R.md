@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|INOI 245R
 |Price|29.9 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

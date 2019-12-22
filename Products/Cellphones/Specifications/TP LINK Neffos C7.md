@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|TP-LINK Neffos C7
-|Price|82.6 USD
-|Launched|
+|Price|103.6 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

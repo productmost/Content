@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Redmi Go
 |Price|83.3 USD
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|8 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

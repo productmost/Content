@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor V3
-|Price|127.5 USD
+|Price|150 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

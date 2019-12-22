@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|
 |Waterproof|`No`

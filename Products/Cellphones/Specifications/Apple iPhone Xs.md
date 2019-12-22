@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Apple iPhone Xs
-|Price|1148.6 USD
-|Launched|
+|Price|1216.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Silver` `Gray`
 |Memory|64 GB;256 GB;512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -39,7 +40,7 @@
 |Video Recording Resolution|3840x2160
 |Macro Mode|`Yes`
 |Geo-tagging|`Yes`
-|RAW Format Support|`No`
+|RAW Format Support|
 
 # Display
 
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`No`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

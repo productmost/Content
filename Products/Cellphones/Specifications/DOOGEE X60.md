@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE X60
-|Price|82.4 USD
+|Price|79.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

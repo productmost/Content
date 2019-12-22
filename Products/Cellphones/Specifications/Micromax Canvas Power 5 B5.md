@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax Canvas Power 5 B5
-|Price|49.5 USD
-|Launched|
+|Price|82.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-5571
-|Price|57.7 USD
+|Price|67.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

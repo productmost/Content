@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Just5 BRICK
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

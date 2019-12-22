@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI Y9 (2018)
-|Price|207.1 USD
-|Launched|
+|Price|210.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

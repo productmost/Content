@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone Go ‏ZB452KG
 |Price|59.9 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

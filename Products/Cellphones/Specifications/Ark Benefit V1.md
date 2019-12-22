@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit V1
-|Price|29.9 USD
+|Price|31.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Gray` `Blue`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

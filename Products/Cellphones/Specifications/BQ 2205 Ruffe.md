@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2205 Ruffe
-|Price|41.9 USD
+|Price|39 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green`
+|Color|`Yellow` `Green` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi 6A
-|Price|112.5 USD
-|Launched|
+|Price|119.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Gold` `Black`
+|Color|`Blue` `Gold` `Black` `Silver` `Gray`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Combined with SIM Card`
 |Product Line|
 |Operating System|`Android`
-|Operating System Version|`Android 8.1`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|71.5 mm
 |Height|147.5 mm
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|5 MP
 |Optical Stabilization|`No`
 |Video Recording Resolution|1920x1080
-|Macro Mode|`Yes`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|18:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`IPS`
+|Display Technology|
 |Scratch Resistant Glass|`No`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -68,7 +69,7 @@
 |Glonass|`Yes`
 |Bluetooth Standard Version|4.2
 |Wi-Fi Standard Version|802.11n
-|LTE Advanced Speed|`Cat. 7`
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`No`
@@ -86,16 +87,16 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`Yes`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
 |HSUPA|`Yes`
 |HSPA+|`Yes`
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
@@ -111,7 +112,7 @@
 |Property| Value |
 |--------|-------|
 |RAM|2 GB;3 GB
-|Memory Card Maximum Capacity|256 GB
+|Memory Card Maximum Capacity|
 |CPU Cores|4
 |CPU Model|`MediaTek Helio A22`
 |CPU Clock Rate|2000 MHz
@@ -124,20 +125,20 @@
 |Battery Capacity|3000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`No`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
 
 |Property| Value |
 |--------|-------|
-|Compass|`Yes`
+|Compass|
 |Gyroscope|`No`
 |Light Sensor|`Yes`
 |Proximity Sensor|`Yes`
@@ -172,9 +173,9 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

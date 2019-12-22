@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BQ 5591 Jeans
 |Price|74.9 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Silver` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

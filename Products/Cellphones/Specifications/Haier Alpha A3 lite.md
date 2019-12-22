@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Alpha A3 lite
-|Price|60.8 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

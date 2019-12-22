@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|SENSEIT T189
-|Price|103.5 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

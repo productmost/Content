@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX D529
-|Price|24.5 USD
+|Price|23.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Silver`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Elephone C1
-|Price|93.6 USD
-|Launched|
+|Price|93.4 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

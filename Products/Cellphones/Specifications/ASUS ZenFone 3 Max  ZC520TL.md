@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 3 Max ‏ZC520TL
 |Price|175.5 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Silver`
 |Memory|16 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

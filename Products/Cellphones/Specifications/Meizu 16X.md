@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Meizu 16X
 |Price|320.6 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White` `Gold` `Blue` `Black` `Purple`
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

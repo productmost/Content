@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A8 (2018)
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Mix
-|Price|222.2 USD
-|Launched|
+|Price|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|INOI 239
 |Price|13.4 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

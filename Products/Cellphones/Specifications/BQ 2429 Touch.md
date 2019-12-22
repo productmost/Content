@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2429 Touch
-|Price|12.9 USD
+|Price|16.1 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue`
+|Color|`Gold` `Red` `Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

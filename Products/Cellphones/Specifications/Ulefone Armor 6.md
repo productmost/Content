@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Armor 6
-|Price|367.7 USD
-|Launched|
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

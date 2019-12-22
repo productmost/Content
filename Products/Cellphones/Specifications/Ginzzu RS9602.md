@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu RS9602
-|Price|178.5 USD
+|Price|210.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Orange` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

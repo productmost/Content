@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos 50d Helium 4G
-|Price|72.1 USD
+|Price|75.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor V2
-|Price|105 USD
+|Price|120 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

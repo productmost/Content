@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Conquest S10
-|Price|510.4 USD
+|Price|405.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

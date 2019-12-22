@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SF15
-|Price|13.2 USD
+|Price|13.7 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Pink`
+|Color|`Blue` `Red` `Pink` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

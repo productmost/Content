@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV5500
-|Price|108.6 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow` `Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2427 BOOM L
-|Price|23.9 USD
+|Price|21.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Brown` `Silver` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS ZenFone 4 Selfie ZD553KL
-|Price|174.8 USD
-|Launched|
+|Price|192 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Pink` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

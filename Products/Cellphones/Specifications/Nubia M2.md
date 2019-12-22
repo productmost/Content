@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nubia M2
-|Price|157.7 USD
-|Launched|
+|Price|187.7 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

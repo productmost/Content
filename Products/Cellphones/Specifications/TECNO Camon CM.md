@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|TECNO Camon CM
-|Price|127.2 USD
+|Price|135 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Caterpillar Cat S60
-|Price|450.3 USD
-|Launched|
+|Price|520.9 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

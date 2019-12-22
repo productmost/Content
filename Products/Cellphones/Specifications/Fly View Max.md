@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly View Max
-|Price|68.5 USD
+|Price|83.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

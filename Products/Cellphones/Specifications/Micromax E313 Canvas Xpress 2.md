@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax E313 Canvas Xpress 2
-|Price|82.6 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

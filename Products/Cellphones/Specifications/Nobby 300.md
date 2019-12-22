@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 300
-|Price|17.6 USD
-|Launched|
+|Price|56.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

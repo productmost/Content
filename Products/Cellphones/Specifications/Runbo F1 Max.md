@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Runbo F1 Max
-|Price|479.7 USD
+|Price|479 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

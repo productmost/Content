@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BlackBerry Q10
 |Price|180 USD
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

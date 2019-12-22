@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS518 Cirrus 13
-|Price|37.4 USD
+|Price|74.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI X850
-|Price|29.7 USD
+|Price|27.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Silver` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS458 Stratus 7
-|Price|37.4 USD
+|Price|40.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Red` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

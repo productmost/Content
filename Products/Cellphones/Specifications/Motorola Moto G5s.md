@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Motorola Moto G5s
 |Price|129.9 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Gray` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Smartisan U3
-|Price|142.5 USD
+|Price|225.1 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Silver` `Gray` `Black`
+|Color|`Red` `Black`
 |Memory|32 GB;64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Alcatel One Touch IDOL X+ 6043D
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

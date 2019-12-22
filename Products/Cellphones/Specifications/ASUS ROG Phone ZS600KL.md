@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS ROG Phone ZS600KL
-|Price|846.8 USD
-|Launched|
+|Price|899.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|128 GB;512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`

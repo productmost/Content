@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5301 Strike View
-|Price|67.4 USD
+|Price|74.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Pink` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

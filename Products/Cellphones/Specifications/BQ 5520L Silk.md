@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5520L Silk
-|Price|70.4 USD
+|Price|82.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Brown` `Pink` `Purple` `Black`
+|Color|`Brown` `Pink` `Purple` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

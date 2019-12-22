@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Y Plus GT-S5303
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

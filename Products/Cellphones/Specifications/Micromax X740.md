@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax X740
-|Price|13.4 USD
+|Price|19.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

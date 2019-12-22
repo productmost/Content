@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|NOA T20
-|Price|20.3 USD
+|Price|23.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

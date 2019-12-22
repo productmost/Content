@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark GOME U7 Mini
-|Price|105.1 USD
+|Price|142.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

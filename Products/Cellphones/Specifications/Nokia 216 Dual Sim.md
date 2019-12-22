@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nokia 216 Dual Sim
 |Price|44.9 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Beige`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

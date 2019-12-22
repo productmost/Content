@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Torex FS2
-|Price|1413.9 USD
+|Price|1424.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Combined with SIM Card`
 |Product Line|
 |Operating System|`Android`
-|Operating System Version|`Android 8.1`
+|Operating System Version|`Android 9.0`
 |Form Factor|`Phablet`
 |Width|71.89 mm
 |Height|147.76 mm

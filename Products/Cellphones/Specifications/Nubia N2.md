@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nubia N2
-|Price|141.6 USD
-|Launched|
+|Price|164.9 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

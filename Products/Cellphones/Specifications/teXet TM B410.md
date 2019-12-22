@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|teXet TM-B410
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

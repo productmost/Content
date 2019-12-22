@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma VOX S513 4G
-|Price|64.1 USD
+|Price|78.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

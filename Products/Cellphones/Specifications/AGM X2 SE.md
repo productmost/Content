@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|AGM X2 SE
-|Price|450.3 USD
-|Launched|
+|Price|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

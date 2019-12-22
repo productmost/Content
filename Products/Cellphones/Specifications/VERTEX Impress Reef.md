@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Reef
-|Price|79 USD
-|Launched|
+|Price|89.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Gray` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

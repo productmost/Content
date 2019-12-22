@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|KYOCERA DuraForce Pro
 |Price|450.5 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

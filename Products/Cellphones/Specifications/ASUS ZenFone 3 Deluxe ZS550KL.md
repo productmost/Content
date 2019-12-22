@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 3 Deluxe ZS550KL
 |Price|358.7 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -71,7 +72,7 @@
 |LTE Advanced Speed|`Cat. 6`
 |GPS|`Yes`
 |4G LTE|`Yes`
-|NFC|`Yes`
+|NFC|
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -169,9 +170,9 @@
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
 |Stereo Sound|`No`
-|AAC Support|`Yes`
-|WAV Support|`Yes`
-|WMA Support|`Yes`
+|AAC Support|
+|WAV Support|
+|WMA Support|
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
 |Notification Indicator|

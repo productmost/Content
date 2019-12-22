@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5504 Strike Selfie Max
-|Price|115.5 USD
+|Price|127.5 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2809 Fantasy
-|Price|32.7 USD
+|Price|37.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray` `Blue` `Black`
+|Color|`Gold` `Red` `Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

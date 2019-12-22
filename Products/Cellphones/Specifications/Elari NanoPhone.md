@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Elari NanoPhone
-|Price|37.4 USD
+|Price|22.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -9,11 +9,12 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
-|Type of Memory Card Slot|`Separate`
+|Type of Memory Card Slot|
 |Product Line|
 |Operating System|`Android`
 |Operating System Version|`Android 4.4`
@@ -34,7 +35,7 @@
 |Flash|
 |Flash Type|
 |Front Camera|`Yes`
-|Resolution of Front Camera|5 MP;8 MP
+|Resolution of Front Camera|8 MP
 |Optical Stabilization|`No`
 |Video Recording Resolution|
 |Macro Mode|
@@ -110,12 +111,12 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|3 GB;2 GB
-|Memory Card Maximum Capacity|32 GB;128 GB
+|RAM|2 GB
+|Memory Card Maximum Capacity|128 GB
 |CPU Cores|8
-|CPU Model|`MediaTek MT6752` `MediaTek MT6592`
+|CPU Model|`MediaTek MT6592`
 |CPU Clock Rate|1700 MHz
-|Graphics Processor Unit|`Mali-T760` `Mali-450 MP4`
+|Graphics Processor Unit|`Mali-450 MP4`
 
 # Battery & Charging
 
@@ -140,7 +141,7 @@
 |Compass|`Yes`
 |Gyroscope|`Yes`
 |Light Sensor|`Yes`
-|Proximity Sensor|`Yes`
+|Proximity Sensor|
 |Hall Sensor|
 |Barometer|`No`
 |Fingerprint Scanner|`Yes`

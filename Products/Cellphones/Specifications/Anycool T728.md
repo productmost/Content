@@ -9,36 +9,37 @@
 |--------|-------|
 |Color|
 |Memory|
-|Memory Card Slot|
-|Shockproof|
-|Waterproof|
+|Type|`Mobile Phone`
+|Memory Card Slot|`Yes`
+|Shockproof|`No`
+|Waterproof|`No`
 |Stylus|
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|
 |Operating System Version|
-|Form Factor|
-|Width|
-|Height|
-|Depth|
-|Weight|
+|Form Factor|`Phablet`
+|Width|46 mm
+|Height|97 mm
+|Depth|10 mm
+|Weight|120 g
 
 # Camera
 
 |Property| Value |
 |--------|-------|
-|Rear Camera|
-|Camera Resolution|
-|Number of Rear Cameras|
-|Autofocus|
+|Rear Camera|`Yes`
+|Camera Resolution|0.3 MP
+|Number of Rear Cameras|1
+|Autofocus|`No`
 |Flash|
 |Flash Type|
-|Front Camera|
+|Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|
-|Geo-tagging|
+|Geo-tagging|`No`
 |RAW Format Support|
 
 # Display
@@ -47,63 +48,63 @@
 |--------|-------|
 |Display Size|
 |Display Aspect Ratio|
-|Touch Screen|
+|Touch Screen|`No`
 |Multitouch|
 |Display Technology|
-|Scratch Resistant Glass|
+|Scratch Resistant Glass|`No`
 |Force Touch|
-|Colorful Display|
+|Colorful Display|`Yes`
 |Touch Screen Technology|
-|Two Displays|
+|Two Displays|`No`
 |Curved Display|
-|Colorful Secondary Display|
+|Colorful Secondary Display|`No`
 
 # Communications
 
 |Property| Value |
 |--------|-------|
 |SIM Card Form Factor|
-|SIM Card Slots|
+|SIM Card Slots|2
 |Dual SIM Card Mode|
-|Glonass|
-|Bluetooth Standard Version|
+|Glonass|`No`
+|Bluetooth Standard Version|2.0
 |Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|
-|4G LTE|
-|NFC|
-|3G|
-|Wi-Fi|
-|Bluetooth|
+|GPS|`No`
+|4G LTE|`No`
+|NFC|`No`
+|3G|`No`
+|Wi-Fi|`No`
+|Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|
+|A-GPS|`No`
 |BeiDou|
-|Wi-Fi Direct|
-|WiMAX|
-|CDMA 800|
-|GSM 900|
-|GSM 1800|
-|GSM 1900|
-|CDMA 1900|
-|CDMA 450|
+|Wi-Fi Direct|`No`
+|WiMAX|`No`
+|CDMA 800|`No`
+|GSM 900|`Yes`
+|GSM 1800|`Yes`
+|GSM 1900|`Yes`
+|CDMA 1900|`No`
+|CDMA 450|`No`
 |VoLTE|
-|GPRS|
+|GPRS|`Yes`
 |EDGE|
-|HSDPA|
-|HSUPA|
-|HSPA+|
-|FM Transmitter|
-|Integrated Radio Antenna|
-|TV Tunner|
-|FM-radio|
+|HSDPA|`No`
+|HSUPA|`No`
+|HSPA+|`No`
+|FM Transmitter|`No`
+|Integrated Radio Antenna|`No`
+|TV Tunner|`Yes`
+|FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|
-|DLNA Support|
+|VoIP|`No`
+|DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
-|MMS|
+|MMS|`Yes`
 |ANT+|
 
 # Hardware
@@ -121,15 +122,15 @@
 
 |Property| Value |
 |--------|-------|
-|Battery Capacity|
+|Battery Capacity|1200 mAh
 |Fast Charging Standard|
-|Run Time in Idle Mode|
+|Run Time in Idle Mode|300 h
 |Battery Mount Type|
-|Speaking Run Time|
-|Type of Battery|
+|Speaking Run Time|8 h
+|Type of Battery|`Li-Ion`
 |Additional Battery Capacity|
 |Audio Playback Run Time|
-|Wireless Charging|
+|Wireless Charging|`No`
 |Fast Charging Support|
 |Charging via USB|
 
@@ -137,54 +138,54 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|
-|Gyroscope|
-|Light Sensor|
-|Proximity Sensor|
+|Compass|`No`
+|Gyroscope|`No`
+|Light Sensor|`No`
+|Proximity Sensor|`No`
 |Hall Sensor|
-|Barometer|
-|Fingerprint Scanner|
+|Barometer|`No`
+|Fingerprint Scanner|`No`
 |Iris scanner|
 
 # Ports
 
 |Property| Value |
 |--------|-------|
-|USB Port|
-|IrDA Port|
+|USB Port|`Yes`
+|IrDA Port|`No`
 |Headphone Port|
-|External Antenna Port|
+|External Antenna Port|`No`
 
 # Others
 
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|
-|Body Material|
+|Body Material|`Plastic`
 |Specific Absorption Rate|
-|Changeable Parts|
+|Changeable Parts|`No`
 |Buttons|
-|Vibration|
-|Flashlight|
-|MP3 Support|
+|Vibration|`Yes`
+|Flashlight|`No`
+|MP3 Support|`Yes`
 |Speech Recording|
-|Stereo Sound|
+|Stereo Sound|`No`
 |AAC Support|
 |WAV Support|
 |WMA Support|
 |Speakerphone Mode|
-|MP3 Ringtones|
-|Notification Indicator|
-|QWERTY Keyboard|
-|Sync with Personal Computer|
-|Automaric Display Orientation Change|
+|MP3 Ringtones|`Yes`
+|Notification Indicator|`No`
+|QWERTY Keyboard|`No`
+|Sync with Personal Computer|`No`
+|Automaric Display Orientation Change|`No`
 |Video Output Type|
-|Games|
-|Alarm|
+|Games|`Yes`
+|Alarm|`Yes`
 |Using as USB Drive|
 |Call Making Using Voice|
 |Voice Control|
 |Airplane Mode|
-|Java applications|
+|Java applications|`No`
 |MST|
-|USB-host/OTG|
+|USB-host/OTG|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI T1
-|Price|17.4 USD
+|Price|15.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Green` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

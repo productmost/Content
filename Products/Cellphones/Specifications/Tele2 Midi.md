@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Tele2 Midi
-|Price|28.3 USD
-|Launched|
+|Price|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Black`
+|Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

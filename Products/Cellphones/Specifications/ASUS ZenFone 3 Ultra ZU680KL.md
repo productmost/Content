@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 3 Ultra ZU680KL
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

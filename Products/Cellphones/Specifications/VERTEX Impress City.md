@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress City
-|Price|52.4 USD
+|Price|59.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Gray`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

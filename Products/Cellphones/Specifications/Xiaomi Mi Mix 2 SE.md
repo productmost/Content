@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Xiaomi Mi Mix 2 SE
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

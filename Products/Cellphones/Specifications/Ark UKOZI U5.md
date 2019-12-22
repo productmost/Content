@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark UKOZI U5
-|Price|27 USD
+|Price|46.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Red` `Black`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

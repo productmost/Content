@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
-|Name|Samsung Galaxy S10+ (Snapdragon 855)
-|Price|750.6 USD
-|Launched|
+|Name|Samsung Galaxy S10  (Snapdragon 855)
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|
-|Memory|128 GB
+|Memory|512 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -18,10 +19,10 @@
 |Operating System|`Android`
 |Operating System Version|`Android 9.0`
 |Form Factor|`Phablet`
-|Width|74.1 mm
-|Height|157.6 mm
+|Width|70.4 mm
+|Height|149.9 mm
 |Depth|7.8 mm
-|Weight|175 g
+|Weight|157 g
 
 # Camera
 
@@ -45,7 +46,7 @@
 
 |Property| Value |
 |--------|-------|
-|Display Size|6.4 in
+|Display Size|6.1 in
 |Display Aspect Ratio|19:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
@@ -104,7 +105,7 @@
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`Yes`
+|ANT+|
 
 # Hardware
 
@@ -121,7 +122,7 @@
 
 |Property| Value |
 |--------|-------|
-|Battery Capacity|4100 mAh
+|Battery Capacity|3400 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|
+|IrDA Port|`No`
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|
+|MST|`No`
 |USB-host/OTG|

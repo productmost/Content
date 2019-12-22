@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A5 (2016) SM-A510F
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Pink` `Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

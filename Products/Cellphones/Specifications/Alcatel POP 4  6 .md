@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel POP 4 (6)
-|Price|117.5 USD
+|Price|119.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Honor 7C Pro
 |Price|172.5 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -71,7 +72,7 @@
 |LTE Advanced Speed|`Cat. 4`
 |GPS|`Yes`
 |4G LTE|`Yes`
-|NFC|`Yes`
+|NFC|`No`
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`

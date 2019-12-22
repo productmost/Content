@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI X650
-|Price|20.3 USD
+|Price|23.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Silver`
+|Color|`Red` `Silver` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

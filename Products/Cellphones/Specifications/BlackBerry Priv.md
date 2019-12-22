@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Priv
-|Price|494 USD
+|Price|333.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

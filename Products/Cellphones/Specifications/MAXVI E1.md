@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI E1
-|Price|19.5 USD
+|Price|19.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Red` `Silver` `Black`
+|Color|`Blue` `Red` `Silver` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

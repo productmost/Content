@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Sony Xperia XZ Dual
-|Price|217.6 USD
-|Launched|
+|Price|255.1 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

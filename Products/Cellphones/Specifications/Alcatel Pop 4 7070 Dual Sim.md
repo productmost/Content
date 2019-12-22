@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Alcatel Pop 4 7070 Dual Sim
 |Price|115.6 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

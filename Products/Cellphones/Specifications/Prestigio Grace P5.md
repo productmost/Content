@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Grace P5
-|Price|67.4 USD
+|Price|73.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

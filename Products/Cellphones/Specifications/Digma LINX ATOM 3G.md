@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX ATOM 3G
-|Price|32.9 USD
+|Price|37.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Red` `Gray` `Blue` `Black`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

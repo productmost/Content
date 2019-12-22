@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -86,7 +87,7 @@
 |GSM 1900|`No`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|
 |EDGE|`No`
 |HSDPA|`No`
@@ -186,5 +187,5 @@
 |Voice Control|
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

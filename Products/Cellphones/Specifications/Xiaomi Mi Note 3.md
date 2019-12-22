@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Mi Note 3
-|Price|210.1 USD
-|Launched|
+|Price|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -142,7 +143,7 @@
 |Light Sensor|`Yes`
 |Proximity Sensor|`Yes`
 |Hall Sensor|`No`
-|Barometer|`Yes` `No`
+|Barometer|`Yes`
 |Fingerprint Scanner|`Yes`
 |Iris scanner|`No`
 

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX A205 2G
-|Price|14.9 USD
+|Price|15.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

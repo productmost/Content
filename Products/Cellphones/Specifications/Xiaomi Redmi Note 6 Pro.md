@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi Note 6 Pro
-|Price|172.5 USD
-|Launched|
+|Price|227.5 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Pink` `Blue` `Black`
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Combined with SIM Card`
 |Product Line|`Redmi Note`
 |Operating System|`Android`
-|Operating System Version|`Android 8.1`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|76.4 mm
 |Height|157.9 mm
@@ -36,7 +37,7 @@
 |Front Camera|`Yes`
 |Resolution of Front Camera|20 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|1920x1080
+|Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
 |RAW Format Support|`No`
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|19:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`IPS`
+|Display Technology|
 |Scratch Resistant Glass|`Yes`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -93,14 +94,14 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
-|Bluetooth Audio Streaming|`Yes`
+|DLNA Support|
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -124,13 +125,13 @@
 |Battery Capacity|4000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`No`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

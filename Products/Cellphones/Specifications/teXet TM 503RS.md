@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|teXet TM-503RS
 |Price|
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV6000
-|Price|163.7 USD
-|Launched|
+|Price|176.1 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

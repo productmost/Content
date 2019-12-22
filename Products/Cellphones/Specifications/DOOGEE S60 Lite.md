@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE S60 Lite
-|Price|223.7 USD
-|Launched|
+|Price|222.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Silver` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

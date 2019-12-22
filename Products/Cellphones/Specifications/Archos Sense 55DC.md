@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Sense 55DC
-|Price|81.1 USD
+|Price|104.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

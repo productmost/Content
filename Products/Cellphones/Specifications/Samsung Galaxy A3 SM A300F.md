@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A3 SM-A300F
-|Price|270.1 USD
-|Launched|
+|Price|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Silver` `Gray`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

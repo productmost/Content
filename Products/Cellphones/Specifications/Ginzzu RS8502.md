@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu RS8502
-|Price|162 USD
+|Price|193.7 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Green` `Red` `Orange` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

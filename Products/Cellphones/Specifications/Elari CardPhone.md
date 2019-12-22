@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Elari CardPhone
-|Price|29.9 USD
+|Price|22.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Orange` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

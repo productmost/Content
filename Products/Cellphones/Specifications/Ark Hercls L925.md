@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Hercls L925
-|Price|103.5 USD
+|Price|128.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

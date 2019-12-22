@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nomu T18
 |Price|240.1 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`Yes`

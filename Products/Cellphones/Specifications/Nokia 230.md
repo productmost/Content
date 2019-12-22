@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 230
-|Price|63.1 USD
-|Launched|
+|Price|74.9 USD
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`White` `Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

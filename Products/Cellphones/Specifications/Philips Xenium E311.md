@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Philips Xenium E311
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|JOY'S S11
-|Price|17.6 USD
+|Price|17.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

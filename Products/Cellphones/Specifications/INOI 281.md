@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 281
-|Price|17.3 USD
+|Price|17.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

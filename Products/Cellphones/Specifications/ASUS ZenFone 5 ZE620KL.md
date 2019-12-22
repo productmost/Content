@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS ZenFone 5 ZE620KL
-|Price|334 USD
-|Launched|
+|Price|294.3 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White` `Silver` `Gray` `Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -93,13 +94,13 @@
 |HSUPA|`Yes`
 |HSPA+|`Yes`
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -124,13 +125,13 @@
 |Battery Capacity|3300 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`No`
+|Fast Charging Support|`Yes`
 |Charging via USB|`Yes`
 
 # Sensors
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Metal + Glass`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

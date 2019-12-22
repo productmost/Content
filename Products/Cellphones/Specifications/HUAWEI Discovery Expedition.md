@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Discovery Expedition
 |Price|
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

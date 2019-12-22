@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S6 SM-G920F
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Black` `Gold`
+|Color|
 |Memory|64 GB;128 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

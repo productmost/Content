@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 170B
-|Price|17.1 USD
-|Launched|
+|Price|18 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

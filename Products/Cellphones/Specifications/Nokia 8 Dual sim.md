@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 8 Dual sim
-|Price|405.3 USD
-|Launched|
+|Price|375.2 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Orange` `Silver` `Blue`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

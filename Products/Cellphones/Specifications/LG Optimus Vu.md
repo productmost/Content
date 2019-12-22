@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|LG Optimus Vu
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|
 |Shockproof|`No`
 |Waterproof|`No`

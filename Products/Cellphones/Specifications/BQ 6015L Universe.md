@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Gray`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -71,7 +72,7 @@
 |LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
-|NFC|`Yes`
+|NFC|`No`
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|`No`

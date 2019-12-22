@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Access 45 4G
-|Price|50.2 USD
+|Price|61.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

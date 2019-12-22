@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE BL5500 Lite
-|Price|97.4 USD
-|Launched|
+|Price|129 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

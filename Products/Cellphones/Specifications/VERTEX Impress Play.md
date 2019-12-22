@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Play
-|Price|102.1 USD
+|Price|137.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Separate`
 |Product Line|
 |Operating System|`Android`
-|Operating System Version|`Android 7.0`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|76 mm
 |Height|154 mm

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel 3025X
-|Price|40.3 USD
+|Price|41.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Silver` `Gray` `Blue`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -28,7 +29,7 @@
 |Property| Value |
 |--------|-------|
 |Rear Camera|`Yes`
-|Camera Resolution|2 MP
+|Camera Resolution|
 |Number of Rear Cameras|1
 |Autofocus|`No`
 |Flash|
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|
 |Touch Screen|`No`
 |Multitouch|
-|Display Technology|`TN`
+|Display Technology|
 |Scratch Resistant Glass|`No`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -62,7 +63,7 @@
 
 |Property| Value |
 |--------|-------|
-|SIM Card Form Factor|`micro SIM`
+|SIM Card Form Factor|`Normal`
 |SIM Card Slots|1
 |Dual SIM Card Mode|
 |Glonass|`No`
@@ -72,7 +73,7 @@
 |GPS|`No`
 |4G LTE|`No`
 |NFC|`No`
-|3G|`Yes`
+|3G|
 |Wi-Fi|`No`
 |Bluetooth|`Yes`
 |4G LTE-A|
@@ -111,7 +112,7 @@
 |Property| Value |
 |--------|-------|
 |RAM|
-|Memory Card Maximum Capacity|32 GB
+|Memory Card Maximum Capacity|
 |CPU Cores|
 |CPU Model|
 |CPU Clock Rate|
@@ -152,7 +153,7 @@
 |--------|-------|
 |USB Port|
 |IrDA Port|`No`
-|Headphone Port|3.5 mm
+|Headphone Port|
 |External Antenna Port|`No`
 
 # Others
@@ -160,14 +161,14 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|
 |Vibration|
 |Flashlight|`Yes`
 |MP3 Support|
-|Speech Recording|`Yes`
+|Speech Recording|
 |Stereo Sound|`No`
 |AAC Support|
 |WAV Support|

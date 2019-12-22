@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nokia 3310 Dual Sim (2017)
 |Price|52.4 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Yellow` `Orange` `Gray` `Blue`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

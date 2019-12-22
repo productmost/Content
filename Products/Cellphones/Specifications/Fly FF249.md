@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FF249
-|Price|24 USD
-|Launched|
+|Price|26.9 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

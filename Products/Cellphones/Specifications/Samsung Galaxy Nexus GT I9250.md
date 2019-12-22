@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Nexus GT-I9250
 |Price|
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

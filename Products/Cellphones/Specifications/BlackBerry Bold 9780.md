@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BlackBerry Bold 9780
 |Price|150 USD
-|Launched|
+|Launched|2010
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Black`
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

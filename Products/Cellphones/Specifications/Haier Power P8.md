@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Power P8
-|Price|74.9 USD
+|Price|94.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

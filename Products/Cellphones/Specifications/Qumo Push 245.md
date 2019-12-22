@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Qumo Push 245
-|Price|22.6 USD
+|Price|22.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

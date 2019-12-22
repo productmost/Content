@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX BASE 4G
-|Price|61.1 USD
-|Launched|
+|Price|68.5 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

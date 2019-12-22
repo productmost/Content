@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Alcatel 5V
 |Price|175.5 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -71,7 +72,7 @@
 |LTE Advanced Speed|`Cat. 4`
 |GPS|`Yes`
 |4G LTE|`Yes`
-|NFC|`Yes`
+|NFC|
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`

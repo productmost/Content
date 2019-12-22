@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5517L Twin Pro
-|Price|105 USD
-|Launched|
+|Price|150 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Gray`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

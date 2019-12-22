@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|AGM X1
-|Price|255.1 USD
+|Price|298.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

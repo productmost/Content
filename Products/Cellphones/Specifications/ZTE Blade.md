@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade
-|Price|105.1 USD
-|Launched|
+|Price|135.6 USD
+|Launched|2010
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Black`
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

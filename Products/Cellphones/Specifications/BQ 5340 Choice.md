@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BQ 5340 Choice
 |Price|68.9 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Gray` `Black`
+|Color|`Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

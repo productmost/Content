@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry DTEK60
-|Price|210.1 USD
-|Launched|
+|Price|225.2 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

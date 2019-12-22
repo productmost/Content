@@ -8,7 +8,8 @@
 |Property| Value |
 |--------|-------|
 |Color|
-|Memory|4 GB;1 GB
+|Memory|1 GB
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -36,9 +37,9 @@
 |Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|
-|Video Recording Resolution|640x480
+|Video Recording Resolution|
 |Macro Mode|`No`
-|Geo-tagging|
+|Geo-tagging|`No`
 |RAW Format Support|
 
 # Display
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|
 |Touch Screen|`No`
 |Multitouch|
-|Display Technology|`OLED`
+|Display Technology|
 |Scratch Resistant Glass|
 |Force Touch|
 |Colorful Display|`Yes`
@@ -93,7 +94,7 @@
 |HSUPA|`No`
 |HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|
 |FM-radio|`No`
 |Integrated Two-Way Radio Set|
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|
+|Push-To-Talk|`No`
 |Body Material|`Steel`
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -168,9 +169,9 @@
 |Flashlight|
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`Yes`
+|Stereo Sound|
 |AAC Support|`Yes`
-|WAV Support|
+|WAV Support|`No`
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|`Yes`
 |MST|
-|USB-host/OTG|
+|USB-host/OTG|`No`

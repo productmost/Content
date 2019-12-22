@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Alcatel A5 Led 5085D
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -98,7 +99,7 @@
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|

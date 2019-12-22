@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Philips Xenium E109
-|Price|19.1 USD
+|Price|20.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -74,7 +75,7 @@
 |NFC|`No`
 |3G|`No`
 |Wi-Fi|`No`
-|Bluetooth|
+|Bluetooth|`No`
 |4G LTE-A|
 |A-GPS|`No`
 |BeiDou|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Ericsson Spiro
 |Price|
-|Launched|
+|Launched|2010
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S4 Zoom SM-C101
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -77,7 +78,7 @@
 |Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|`Yes`
-|BeiDou|`No`
+|BeiDou|
 |Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`

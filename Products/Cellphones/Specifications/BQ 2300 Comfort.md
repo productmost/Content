@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2300 Comfort
-|Price|26.9 USD
+|Price|26.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

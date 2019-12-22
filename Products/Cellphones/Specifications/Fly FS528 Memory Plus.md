@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS528 Memory Plus
-|Price|84.5 USD
-|Launched|
+|Price|81.8 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

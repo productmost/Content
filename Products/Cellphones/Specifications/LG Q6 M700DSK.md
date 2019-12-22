@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|LG Q6 M700DSK
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A9 (2016) SM-A9000
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|IQM Vivaldi
-|Price|64 USD
+|Price|79.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Apple iPhone 6S
-|Price|345.2 USD
-|Launched|
+|Price|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Pink` `Silver` `Gray` `Black` `White` `Gold`
+|Color|
 |Memory|64 GB;16 GB;128 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

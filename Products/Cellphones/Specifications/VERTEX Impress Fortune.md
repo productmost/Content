@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Fortune
-|Price|79.6 USD
+|Price|88.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray` `Black`
+|Color|`Gold`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-B216
-|Price|27.3 USD
+|Price|28.5 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue` `Purple`
+|Color|`Red` `Blue`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

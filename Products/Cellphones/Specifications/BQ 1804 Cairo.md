@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1804 Cairo
-|Price|11.5 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

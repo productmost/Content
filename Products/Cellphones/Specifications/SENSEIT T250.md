@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|SENSEIT T250
-|Price|106.5 USD
-|Launched|
+|Price|67.4 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

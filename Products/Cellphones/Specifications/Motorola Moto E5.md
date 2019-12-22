@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Motorola Moto E5
-|Price|135 USD
+|Price|165 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Silver` `Gray`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

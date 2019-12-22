@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze G3 LTE
-|Price|165 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Xiaomi Mi Note Pro
 |Price|223.6 USD
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

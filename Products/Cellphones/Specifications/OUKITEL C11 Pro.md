@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL C11 Pro
-|Price|86.2 USD
-|Launched|
+|Price|114 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

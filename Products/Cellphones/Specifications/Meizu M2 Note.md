@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Meizu M2 Note
 |Price|240.1 USD
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Gray`
 |Memory|16 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

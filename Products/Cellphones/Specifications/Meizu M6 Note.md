@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Meizu M6 Note
 |Price|180 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Black` `Gold` `Silver`
 |Memory|32 GB;16 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

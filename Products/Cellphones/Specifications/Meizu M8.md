@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu M8
-|Price|150 USD
-|Launched|
+|Price|180.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Blue` `Purple` `Black`
+|Color|`Gold` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

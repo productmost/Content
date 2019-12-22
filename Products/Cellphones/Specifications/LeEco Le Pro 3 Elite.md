@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|LeEco Le Pro 3 Elite
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy Xcover 4 SM-G390F
-|Price|298.6 USD
-|Launched|
+|Price|386.3 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`Yes`

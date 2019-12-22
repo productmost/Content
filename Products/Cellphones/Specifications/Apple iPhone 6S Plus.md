@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Apple iPhone 6S Plus
 |Price|345.2 USD
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Pink` `White` `Gold` `Silver`
 |Memory|16 GB;128 GB;32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

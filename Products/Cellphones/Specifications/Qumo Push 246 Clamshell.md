@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Qumo Push 246 Clamshell
-|Price|28.5 USD
+|Price|17.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

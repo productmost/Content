@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI P30 lite
-|Price|300.2 USD
-|Launched|
+|Price|330.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -28,11 +29,11 @@
 |Property| Value |
 |--------|-------|
 |Rear Camera|`Yes`
-|Camera Resolution|24 MP
+|Camera Resolution|14 MP
 |Number of Rear Cameras|3
 |Autofocus|`Yes`
 |Flash|`Rear Flash`
-|Flash Type|`LED Flash`
+|Flash Type|
 |Front Camera|`Yes`
 |Resolution of Front Camera|32 MP
 |Optical Stabilization|`Yes`
@@ -95,7 +96,7 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|
@@ -111,7 +112,7 @@
 |Property| Value |
 |--------|-------|
 |RAM|4 GB
-|Memory Card Maximum Capacity|512 GB
+|Memory Card Maximum Capacity|
 |CPU Cores|8
 |CPU Model|`HiSilicon Kirin 710`
 |CPU Clock Rate|2200 MHz
@@ -163,7 +164,7 @@
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
-|Buttons|`On Display`
+|Buttons|
 |Vibration|`Yes`
 |Flashlight|`Yes`
 |MP3 Support|`Yes`

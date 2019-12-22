@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI K12
-|Price|17.6 USD
+|Price|16.7 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

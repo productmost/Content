@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 241
-|Price|14.9 USD
+|Price|13.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray` `Black`
+|Color|`Gold` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

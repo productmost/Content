@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SF16
-|Price|8 USD
+|Price|7.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Green` `Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

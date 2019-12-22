@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A10
-|Price|147 USD
-|Launched|
+|Price|150 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|5 MP
 |Optical Stabilization|`No`
 |Video Recording Resolution|1920x1080
-|Macro Mode|`Yes`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -137,7 +138,7 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|`No`
+|Compass|
 |Gyroscope|`No`
 |Light Sensor|`Yes`
 |Proximity Sensor|
@@ -160,10 +161,10 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|0.32 W/kg
 |Changeable Parts|`No`
-|Buttons|`On Display`
+|Buttons|
 |Vibration|`Yes`
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
@@ -172,7 +173,7 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu M5s
-|Price|140.9 USD
-|Launched|
+|Price|140.2 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver`
+|Color|`Gold` `Silver` `Gray`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

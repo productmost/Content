@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Lenovo A5
-|Price|119.1 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|3 GB;2 GB
+|RAM|3 GB
 |Memory Card Maximum Capacity|256 GB
 |CPU Cores|4
 |CPU Model|`MediaTek MT6739`

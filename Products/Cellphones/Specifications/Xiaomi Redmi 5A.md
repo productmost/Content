@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Xiaomi Redmi 5A
 |Price|
-|Launched|
+|Launched|2018;2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Silver` `Gray` `Black`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

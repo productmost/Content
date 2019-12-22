@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nokia 130
 |Price|30.2 USD
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

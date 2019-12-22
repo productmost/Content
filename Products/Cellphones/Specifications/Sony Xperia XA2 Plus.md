@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Sony Xperia XA2 Plus
-|Price|291.3 USD
-|Launched|
+|Price|300 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Black`
+|Color|`Green` `Gold` `Silver` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

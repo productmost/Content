@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 4500 Stanford
-|Price|59.9 USD
+|Price|64.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

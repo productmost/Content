@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1851 Respect
-|Price|15.2 USD
+|Price|17.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Green` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

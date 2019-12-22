@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy J1 (2016) SM-J120F/DS
-|Price|89.9 USD
-|Launched|
+|Price|97.4 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|2 MP
 |Optical Stabilization|`No`
 |Video Recording Resolution|1280x720
-|Macro Mode|`No`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -86,7 +87,7 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
@@ -137,7 +138,7 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|`No`
+|Compass|
 |Gyroscope|`No`
 |Light Sensor|`No`
 |Proximity Sensor|`Yes`

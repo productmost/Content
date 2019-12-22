@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia M4 Aqua Dual (E2312)
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

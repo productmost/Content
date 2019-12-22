@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor V5
-|Price|322.7 USD
+|Price|357.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

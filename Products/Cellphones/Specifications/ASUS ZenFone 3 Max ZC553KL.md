@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 3 Max ZC553KL
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

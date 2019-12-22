@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ZTE Z18 mini
 |Price|298.5 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

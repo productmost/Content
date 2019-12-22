@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI E2
-|Price|14.4 USD
+|Price|16.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue` `Black`
+|Color|`White` `Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

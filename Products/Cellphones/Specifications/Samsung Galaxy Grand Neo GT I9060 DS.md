@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Grand Neo GT-I9060/DS
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

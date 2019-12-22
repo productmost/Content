@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 330T
-|Price|19.1 USD
-|Launched|
+|Price|19.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

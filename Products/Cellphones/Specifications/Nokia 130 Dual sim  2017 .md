@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nokia 130 Dual sim (2017)
 |Price|29.9 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

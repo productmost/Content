@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI B1
-|Price|15.3 USD
+|Price|13.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

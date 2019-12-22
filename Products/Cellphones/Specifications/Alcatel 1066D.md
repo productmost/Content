@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel 1066D
-|Price|13.1 USD
+|Price|14.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

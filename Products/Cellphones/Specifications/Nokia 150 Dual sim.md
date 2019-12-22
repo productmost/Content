@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nokia 150 Dual sim
 |Price|38.9 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

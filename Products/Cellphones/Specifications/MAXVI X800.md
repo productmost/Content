@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI X800
-|Price|27.8 USD
+|Price|23.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver`
+|Color|`Gold` `Silver` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

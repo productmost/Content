@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|iOcean X9
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|3 GB;2 GB
+|RAM|2 GB
 |Memory Card Maximum Capacity|
 |CPU Cores|8
 |CPU Model|`MediaTek MT6752`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit U242
-|Price|20.2 USD
+|Price|22.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

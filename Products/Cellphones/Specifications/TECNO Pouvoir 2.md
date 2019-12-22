@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|TECNO Pouvoir 2
-|Price|114.4 USD
+|Price|135 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Gold` `Black`
+|Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

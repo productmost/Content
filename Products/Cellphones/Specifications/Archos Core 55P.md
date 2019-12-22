@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Core 55P
-|Price|74.6 USD
-|Launched|
+|Price|86 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

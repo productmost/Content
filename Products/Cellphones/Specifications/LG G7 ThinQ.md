@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|LG G7 ThinQ
 |Price|576.9 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Blue` `Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`Yes`

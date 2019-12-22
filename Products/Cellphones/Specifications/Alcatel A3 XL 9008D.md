@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel A3 XL 9008D
-|Price|93.3 USD
+|Price|107.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White`
+|Color|`White` `Gray`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

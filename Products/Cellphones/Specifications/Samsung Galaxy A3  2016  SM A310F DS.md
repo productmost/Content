@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A3 (2016) SM-A310F/DS
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

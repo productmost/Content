@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|DEXP Larus V4
-|Price|31.8 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

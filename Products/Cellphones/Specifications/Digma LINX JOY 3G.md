@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX JOY 3G
-|Price|40.2 USD
-|Launched|
+|Price|45.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

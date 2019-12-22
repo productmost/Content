@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Red` `Gray` `Black`
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`No`
@@ -181,7 +182,7 @@
 |Video Output Type|
 |Games|`Yes`
 |Alarm|`Yes`
-|Using as USB Drive|`No`
+|Using as USB Drive|
 |Call Making Using Voice|`Yes`
 |Voice Control|`Yes`
 |Airplane Mode|

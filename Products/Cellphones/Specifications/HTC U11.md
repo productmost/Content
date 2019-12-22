@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HTC U11
 |Price|600.5 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Red` `Blue` `Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

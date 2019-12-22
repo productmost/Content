@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|CUBOT King Kong
-|Price|285.1 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

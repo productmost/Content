@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
-|Name|Itel it5022
-|Price|12.9 USD
+|Name|Itel IT5022
+|Price|14.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

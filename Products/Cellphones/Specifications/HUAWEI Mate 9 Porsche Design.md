@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Mate 9 Porsche Design
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Power 2
-|Price|188.2 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Gray` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

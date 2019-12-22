@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2411 Swift L
-|Price|19.4 USD
+|Price|19.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Silver` `Gray`
+|Color|`Gold` `Brown` `Silver` `Gray`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

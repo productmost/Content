@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|JOY'S S1
-|Price|7.4 USD
+|Price|8.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

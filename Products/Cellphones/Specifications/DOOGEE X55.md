@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE X55
-|Price|64.4 USD
+|Price|80.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

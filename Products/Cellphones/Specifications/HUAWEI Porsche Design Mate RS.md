@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI Porsche Design Mate RS
-|Price|1636.6 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|`USB Type-C`
 |External Antenna Port|`No`
 

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Seals VR7
-|Price|224.4 USD
+|Price|268.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma VOX E502 4G
-|Price|75.4 USD
+|Price|81.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

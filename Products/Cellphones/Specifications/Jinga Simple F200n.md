@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Jinga Simple F200n
-|Price|8.2 USD
+|Price|9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

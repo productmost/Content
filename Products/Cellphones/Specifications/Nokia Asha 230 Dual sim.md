@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia Asha 230 Dual sim
-|Price|70.3 USD
-|Launched|
+|Price|69.1 USD
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver`
+|Color|`White` `Silver`
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

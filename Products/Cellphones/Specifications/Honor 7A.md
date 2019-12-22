@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Honor 7A
-|Price|105 USD
+|Price|112.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
@@ -172,7 +173,7 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`

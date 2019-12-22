@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Motorola Moto G7 Play
-|Price|136.6 USD
-|Launched|
+|Price|180 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

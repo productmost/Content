@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI T5
-|Price|35.3 USD
+|Price|33.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Blue` `Black`
+|Color|`Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

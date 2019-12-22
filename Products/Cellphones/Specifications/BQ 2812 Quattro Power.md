@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2812 Quattro Power
-|Price|26.6 USD
+|Price|25.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Brown` `Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

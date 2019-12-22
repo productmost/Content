@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL C12 Plus
-|Price|89.9 USD
+|Price|108.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Purple` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

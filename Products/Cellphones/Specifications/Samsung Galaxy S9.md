@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S9
 |Price|630.5 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Gray` `Purple` `Blue` `Black`
+|Color|
 |Memory|256 GB;128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

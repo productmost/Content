@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OLMIO E24
-|Price|28.5 USD
+|Price|26.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

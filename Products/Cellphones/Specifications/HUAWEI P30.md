@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI P30
-|Price|600.5 USD
-|Launched|
+|Price|750.6 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Blue`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -95,10 +96,10 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
@@ -160,10 +161,10 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Metal + Glass`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
-|Buttons|`On Display`
+|Buttons|
 |Vibration|`Yes`
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Apple iPhone Xr
-|Price|750.6 USD
-|Launched|
+|Price|900.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Blue` `Yellow` `Red` `Pink` `Black`
 |Memory|64 GB;128 GB;256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -51,7 +52,7 @@
 |Multitouch|`Yes`
 |Display Technology|`IPS`
 |Scratch Resistant Glass|
-|Force Touch|`No`
+|Force Touch|
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
 |Two Displays|`No`
@@ -78,7 +79,7 @@
 |4G LTE-A|`Yes`
 |A-GPS|`Yes`
 |BeiDou|`No`
-|Wi-Fi Direct|`Yes`
+|Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
 |GSM 900|`Yes`
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Aluminium + Glass`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`No`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

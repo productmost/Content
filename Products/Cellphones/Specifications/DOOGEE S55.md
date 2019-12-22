@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE S55
-|Price|224.9 USD
+|Price|214.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Orange` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -8,7 +8,8 @@
 |Property| Value |
 |--------|-------|
 |Color|
-|Memory|32 GB;4 GB
+|Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -20,7 +21,7 @@
 |Form Factor|`Phablet`
 |Width|65 mm
 |Height|133 mm
-|Depth|10 mm;8.2 mm
+|Depth|10 mm
 |Weight|
 
 # Camera
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|2 GB;1 GB
+|RAM|2 GB
 |Memory Card Maximum Capacity|64 GB
 |CPU Cores|4
 |CPU Model|`MediaTek MT6589T`
@@ -121,7 +122,7 @@
 
 |Property| Value |
 |--------|-------|
-|Battery Capacity|3000 mAh;1850 mAh
+|Battery Capacity|3000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|

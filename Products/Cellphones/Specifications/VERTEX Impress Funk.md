@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Funk
-|Price|28.4 USD
-|Launched|
+|Price|44.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Blue`
+|Color|`Blue` `Gray` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

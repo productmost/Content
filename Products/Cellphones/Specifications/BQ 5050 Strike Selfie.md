@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5050 Strike Selfie
-|Price|83.3 USD
+|Price|89.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray`
+|Color|`Gold` `Pink` `Silver` `Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

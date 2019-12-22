@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A9 (2018)
-|Price|450.3 USD
-|Launched|
+|Price|444.3 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Pink` `Blue` `Black`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -35,7 +36,7 @@
 |Flash Type|`LED Flash`
 |Front Camera|`Yes`
 |Resolution of Front Camera|24 MP
-|Optical Stabilization|`No`
+|Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`AMOLED`
-|Scratch Resistant Glass|`Yes`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -77,7 +78,7 @@
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
 |A-GPS|`Yes`
-|BeiDou|`Yes`
+|BeiDou|
 |Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
@@ -93,14 +94,14 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
 |DLNA Support|
-|Bluetooth Audio Streaming|`Yes`
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -125,10 +126,10 @@
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
-|Speaking Run Time|23 h
-|Type of Battery|`Li-Ion`
+|Speaking Run Time|
+|Type of Battery|
 |Additional Battery Capacity|
-|Audio Playback Run Time|59 h
+|Audio Playback Run Time|
 |Wireless Charging|`No`
 |Fast Charging Support|`Yes`
 |Charging via USB|`Yes`
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 

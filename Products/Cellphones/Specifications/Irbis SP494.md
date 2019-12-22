@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SP494
-|Price|65.3 USD
+|Price|64.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Vertu Signature Touch Seaspray Lizard
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

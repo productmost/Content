@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Philips Xenium E125
 |Price|26.9 USD
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

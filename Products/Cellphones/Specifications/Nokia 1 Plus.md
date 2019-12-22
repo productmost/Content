@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nokia 1 Plus
 |Price|
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB;8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

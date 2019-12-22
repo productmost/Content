@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit U141
-|Price|5.9 USD
+|Price|8.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

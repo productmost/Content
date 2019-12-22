@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SF09
-|Price|10.4 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

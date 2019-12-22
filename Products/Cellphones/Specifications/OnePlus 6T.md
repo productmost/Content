@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OnePlus 6T
-|Price|526.6 USD
-|Launched|
+|Price|885.7 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|256 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

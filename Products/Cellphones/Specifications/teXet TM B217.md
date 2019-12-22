@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-B217
-|Price|14.9 USD
+|Price|16.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 240B
-|Price|24 USD
-|Launched|
+|Price|23.3 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

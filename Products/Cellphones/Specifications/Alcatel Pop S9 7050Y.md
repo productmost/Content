@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Alcatel Pop S9 7050Y
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -98,13 +99,13 @@
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`Yes`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -170,8 +171,8 @@
 |Speech Recording|`Yes`
 |Stereo Sound|`No`
 |AAC Support|`Yes`
-|WAV Support|`Yes`
-|WMA Support|`Yes`
+|WAV Support|
+|WMA Support|
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

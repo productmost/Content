@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Yota YotaPhone
-|Price|74.9 USD
+|Price|480.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White`
+|Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

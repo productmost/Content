@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly Ezzy 9
-|Price|23.2 USD
+|Price|22.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Snopow M9
-|Price|300.2 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

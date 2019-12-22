@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy J5 (2016) SM-J510F/DS
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White`
+|Color|`White` `Gold`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

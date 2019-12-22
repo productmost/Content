@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 4501G Fox Easy
-|Price|41.9 USD
+|Price|50.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red` `Pink` `Blue` `Purple` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

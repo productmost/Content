@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 4 Selfie Pro ZD552KL
 |Price|253.2 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|4 GB;3 GB
+|RAM|4 GB
 |Memory Card Maximum Capacity|2048 GB
 |CPU Cores|8
 |CPU Model|`Qualcomm Snapdragon 625 MSM8953`

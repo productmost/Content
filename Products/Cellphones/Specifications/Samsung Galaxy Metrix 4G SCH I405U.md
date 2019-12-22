@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Metrix 4G SCH-I405U
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|2 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

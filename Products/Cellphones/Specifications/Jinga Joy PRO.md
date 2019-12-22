@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Jinga Joy PRO
 |Price|93.8 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

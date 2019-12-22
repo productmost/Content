@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV9000 Pro
-|Price|232.6 USD
-|Launched|
+|Price|322.7 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

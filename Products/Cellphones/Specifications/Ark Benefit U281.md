@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit U281
-|Price|17.9 USD
+|Price|18.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

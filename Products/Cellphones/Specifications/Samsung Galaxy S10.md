@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy S10
-|Price|900.8 USD
-|Launched|
+|Price|990.8 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Green` `Red` `Black`
+|Color|`White` `Green` `Black`
 |Memory|128 GB;512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`AMOLED`
-|Scratch Resistant Glass|`Yes`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -77,7 +78,7 @@
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
 |A-GPS|`Yes`
-|BeiDou|`Yes`
+|BeiDou|
 |Wi-Fi Direct|`Yes`
 |WiMAX|`No`
 |CDMA 800|`No`
@@ -95,7 +96,7 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
@@ -104,7 +105,7 @@
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`Yes`
+|ANT+|
 
 # Hardware
 
@@ -126,7 +127,7 @@
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Motorola Moto E5 Plus
-|Price|140.4 USD
-|Launched|
+|Price|195 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Gray` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

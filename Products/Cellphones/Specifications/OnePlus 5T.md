@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OnePlus 5T
-|Price|358.7 USD
-|Launched|
+|Price|447.1 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

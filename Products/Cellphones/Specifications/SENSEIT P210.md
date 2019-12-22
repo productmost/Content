@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|SENSEIT P210
 |Price|25.4 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`Yes`

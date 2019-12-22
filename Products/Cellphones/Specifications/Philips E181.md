@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Philips E181
-|Price|49.8 USD
+|Price|49.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

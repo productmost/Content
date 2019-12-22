@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX ARGO 3G
-|Price|36.5 USD
+|Price|44.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

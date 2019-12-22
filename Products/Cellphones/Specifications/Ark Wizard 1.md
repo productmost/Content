@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Wizard 1
-|Price|58.5 USD
-|Launched|
+|Price|64.7 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A3 SM-A300H Single Sim
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

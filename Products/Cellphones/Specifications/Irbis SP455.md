@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SP455
-|Price|65.9 USD
+|Price|59.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

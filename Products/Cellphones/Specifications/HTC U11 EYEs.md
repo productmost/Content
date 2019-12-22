@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HTC U11 EYEs
 |Price|324.2 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

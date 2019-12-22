@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1807 Step +
-|Price|10.5 USD
+|Price|10.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Green`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

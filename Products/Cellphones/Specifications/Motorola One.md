@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Motorola One
-|Price|303.4 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

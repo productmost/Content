@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Access 55 3G
-|Price|68.3 USD
+|Price|76.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

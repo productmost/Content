@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade A510
-|Price|73.1 USD
-|Launched|
+|Price|73.3 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

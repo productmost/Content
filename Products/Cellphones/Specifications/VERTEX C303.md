@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|
 |Shockproof|`No`
 |Waterproof|`No`

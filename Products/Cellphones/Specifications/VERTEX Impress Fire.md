@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Fire
-|Price|97.4 USD
-|Launched|
+|Price|103.6 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

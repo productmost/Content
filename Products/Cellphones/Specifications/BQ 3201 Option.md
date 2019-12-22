@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BQ 3201 Option
 |Price|32.1 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Silver` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

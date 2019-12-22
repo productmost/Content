@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu Pro 6
-|Price|330.2 USD
-|Launched|
+|Price|322.7 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

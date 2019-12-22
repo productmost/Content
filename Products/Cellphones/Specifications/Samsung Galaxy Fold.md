@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Fold
 |Price|
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver`
+|Color|
 |Memory|512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -18,10 +19,10 @@
 |Operating System|`Android`
 |Operating System Version|`Android 9.0`
 |Form Factor|`Foldable`
-|Width|117.9 mm
-|Height|160.9 mm
-|Depth|6.9 mm
-|Weight|263 g
+|Width|
+|Height|
+|Depth|
+|Weight|
 
 # Camera
 
@@ -35,9 +36,9 @@
 |Flash Type|`LED Flash`
 |Front Camera|`Yes`
 |Resolution of Front Camera|10 MP
-|Optical Stabilization|`Yes`
-|Video Recording Resolution|3840x2160
-|Macro Mode|`Yes`
+|Optical Stabilization|`No`
+|Video Recording Resolution|
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -49,14 +50,14 @@
 |Display Aspect Ratio|
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`AMOLED`
+|Display Technology|`OLED`
 |Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
 |Two Displays|`Yes`
 |Curved Display|
-|Colorful Secondary Display|`Yes`
+|Colorful Secondary Display|`No`
 
 # Communications
 
@@ -64,21 +65,21 @@
 |--------|-------|
 |SIM Card Form Factor|
 |SIM Card Slots|2
-|Dual SIM Card Mode|`Dual SIM Standby`
-|Glonass|`Yes`
-|Bluetooth Standard Version|5.0
-|Wi-Fi Standard Version|802.11ax
+|Dual SIM Card Mode|
+|Glonass|
+|Bluetooth Standard Version|
+|Wi-Fi Standard Version|
 |LTE Advanced Speed|
-|GPS|`Yes`
+|GPS|
 |4G LTE|`Yes`
-|NFC|`Yes`
+|NFC|
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`Yes`
-|BeiDou|`Yes`
-|Wi-Fi Direct|`Yes`
+|A-GPS|
+|BeiDou|
+|Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
 |GSM 900|`Yes`
@@ -104,7 +105,7 @@
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`Yes`
+|ANT+|
 
 # Hardware
 
@@ -124,7 +125,7 @@
 |Battery Capacity|4380 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
 |Type of Battery|
 |Additional Battery Capacity|
@@ -137,12 +138,12 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|`Yes`
-|Gyroscope|`Yes`
-|Light Sensor|`Yes`
-|Proximity Sensor|`Yes`
-|Hall Sensor|`Yes`
-|Barometer|`Yes`
+|Compass|
+|Gyroscope|
+|Light Sensor|
+|Proximity Sensor|
+|Hall Sensor|
+|Barometer|
 |Fingerprint Scanner|`Yes`
 |Iris scanner|`No`
 
@@ -152,14 +153,14 @@
 |--------|-------|
 |USB Port|`Yes`
 |IrDA Port|`No`
-|Headphone Port|`USB Type-C`
+|Headphone Port|
 |External Antenna Port|`No`
 
 # Others
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -172,12 +173,12 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
-|Automaric Display Orientation Change|`Yes`
+|Automaric Display Orientation Change|
 |Video Output Type|
 |Games|
 |Alarm|`Yes`
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|

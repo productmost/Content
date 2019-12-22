@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel 3C 5026D
-|Price|93.1 USD
-|Launched|
+|Price|92.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

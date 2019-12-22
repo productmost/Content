@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Honor 9 Lite
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|
-|Scratch Resistant Glass|`No`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -130,7 +131,7 @@
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`Yes` `No`
+|Fast Charging Support|`Yes`
 |Charging via USB|`Yes`
 
 # Sensors

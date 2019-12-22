@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|JOY'S S2
-|Price|8.9 USD
+|Price|7.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

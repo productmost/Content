@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview A10
-|Price|63.5 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

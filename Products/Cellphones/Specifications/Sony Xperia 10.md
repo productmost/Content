@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Sony Xperia 10
-|Price|259.5 USD
-|Launched|
+|Price|375.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Pink` `Black`
+|Color|`Pink` `Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

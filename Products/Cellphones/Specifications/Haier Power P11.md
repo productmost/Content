@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Power P11
-|Price|89.9 USD
-|Launched|
+|Price|127.5 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

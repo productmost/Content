@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Elari NanoPhone C
-|Price|29.9 USD
-|Launched|
+|Price|23.9 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

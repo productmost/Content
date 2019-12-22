@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze F5 LTE
-|Price|82.4 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

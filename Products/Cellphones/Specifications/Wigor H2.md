@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor H2
-|Price|46.6 USD
+|Price|52.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

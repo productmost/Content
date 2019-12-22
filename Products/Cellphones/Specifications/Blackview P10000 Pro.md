@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview P10000 Pro
-|Price|284.5 USD
+|Price|265.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gray` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

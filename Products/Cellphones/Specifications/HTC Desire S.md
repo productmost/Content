@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HTC Desire S
 |Price|
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|1 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

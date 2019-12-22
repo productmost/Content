@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit U3
-|Price|13.4 USD
+|Price|14.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Gray`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

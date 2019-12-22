@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel it5616
-|Price|18.3 USD
+|Price|22.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`Blue`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

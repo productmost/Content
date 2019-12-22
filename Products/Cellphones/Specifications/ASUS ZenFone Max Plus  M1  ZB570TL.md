@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone Max Plus (M1) ZB570TL
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

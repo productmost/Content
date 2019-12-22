@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX A240 2G
-|Price|14.9 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

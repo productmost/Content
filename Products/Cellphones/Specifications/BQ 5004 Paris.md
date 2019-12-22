@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5004 Paris
-|Price|46.8 USD
+|Price|81.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Gold` `Pink` `Silver` `Black`
+|Color|`White`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

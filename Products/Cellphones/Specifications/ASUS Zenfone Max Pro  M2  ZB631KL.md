@@ -2,18 +2,19 @@
 |--------|-----|
 |Name|ASUS Zenfone Max Pro (M2) ZB631KL
 |Price|255.1 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray` `Blue`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
-|Type of Memory Card Slot|`Separate`
+|Type of Memory Card Slot|
 |Product Line|`ZenFone`
 |Operating System|`Android`
 |Operating System Version|`Android 8.0`
@@ -91,16 +92,16 @@
 |EDGE|`Yes`
 |HSDPA|`Yes`
 |HSUPA|`Yes`
-|HSPA+|`Yes`
+|HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
 |FM-radio|`Yes`
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
-|Bluetooth Audio Streaming|`Yes`
+|DLNA Support|
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -124,9 +125,9 @@
 |Battery Capacity|5000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|840 h
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|45 h
-|Type of Battery|`Li-polymer`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|`On Display`
@@ -172,19 +173,19 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|
 |Alarm|`Yes`
-|Using as USB Drive|`Yes`
+|Using as USB Drive|
 |Call Making Using Voice|`Yes`
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`No`
+|USB-host/OTG|

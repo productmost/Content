@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly Life Compact
-|Price|44.9 USD
-|Launched|
+|Price|47.3 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue`
+|Color|`Gold` `Red` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

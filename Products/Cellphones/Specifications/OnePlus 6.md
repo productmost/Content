@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OnePlus 6
-|Price|403.9 USD
-|Launched|
+|Price|530.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Black`
 |Memory|128 GB;256 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -68,7 +69,7 @@
 |Glonass|`Yes`
 |Bluetooth Standard Version|5.0
 |Wi-Fi Standard Version|802.11ac
-|LTE Advanced Speed|`Cat. 16`
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`Yes`
@@ -76,7 +77,7 @@
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
-|A-GPS|`Yes`
+|A-GPS|
 |BeiDou|`Yes`
 |Wi-Fi Direct|
 |WiMAX|`No`
@@ -95,12 +96,12 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
 |DLNA Support|
-|Bluetooth Audio Streaming|`No`
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 
@@ -168,7 +169,7 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
+|Stereo Sound|
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`No`
+|USB-host/OTG|

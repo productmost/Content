@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI M5
-|Price|20.1 USD
+|Price|20.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Gray`
+|Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

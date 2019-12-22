@@ -1,20 +1,21 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Wize Q3
-|Price|52.4 USD
+|Price|55.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow` `Gold` `Red` `Blue` `Black`
+|Color|`Gold` `Red` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
 |Type of Memory Card Slot|
-|Product Line|`Wize`
+|Product Line|
 |Operating System|`Android`
 |Operating System Version|`Android 7.0`
 |Form Factor|`Phablet`
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|

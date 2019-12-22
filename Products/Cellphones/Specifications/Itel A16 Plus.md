@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel A16 Plus
-|Price|50 USD
+|Price|51.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

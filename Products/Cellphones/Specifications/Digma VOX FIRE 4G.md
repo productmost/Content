@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma VOX FIRE 4G
-|Price|59.9 USD
+|Price|64 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

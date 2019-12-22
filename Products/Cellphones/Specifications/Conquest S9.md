@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Conquest S9
-|Price|487.8 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

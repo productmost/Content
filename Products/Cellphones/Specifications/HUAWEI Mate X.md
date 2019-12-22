@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Mate X
 |Price|
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

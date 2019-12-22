@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Sony Xperia 10 Dual
-|Price|291.3 USD
-|Launched|
+|Price|345.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Pink` `Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

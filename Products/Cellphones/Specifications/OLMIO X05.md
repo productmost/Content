@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OLMIO X05
-|Price|51.1 USD
+|Price|49.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

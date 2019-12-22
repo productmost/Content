@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nubia Z17 Lite
-|Price|215.7 USD
-|Launched|
+|Price|233.3 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,19 +1,20 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi Note 7
-|Price|205 USD
-|Launched|
+|Price|270.1 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Red` `Blue` `Black`
+|Color|`Blue` `Black`
 |Memory|64 GB;32 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
-|Waterproof|`No`
+|Waterproof|
 |Stylus|`No`
-|Type of Memory Card Slot|`Combined with SIM Card`
+|Type of Memory Card Slot|
 |Product Line|`Redmi Note`
 |Operating System|`Android`
 |Operating System Version|`Android 9.0`
@@ -75,7 +76,7 @@
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
-|4G LTE-A|`Yes`
+|4G LTE-A|
 |A-GPS|`Yes`
 |BeiDou|`Yes`
 |Wi-Fi Direct|`Yes`
@@ -93,14 +94,14 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
-|Bluetooth Audio Streaming|`Yes`
+|DLNA Support|
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -124,9 +125,9 @@
 |Battery Capacity|4000 mAh
 |Fast Charging Standard|`Qualcomm Quick Charge 4`
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

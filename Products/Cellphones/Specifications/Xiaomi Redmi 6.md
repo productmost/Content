@@ -1,19 +1,20 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi 6
-|Price|153.1 USD
-|Launched|
+|Price|165 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black` `Blue` `Pink`
+|Color|`Blue` `Gold` `Black` `Pink` `Silver`
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
-|Type of Memory Card Slot|`Combined with SIM Card`
+|Type of Memory Card Slot|
 |Product Line|`Redmi`
 |Operating System|`Android`
 |Operating System Version|`Android 8.1`
@@ -93,9 +94,9 @@
 |HSUPA|`Yes`
 |HSPA+|`Yes`
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
@@ -124,7 +125,7 @@
 |Battery Capacity|3000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
 |Type of Battery|
 |Additional Battery Capacity|
@@ -172,9 +173,9 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

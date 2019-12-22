@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel it2180
-|Price|12.6 USD
+|Price|12.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

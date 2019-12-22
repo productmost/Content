@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LEXAND BT1 Steel
-|Price|26.7 USD
+|Price|30 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

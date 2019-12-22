@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Elegance E9
-|Price|105 USD
+|Price|116.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Ace 3 LTE GT-S7275
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

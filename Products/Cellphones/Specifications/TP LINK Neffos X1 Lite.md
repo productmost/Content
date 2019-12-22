@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|TP-LINK Neffos X1 Lite
-|Price|108.4 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Yellow`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

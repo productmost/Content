@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit U4
-|Price|12 USD
+|Price|13.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

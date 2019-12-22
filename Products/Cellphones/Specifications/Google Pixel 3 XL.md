@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Google Pixel 3 XL
-|Price|645.5 USD
-|Launched|
+|Price|900.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Pink` `Black`
+|Color|`Black`
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax X512
-|Price|8.3 USD
+|Price|13.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue`
+|Color|`Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

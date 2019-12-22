@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze G5 LTE
-|Price|59.9 USD
-|Launched|
+|Price|89.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

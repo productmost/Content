@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HTC EVO 4G
 |Price|
-|Launched|
+|Launched|2010
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|1 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|JOY'S S6
-|Price|22.8 USD
+|Price|23.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Orange` `Gray`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

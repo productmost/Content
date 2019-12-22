@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Porsche Design P'9982
-|Price|600.6 USD
+|Price|499.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Red` `Silver`
+|Color|`Silver`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

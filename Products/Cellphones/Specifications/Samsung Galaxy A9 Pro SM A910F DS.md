@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A9 Pro SM-A910F/DS
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

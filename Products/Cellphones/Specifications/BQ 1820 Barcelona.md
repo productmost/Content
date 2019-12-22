@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1820 Barcelona
-|Price|11.5 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

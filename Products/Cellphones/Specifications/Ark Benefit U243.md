@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit U243
-|Price|9.3 USD
+|Price|13.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Red`
+|Color|`Blue` `Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

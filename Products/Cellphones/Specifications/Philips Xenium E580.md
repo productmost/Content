@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Philips Xenium E580
-|Price|71.2 USD
+|Price|74.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

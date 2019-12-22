@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone U007
-|Price|96 USD
-|Launched|
+|Price|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Silver`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

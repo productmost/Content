@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Leap
-|Price|193.7 USD
+|Price|163.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Gray` `Black`
+|Color|`Gray` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

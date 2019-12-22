@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Disco
-|Price|73.6 USD
+|Price|81 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray` `Black`
+|Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

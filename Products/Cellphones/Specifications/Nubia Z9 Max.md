@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nubia Z9 Max
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -110,12 +111,12 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|2 GB;3 GB
+|RAM|2 GB
 |Memory Card Maximum Capacity|128 GB
 |CPU Cores|8
-|CPU Model|`Qualcomm Snapdragon 615 MSM8939` `Qualcomm Snapdragon 810 MSM8994`
+|CPU Model|`Qualcomm Snapdragon 615 MSM8939`
 |CPU Clock Rate|
-|Graphics Processor Unit|`Adreno 405` `Adreno 430`
+|Graphics Processor Unit|`Adreno 405`
 
 # Battery & Charging
 

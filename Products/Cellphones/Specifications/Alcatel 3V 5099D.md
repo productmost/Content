@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel 3V 5099D
-|Price|131.8 USD
+|Price|130.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

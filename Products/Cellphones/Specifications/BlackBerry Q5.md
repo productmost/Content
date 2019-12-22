@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BlackBerry Q5
 |Price|154.8 USD
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red`
+|Color|`White` `Red`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Caterpillar Cat S41
-|Price|360.2 USD
-|Launched|
+|Price|360.3 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ Aquaris U2
-|Price|161 USD
+|Price|166.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

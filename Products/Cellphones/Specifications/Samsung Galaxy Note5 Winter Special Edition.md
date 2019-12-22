@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Note5 Winter Special Edition
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

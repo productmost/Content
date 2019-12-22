@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Wizard 2
-|Price|47.3 USD
+|Price|50 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

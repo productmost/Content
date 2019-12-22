@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Axon 9 Pro
-|Price|420.3 USD
-|Launched|
+|Price|600.3 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

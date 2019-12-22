@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 100
-|Price|9.6 USD
-|Launched|
+|Price|9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow` `Green` `Gray` `Blue` `Black`
+|Color|`Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma Vox S504 3G
-|Price|85.7 USD
+|Price|64.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`White` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

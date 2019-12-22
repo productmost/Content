@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BlackBerry Z30
 |Price|202.7 USD
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`White` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

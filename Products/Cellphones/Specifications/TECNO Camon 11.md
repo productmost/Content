@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|TECNO Camon 11
-|Price|105 USD
+|Price|135 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Blue` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

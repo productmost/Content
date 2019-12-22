@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV6000s
-|Price|127.5 USD
+|Price|132 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Motorola Moto G7
-|Price|231.1 USD
-|Launched|
+|Price|300.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

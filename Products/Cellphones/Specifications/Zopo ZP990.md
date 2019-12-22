@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|2 GB;1 GB
+|RAM|2 GB
 |Memory Card Maximum Capacity|64 GB
 |CPU Cores|4
 |CPU Model|`MediaTek MT6589T`

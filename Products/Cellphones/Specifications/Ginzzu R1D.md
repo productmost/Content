@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu R1D
-|Price|26.5 USD
+|Price|20.1 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

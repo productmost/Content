@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|JOY'S S3
-|Price|11.1 USD
+|Price|11.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Red` `Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS521 Power Plus 1
-|Price|83.9 USD
-|Launched|
+|Price|76.6 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Jinga M240
-|Price|19.5 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

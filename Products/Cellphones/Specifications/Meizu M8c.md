@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu M8c
-|Price|89.9 USD
-|Launched|
+|Price|108.7 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Gold` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

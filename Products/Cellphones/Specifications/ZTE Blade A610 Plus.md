@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ZTE Blade A610 Plus
 |Price|150.2 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

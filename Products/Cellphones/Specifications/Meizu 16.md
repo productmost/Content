@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu 16
-|Price|273.1 USD
-|Launched|
+|Price|412.6 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`White` `Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI P9
-|Price|25.4 USD
+|Price|22.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver`
+|Color|`Gold` `Silver` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Smartisan U3 Pro
-|Price|187.5 USD
+|Price|345.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Gray` `Purple` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

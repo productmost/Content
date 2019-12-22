@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 5Z ZS620KL
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB;64 GB;256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Honor 10i
-|Price|240.1 USD
-|Launched|
+|Price|300.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Blue` `Black`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -86,7 +87,7 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`Yes`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -111,7 +112,7 @@
 |Property| Value |
 |--------|-------|
 |RAM|4 GB
-|Memory Card Maximum Capacity|512 GB
+|Memory Card Maximum Capacity|
 |CPU Cores|8
 |CPU Model|`HiSilicon Kirin 710`
 |CPU Clock Rate|2200 MHz
@@ -160,10 +161,10 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
-|Buttons|`On Display`
+|Buttons|
 |Vibration|`Yes`
 |Flashlight|`Yes`
 |MP3 Support|`Yes`

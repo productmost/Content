@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI M6
-|Price|20.1 USD
+|Price|19.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Brown`
+|Color|`Brown` `Silver`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

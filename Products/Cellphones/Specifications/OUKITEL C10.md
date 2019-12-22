@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL C10
-|Price|41.9 USD
+|Price|57.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

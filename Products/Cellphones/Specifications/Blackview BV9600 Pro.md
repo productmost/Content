@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV9600 Pro
-|Price|397.7 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

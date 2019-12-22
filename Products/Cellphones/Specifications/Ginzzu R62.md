@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu R62
-|Price|44.9 USD
+|Price|54.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS Zenfone Lite (L1) G553KL
-|Price|105 USD
+|Price|129 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Elegance E11
-|Price|120 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

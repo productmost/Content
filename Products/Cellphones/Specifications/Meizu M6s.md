@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu M6s
-|Price|120 USD
-|Launched|
+|Price|165 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Silver` `Black`
+|Color|`Gold` `Silver` `Blue` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

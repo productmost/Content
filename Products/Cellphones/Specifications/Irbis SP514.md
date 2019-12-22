@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SP514
-|Price|52.3 USD
+|Price|48.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver`
+|Color|`Silver` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

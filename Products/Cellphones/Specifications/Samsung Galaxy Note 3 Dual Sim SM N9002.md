@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Note 3 Dual Sim SM-N9002
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

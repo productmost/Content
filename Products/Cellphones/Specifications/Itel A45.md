@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel A45
-|Price|72.7 USD
-|Launched|
+|Price|82.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

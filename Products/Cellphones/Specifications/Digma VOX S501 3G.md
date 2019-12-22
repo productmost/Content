@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma VOX S501 3G
-|Price|68.8 USD
+|Price|63.7 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green`
+|Color|`Green` `Blue` `Black`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

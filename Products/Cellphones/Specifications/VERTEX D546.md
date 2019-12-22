@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX D546
-|Price|29.3 USD
+|Price|30 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Black`
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

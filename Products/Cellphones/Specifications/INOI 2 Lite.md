@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 2 Lite
-|Price|45.8 USD
-|Launched|
+|Price|52.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

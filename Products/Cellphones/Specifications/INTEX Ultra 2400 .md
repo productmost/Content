@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INTEX Ultra 2400+
-|Price|11.1 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

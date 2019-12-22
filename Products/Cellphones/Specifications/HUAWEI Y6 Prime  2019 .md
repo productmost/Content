@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Y6 Prime (2019)
 |Price|
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,21 +1,22 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 8110 4G
-|Price|71 USD
-|Launched|
+|Price|74.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow` `Black`
+|Color|
 |Memory|4 GB
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
 |Type of Memory Card Slot|
 |Product Line|
-|Operating System|`KaiOs`
+|Operating System|
 |Operating System Version|
 |Form Factor|`Slider`
 |Width|49.3 mm

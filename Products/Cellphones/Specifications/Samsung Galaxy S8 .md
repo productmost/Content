@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy S8+
-|Price|675.5 USD
-|Launched|
+|Price|708.7 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black` `Purple`
+|Color|`Purple` `Black` `Gold`
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy E5 SM-E500F/DS
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 5i Lite
-|Price|59.9 USD
-|Launched|
+|Price|69.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Red` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

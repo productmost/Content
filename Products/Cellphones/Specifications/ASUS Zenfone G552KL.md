@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS Zenfone G552KL
-|Price|86.9 USD
+|Price|105 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

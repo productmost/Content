@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Sense 50X
-|Price|154.8 USD
-|Launched|
+|Price|166.2 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

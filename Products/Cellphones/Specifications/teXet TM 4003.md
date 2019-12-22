@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|teXet TM-4003
-|Price|52.6 USD
-|Launched|
+|Price|60 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

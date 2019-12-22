@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BlackBerry Motion Dual Sim
-|Price|712.5 USD
-|Launched|
+|Price|525.5 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

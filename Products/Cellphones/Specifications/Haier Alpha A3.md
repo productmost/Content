@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Alpha A3
-|Price|59.9 USD
+|Price|73.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

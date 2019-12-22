@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia XZ1 Dual
 |Price|363.4 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Silver` `Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

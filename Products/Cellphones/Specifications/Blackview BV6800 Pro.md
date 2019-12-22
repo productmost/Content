@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV6800 Pro
-|Price|232.3 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow`
+|Color|`Green`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

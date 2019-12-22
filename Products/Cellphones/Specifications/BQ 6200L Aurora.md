@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 6200L Aurora
-|Price|150 USD
-|Launched|
+|Price|225.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

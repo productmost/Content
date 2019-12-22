@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A7 SM-A700F
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Gold`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

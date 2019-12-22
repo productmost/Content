@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Ascend G6
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -98,13 +99,13 @@
 |FM-radio|`No`
 |Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -130,7 +131,7 @@
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`No`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|

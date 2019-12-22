@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nubia Z11 Max
 |Price|195 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SF19
-|Price|9.1 USD
+|Price|9.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

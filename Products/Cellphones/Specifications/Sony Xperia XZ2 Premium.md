@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia XZ2 Premium
 |Price|900.8 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -112,10 +113,10 @@
 |--------|-------|
 |RAM|6 GB
 |Memory Card Maximum Capacity|400 GB
-|CPU Cores|8
+|CPU Cores|
 |CPU Model|`Qualcomm Snapdragon 845`
-|CPU Clock Rate|2800 MHz
-|Graphics Processor Unit|`Adreno 630`
+|CPU Clock Rate|
+|Graphics Processor Unit|
 
 # Battery & Charging
 

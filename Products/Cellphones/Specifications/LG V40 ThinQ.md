@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LG V40 ThinQ
-|Price|480.3 USD
-|Launched|
+|Price|730.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray`
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

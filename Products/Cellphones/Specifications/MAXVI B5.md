@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI B5
-|Price|23.4 USD
+|Price|23.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Brown` `Red` `Gray` `Black`
+|Color|`White` `Brown` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

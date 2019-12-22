@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI P20
 |Price|450.3 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Blue` `Black`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -35,7 +36,7 @@
 |Flash Type|`LED Flash`
 |Front Camera|`Yes`
 |Resolution of Front Camera|24 MP
-|Optical Stabilization|`No`
+|Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
@@ -49,8 +50,8 @@
 |Display Aspect Ratio|18.5:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`IPS`
-|Scratch Resistant Glass|`No`
+|Display Technology|
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -62,23 +63,23 @@
 
 |Property| Value |
 |--------|-------|
-|SIM Card Form Factor|`nano SIM`
+|SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
 |Glonass|`Yes`
-|Bluetooth Standard Version|4.2
-|Wi-Fi Standard Version|802.11ac
-|LTE Advanced Speed|`Cat. 18`
+|Bluetooth Standard Version|
+|Wi-Fi Standard Version|
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`Yes`
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
-|4G LTE-A|`Yes`
+|4G LTE-A|
 |A-GPS|`Yes`
 |BeiDou|`Yes`
-|Wi-Fi Direct|`No`
+|Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
 |GSM 900|`Yes`
@@ -95,12 +96,12 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
-|Bluetooth Audio Streaming|`Yes`
+|DLNA Support|
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -122,7 +123,7 @@
 |Property| Value |
 |--------|-------|
 |Battery Capacity|3400 mAh
-|Fast Charging Standard|`Huawei SuperCharge`
+|Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|
 |Speaking Run Time|
@@ -130,7 +131,7 @@
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`Yes`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Metal + Glass`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|
@@ -168,13 +169,13 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
+|Stereo Sound|
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

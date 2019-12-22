@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX A105 2G
-|Price|6.5 USD
+|Price|7.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

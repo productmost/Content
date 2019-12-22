@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A30
-|Price|195 USD
-|Launched|
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Blue` `Black` `Red`
-|Memory|32 GB;64 GB
+|Color|
+|Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`AMOLED`
-|Scratch Resistant Glass|`Yes` `No`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -93,9 +94,9 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|3 GB;4 GB
+|RAM|4 GB
 |Memory Card Maximum Capacity|512 GB
 |CPU Cores|8
 |CPU Model|`Samsung Exynos 7904`
@@ -124,9 +125,9 @@
 |Battery Capacity|4000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
-|Type of Battery|`Li-polymer`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`

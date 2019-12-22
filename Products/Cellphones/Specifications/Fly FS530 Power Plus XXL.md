@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS530 Power Plus XXL
-|Price|95.8 USD
-|Launched|
+|Price|70.5 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

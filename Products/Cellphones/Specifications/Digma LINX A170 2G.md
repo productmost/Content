@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX A170 2G
-|Price|7.7 USD
+|Price|8.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Purple` `Black`
+|Color|`Red` `Blue` `Purple` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

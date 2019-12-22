@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI K15
-|Price|22.4 USD
+|Price|19.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Gray` `Blue`
+|Color|`Blue` `Brown` `Red` `Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

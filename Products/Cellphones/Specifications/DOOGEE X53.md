@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE X53
-|Price|68.9 USD
+|Price|74.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Silver` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

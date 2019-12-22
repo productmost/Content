@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI T3
-|Price|32 USD
+|Price|35.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Blue` `Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

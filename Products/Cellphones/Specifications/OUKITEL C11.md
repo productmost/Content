@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL C11
-|Price|67.4 USD
+|Price|71.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Gold` `Blue`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

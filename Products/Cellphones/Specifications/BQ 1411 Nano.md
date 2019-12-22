@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1411 Nano
-|Price|17.9 USD
+|Price|16.5 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Pink` `Silver` `Black`
+|Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

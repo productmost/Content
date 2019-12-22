@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze U3 LTE
-|Price|71.9 USD
+|Price|82.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

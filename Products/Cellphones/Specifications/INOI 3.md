@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 3
-|Price|67.4 USD
-|Launched|
+|Price|74.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Gold` `Blue` `Black`
+|Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

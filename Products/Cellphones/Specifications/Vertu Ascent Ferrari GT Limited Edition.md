@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Vertu Ascent Ferrari GT Limited Edition
 |Price|
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

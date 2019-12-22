@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Highscreen Power Five Max 2
-|Price|135 USD
-|Launched|
+|Price|189 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Brown` `Black` `Blue`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SP554
-|Price|74.5 USD
+|Price|84.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

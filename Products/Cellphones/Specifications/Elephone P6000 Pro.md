@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|2 GB;3 GB
+|RAM|2 GB
 |Memory Card Maximum Capacity|128 GB
 |CPU Cores|8
 |CPU Model|`MediaTek MT6753`

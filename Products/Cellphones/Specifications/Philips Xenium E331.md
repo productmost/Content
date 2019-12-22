@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Philips Xenium E331
 |Price|89.9 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

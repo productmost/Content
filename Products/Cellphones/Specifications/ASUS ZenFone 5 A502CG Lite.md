@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 5 A502CG Lite
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

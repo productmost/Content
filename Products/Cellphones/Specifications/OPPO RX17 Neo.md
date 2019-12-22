@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OPPO RX17 Neo
-|Price|352.7 USD
-|Launched|
+|Price|360.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Blue`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

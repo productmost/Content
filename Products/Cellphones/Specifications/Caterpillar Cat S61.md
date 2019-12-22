@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Caterpillar Cat S61
-|Price|780.6 USD
-|Launched|
+|Price|763.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

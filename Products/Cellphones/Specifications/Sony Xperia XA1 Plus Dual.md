@@ -2,18 +2,19 @@
 |--------|-----|
 |Name|Sony Xperia XA1 Plus Dual
 |Price|180 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Gold` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
-|Type of Memory Card Slot|`Separate`
+|Type of Memory Card Slot|
 |Product Line|`Xperia XA` `Xperia`
 |Operating System|`Android`
 |Operating System Version|`Android 7.0` `Android 8.0`
@@ -36,7 +37,7 @@
 |Front Camera|`Yes`
 |Resolution of Front Camera|8 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|1920x1080
+|Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
 |RAW Format Support|`No`
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|16:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`IPS`
+|Display Technology|
 |Scratch Resistant Glass|`Yes`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -76,7 +77,7 @@
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
-|A-GPS|`Yes`
+|A-GPS|
 |BeiDou|`No`
 |Wi-Fi Direct|
 |WiMAX|`No`
@@ -86,7 +87,7 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
@@ -124,9 +125,9 @@
 |Battery Capacity|3430 mAh
 |Fast Charging Standard|`MediaTek PumpExpress+ 2.0`
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
@@ -163,7 +164,7 @@
 |Body Material|`Plastic`
 |Specific Absorption Rate|
 |Changeable Parts|`No`
-|Buttons|`On Display`
+|Buttons|
 |Vibration|`Yes`
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -176,7 +177,7 @@
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`
-|Sync with Personal Computer|`Yes`
+|Sync with Personal Computer|
 |Automaric Display Orientation Change|`Yes`
 |Video Output Type|
 |Games|

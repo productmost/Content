@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Wize G1
-|Price|12.9 USD
+|Price|13.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

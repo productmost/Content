@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Seals TS3
-|Price|210.1 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

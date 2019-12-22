@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade L4 Pro
-|Price|75.1 USD
+|Price|85.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

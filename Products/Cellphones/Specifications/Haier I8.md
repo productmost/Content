@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier I8
-|Price|120 USD
+|Price|134.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`Blue`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

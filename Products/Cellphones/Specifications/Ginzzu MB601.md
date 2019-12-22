@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu MB601
-|Price|14.9 USD
+|Price|16.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

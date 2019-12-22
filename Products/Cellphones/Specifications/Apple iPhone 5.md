@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Apple iPhone 5
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Silver` `Black`
+|Color|
 |Memory|16 GB;32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

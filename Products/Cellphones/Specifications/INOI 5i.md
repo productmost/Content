@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 5i
-|Price|68.9 USD
+|Price|75.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

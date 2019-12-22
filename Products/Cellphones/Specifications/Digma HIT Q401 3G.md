@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma HIT Q401 3G
-|Price|37.4 USD
-|Launched|
+|Price|40.5 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Red` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze L1
-|Price|23.6 USD
+|Price|20.9 USD
 |Launched|
 
  
@@ -9,12 +9,13 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
 |Type of Memory Card Slot|
-|Product Line|`Muze`
+|Product Line|
 |Operating System|
 |Operating System Version|
 |Form Factor|`Phablet`
@@ -31,8 +32,8 @@
 |Camera Resolution|0.3 MP
 |Number of Rear Cameras|1
 |Autofocus|`No`
-|Flash|`Rear Flash`
-|Flash Type|`LED Flash`
+|Flash|`None`
+|Flash Type|
 |Front Camera|`No`
 |Resolution of Front Camera|
 |Optical Stabilization|`No`
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|
 |Touch Screen|`No`
 |Multitouch|
-|Display Technology|`TN`
+|Display Technology|
 |Scratch Resistant Glass|`No`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -111,7 +112,7 @@
 |Property| Value |
 |--------|-------|
 |RAM|
-|Memory Card Maximum Capacity|32 GB
+|Memory Card Maximum Capacity|
 |CPU Cores|
 |CPU Model|`MediaTek MT6261`
 |CPU Clock Rate|
@@ -165,7 +166,7 @@
 |Changeable Parts|`No`
 |Buttons|
 |Vibration|
-|Flashlight|`Yes`
+|Flashlight|
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
 |Stereo Sound|`No`

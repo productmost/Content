@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE S70
-|Price|390.2 USD
-|Launched|
+|Price|331.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Red` `Orange` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

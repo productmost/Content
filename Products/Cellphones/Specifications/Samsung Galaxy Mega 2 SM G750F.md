@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Mega 2 SM-G750F
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

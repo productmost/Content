@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Diamond Alpha Plus
-|Price|204.8 USD
-|Launched|
+|Price|321.2 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

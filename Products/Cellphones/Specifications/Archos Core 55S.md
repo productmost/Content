@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Core 55S
-|Price|86.6 USD
-|Launched|
+|Price|90.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

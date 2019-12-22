@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel P13 Plus
-|Price|66.1 USD
-|Launched|
+|Price|74.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

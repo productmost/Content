@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI P20 Lite
 |Price|255.1 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -36,7 +37,7 @@
 |Front Camera|`Yes`
 |Resolution of Front Camera|16 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|1920x1080
+|Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
 |RAW Format Support|`No`
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|19:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`TFT`
+|Display Technology|
 |Scratch Resistant Glass|`No`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -62,22 +63,22 @@
 
 |Property| Value |
 |--------|-------|
-|SIM Card Form Factor|`nano SIM`
+|SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
 |Glonass|`Yes`
 |Bluetooth Standard Version|4.2
 |Wi-Fi Standard Version|802.11ac
-|LTE Advanced Speed|`Cat. 6`
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`Yes`
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
-|4G LTE-A|`Yes`
+|4G LTE-A|
 |A-GPS|`Yes`
-|BeiDou|`Yes`
+|BeiDou|
 |Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -130,7 +131,7 @@
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`Yes`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

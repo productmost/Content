@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Runbo F1 magnetic
-|Price|299.5 USD
+|Price|298.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

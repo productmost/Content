@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Redmi 7
 |Price|187.7 USD
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Blue` `Black`
 |Memory|64 GB;32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI P20 Pro
-|Price|519.2 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Green` `Blue` `Purple`
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -35,7 +36,7 @@
 |Flash Type|`LED Flash`
 |Front Camera|`Yes`
 |Resolution of Front Camera|24 MP
-|Optical Stabilization|`Yes`
+|Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
@@ -62,20 +63,20 @@
 
 |Property| Value |
 |--------|-------|
-|SIM Card Form Factor|`nano SIM`
+|SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
 |Glonass|`Yes`
-|Bluetooth Standard Version|4.2
-|Wi-Fi Standard Version|802.11ac
-|LTE Advanced Speed|`Cat. 18`
+|Bluetooth Standard Version|
+|Wi-Fi Standard Version|
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`Yes`
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
-|4G LTE-A|`Yes`
+|4G LTE-A|
 |A-GPS|`Yes`
 |BeiDou|`Yes`
 |Wi-Fi Direct|
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -122,7 +123,7 @@
 |Property| Value |
 |--------|-------|
 |Battery Capacity|4000 mAh
-|Fast Charging Standard|`Huawei SuperCharge`
+|Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|
 |Speaking Run Time|
@@ -130,7 +131,7 @@
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`Yes`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors
@@ -168,13 +169,13 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`Yes`
+|Stereo Sound|
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

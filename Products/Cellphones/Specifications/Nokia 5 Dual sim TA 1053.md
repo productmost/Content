@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 5 Dual sim TA-1053
-|Price|164.3 USD
+|Price|175.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Orange`
+|Color|`Beige` `Orange` `Silver` `Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Diamond Omega
-|Price|320.4 USD
-|Launched|
+|Price|407.2 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

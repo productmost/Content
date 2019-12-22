@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LG X cam K580DS
-|Price|270.1 USD
-|Launched|
+|Price|339.2 USD
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

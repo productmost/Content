@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu 15 Lite
-|Price|143.4 USD
-|Launched|
+|Price|174.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Gold` `Red` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|LeEco Le 1S
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

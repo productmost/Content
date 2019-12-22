@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LEXAND A2 Flip
-|Price|17.9 USD
+|Price|23.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

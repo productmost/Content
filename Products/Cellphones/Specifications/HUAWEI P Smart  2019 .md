@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI P Smart (2019)
-|Price|191.7 USD
-|Launched|
+|Price|221.8 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Green` `Blue` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -36,7 +37,7 @@
 |Front Camera|`Yes`
 |Resolution of Front Camera|16 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|1920x1080
+|Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
 |RAW Format Support|`No`
@@ -68,14 +69,14 @@
 |Glonass|`Yes`
 |Bluetooth Standard Version|4.2
 |Wi-Fi Standard Version|802.11ac
-|LTE Advanced Speed|`Cat. 4`
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`Yes`
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
-|4G LTE-A|`Yes`
+|4G LTE-A|
 |A-GPS|`Yes`
 |BeiDou|`No`
 |Wi-Fi Direct|`Yes`
@@ -93,14 +94,14 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
 |DLNA Support|`No`
-|Bluetooth Audio Streaming|`Yes`
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -126,7 +127,7 @@
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
 |Speaking Run Time|
-|Type of Battery|`Li-polymer`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
@@ -138,7 +139,7 @@
 |Property| Value |
 |--------|-------|
 |Compass|`Yes`
-|Gyroscope|`No`
+|Gyroscope|
 |Light Sensor|`Yes`
 |Proximity Sensor|`Yes`
 |Hall Sensor|`No`
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|
@@ -172,9 +173,9 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

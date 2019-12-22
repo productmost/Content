@@ -7,8 +7,9 @@
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL C13 Pro
-|Price|82.6 USD
-|Launched|
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

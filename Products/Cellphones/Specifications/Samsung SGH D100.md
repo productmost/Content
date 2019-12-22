@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung SGH-D100
-|Price|29.2 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|
 |Shockproof|
 |Waterproof|`No`

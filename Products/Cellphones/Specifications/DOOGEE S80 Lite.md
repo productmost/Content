@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE S80 Lite
-|Price|315.2 USD
+|Price|364.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Orange`
+|Color|`Orange` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

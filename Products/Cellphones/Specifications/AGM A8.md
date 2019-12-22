@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|AGM A8
-|Price|239.8 USD
+|Price|239.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

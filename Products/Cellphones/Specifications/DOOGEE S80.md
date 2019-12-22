@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE S80
-|Price|443.5 USD
-|Launched|
+|Price|525.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Orange` `Black`
+|Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

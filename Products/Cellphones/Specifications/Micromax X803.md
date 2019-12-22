@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax X803
-|Price|10.5 USD
+|Price|19.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 249S
-|Price|32 USD
+|Price|32.3 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

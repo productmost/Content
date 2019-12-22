@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|3 GB
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`No`

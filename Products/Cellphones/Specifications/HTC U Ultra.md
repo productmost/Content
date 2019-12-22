@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HTC U Ultra
-|Price|509.2 USD
-|Launched|
+|Price|360.2 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

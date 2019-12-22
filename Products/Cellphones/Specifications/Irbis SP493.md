@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SP493
-|Price|47.6 USD
+|Price|45 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray` `Black`
+|Color|`Black`
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

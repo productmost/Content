@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|AGM A9
-|Price|300.2 USD
-|Launched|
+|Price|403.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

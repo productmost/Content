@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly Flip
-|Price|22.8 USD
+|Price|21.2 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

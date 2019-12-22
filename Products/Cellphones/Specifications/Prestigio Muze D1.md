@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio Muze D1
-|Price|15 USD
+|Price|14.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Handheld Nautiz X3
 |Price|
-|Launched|
+|Launched|2010
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

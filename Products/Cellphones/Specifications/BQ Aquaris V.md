@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ Aquaris V
-|Price|179.7 USD
-|Launched|
+|Price|187.1 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Black`
 |Memory|16 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

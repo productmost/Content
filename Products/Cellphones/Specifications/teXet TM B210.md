@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|teXet TM-B210
 |Price|
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

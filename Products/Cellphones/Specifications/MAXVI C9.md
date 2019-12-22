@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI C9
-|Price|13.4 USD
+|Price|12.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Yellow` `Red` `Gray` `Black`
+|Color|`White` `Yellow` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

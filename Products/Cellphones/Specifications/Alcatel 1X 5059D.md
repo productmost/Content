@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel 1X 5059D
-|Price|109.6 USD
-|Launched|
+|Price|111.7 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|`Gray` `Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

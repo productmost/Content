@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu M5
-|Price|75.1 USD
-|Launched|
+|Price|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

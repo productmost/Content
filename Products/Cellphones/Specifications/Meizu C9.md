@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu C9
-|Price|85.4 USD
-|Launched|
+|Price|88.6 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

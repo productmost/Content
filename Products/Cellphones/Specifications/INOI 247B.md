@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 247B
-|Price|26.3 USD
+|Price|26.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BlackBerry Porsche Design P’9981
 |Price|675.7 USD
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Silver` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

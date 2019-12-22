@@ -8,7 +8,8 @@
 |Property| Value |
 |--------|-------|
 |Color|
-|Memory|8 GB;32 GB
+|Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,30 +17,30 @@
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|`Android`
-|Operating System Version|`Android 6.0` `Android 4.2`
+|Operating System Version|`Android 4.2`
 |Form Factor|`Phablet`
-|Width|72 mm;71 mm
-|Height|144 mm;141 mm
-|Depth|9 mm;8.9 mm
-|Weight|182 g;169 g
+|Width|71 mm
+|Height|141 mm
+|Depth|8.9 mm
+|Weight|169 g
 
 # Camera
 
 |Property| Value |
 |--------|-------|
 |Rear Camera|`Yes`
-|Camera Resolution|8 MP;13 MP
+|Camera Resolution|13 MP
 |Number of Rear Cameras|1
 |Autofocus|
 |Flash|`Rear Flash`
-|Flash Type|`LED Flash`
+|Flash Type|
 |Front Camera|`Yes`
-|Resolution of Front Camera|2 MP;5 MP
+|Resolution of Front Camera|5 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|
+|Video Recording Resolution|1920x1080
 |Macro Mode|
 |Geo-tagging|
-|RAW Format Support|`No`
+|RAW Format Support|
 
 # Display
 
@@ -51,20 +52,20 @@
 |Multitouch|`Yes`
 |Display Technology|`IPS`
 |Scratch Resistant Glass|`No`
-|Force Touch|`No`
+|Force Touch|
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
 |Two Displays|`No`
-|Curved Display|`No`
+|Curved Display|
 |Colorful Secondary Display|`No`
 
 # Communications
 
 |Property| Value |
 |--------|-------|
-|SIM Card Form Factor|`micro SIM+nano SIM`
+|SIM Card Form Factor|
 |SIM Card Slots|2
-|Dual SIM Card Mode|`Dual SIM Standby`
+|Dual SIM Card Mode|
 |Glonass|
 |Bluetooth Standard Version|
 |Wi-Fi Standard Version|
@@ -77,7 +78,7 @@
 |Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
-|BeiDou|`No`
+|BeiDou|
 |Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
@@ -86,7 +87,7 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|
@@ -95,33 +96,33 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No` `Yes`
-|Integrated Two-Way Radio Set|`No`
+|FM-radio|`Yes`
+|Integrated Two-Way Radio Set|
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
 |Property| Value |
 |--------|-------|
 |RAM|1 GB
-|Memory Card Maximum Capacity|32 GB;64 GB
+|Memory Card Maximum Capacity|64 GB
 |CPU Cores|4
-|CPU Model|`MediaTek MT6580` `MediaTek MT6589T`
-|CPU Clock Rate|1300 MHz;1500 MHz
-|Graphics Processor Unit|`Mali-400 MP2` `PowerVR SGX544`
+|CPU Model|`MediaTek MT6589T`
+|CPU Clock Rate|1500 MHz
+|Graphics Processor Unit|`PowerVR SGX544`
 
 # Battery & Charging
 
 |Property| Value |
 |--------|-------|
-|Battery Capacity|2050 mAh;2400 mAh
+|Battery Capacity|2400 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|
@@ -137,14 +138,14 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|
+|Compass|`Yes`
 |Gyroscope|`No`
 |Light Sensor|
 |Proximity Sensor|
-|Hall Sensor|`No`
+|Hall Sensor|
 |Barometer|`No`
 |Fingerprint Scanner|`No`
-|Iris scanner|`No`
+|Iris scanner|
 
 # Ports
 
@@ -159,8 +160,8 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
-|Body Material|`Aluminium + Plastic` `Plastic`
+|Push-To-Talk|
+|Body Material|`Plastic`
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|`Sensory`
@@ -168,10 +169,10 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
-|AAC Support|
+|Stereo Sound|
+|AAC Support|`Yes`
 |WAV Support|
-|WMA Support|
+|WMA Support|`Yes`
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|`No`

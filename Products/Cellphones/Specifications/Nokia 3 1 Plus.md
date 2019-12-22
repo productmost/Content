@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nokia 3.1 Plus
 |Price|148.3 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gray` `Blue`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

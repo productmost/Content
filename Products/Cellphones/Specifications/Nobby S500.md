@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby S500
-|Price|50.9 USD
-|Launched|
+|Price|62.9 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

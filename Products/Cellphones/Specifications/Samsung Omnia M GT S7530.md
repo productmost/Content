@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Omnia M GT-S7530
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HTC U12 Plus
-|Price|602.9 USD
-|Launched|
+|Price|690.5 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black` `Blue`
+|Color|`Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

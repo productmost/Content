@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S4 GT-I9505
 |Price|
-|Launched|
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB;16 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

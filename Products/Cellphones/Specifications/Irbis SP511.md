@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SP511
-|Price|46.6 USD
+|Price|52.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

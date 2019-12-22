@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FF190
-|Price|11.9 USD
-|Launched|
+|Price|10.4 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

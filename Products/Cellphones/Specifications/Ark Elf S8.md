@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Elf S8
-|Price|59.9 USD
+|Price|72.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Red` `Black`
+|Color|`Gold` `Red` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A5 SM-A500F
-|Price|375.2 USD
-|Launched|
+|Price|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Gold`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu 15 Plus
-|Price|433 USD
-|Launched|
+|Price|435.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

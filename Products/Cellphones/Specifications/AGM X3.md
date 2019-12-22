@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|AGM X3
-|Price|600.5 USD
-|Launched|
+|Price|804.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|128 GB;256 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nubia Z17 mini
 |Price|202.6 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
-|Memory|64 GB;128 GB
+|Color|`Gold` `Black`
+|Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

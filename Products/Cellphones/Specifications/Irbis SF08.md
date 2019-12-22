@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Irbis SF08
-|Price|14.6 USD
+|Price|17.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

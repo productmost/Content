@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax Q357
-|Price|44.9 USD
+|Price|53.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

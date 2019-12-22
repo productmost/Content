@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Motorola Moto Z
 |Price|225.2 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

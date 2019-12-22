@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy S8
-|Price|600.4 USD
-|Launched|
+|Price|598.8 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Red` `Purple` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|8 MP
 |Optical Stabilization|`Yes`
 |Video Recording Resolution|3840x2160
-|Macro Mode|`Yes`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`Yes`
 
@@ -76,7 +77,7 @@
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
-|A-GPS|`Yes`
+|A-GPS|
 |BeiDou|`Yes`
 |Wi-Fi Direct|`No`
 |WiMAX|`No`
@@ -100,7 +101,7 @@
 |Power of Radio Set|
 |VoIP|`No`
 |DLNA Support|`No`
-|Bluetooth Audio Streaming|`Yes`
+|Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
@@ -124,7 +125,7 @@
 |Battery Capacity|3000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|20 h
 |Type of Battery|`Li-Ion`
 |Additional Battery Capacity|

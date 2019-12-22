@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|VERTEX Impress Zeon 3G
 |Price|67.6 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Elegance E13
-|Price|150 USD
-|Launched|
+|Price|174.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gray`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV7000
-|Price|130.5 USD
+|Price|142.5 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Gray`
+|Color|`Silver`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

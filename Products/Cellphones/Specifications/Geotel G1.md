@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Geotel G1
-|Price|150 USD
-|Launched|
+|Price|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Honor 8A Pro
-|Price|165 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

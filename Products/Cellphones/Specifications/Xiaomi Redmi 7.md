@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Redmi 7
-|Price|148.3 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Blue` `Black`
+|Color|
 |Memory|64 GB;32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Separate`
 |Product Line|`Redmi`
 |Operating System|`Android`
-|Operating System Version|`Android 9.0`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|75.58 mm
 |Height|158.73 mm
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|8 MP
 |Optical Stabilization|`No`
 |Video Recording Resolution|1920x1080
-|Macro Mode|`Yes`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -49,7 +50,7 @@
 |Display Aspect Ratio|19:9
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
-|Display Technology|`IPS`
+|Display Technology|
 |Scratch Resistant Glass|`Yes`
 |Force Touch|`No`
 |Colorful Display|`Yes`
@@ -95,10 +96,10 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
@@ -126,7 +127,7 @@
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
 |Speaking Run Time|
-|Type of Battery|`Li-Ion`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
@@ -160,7 +161,7 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
 |Buttons|`On Display`
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

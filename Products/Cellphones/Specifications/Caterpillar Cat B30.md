@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Caterpillar Cat B30
-|Price|82.4 USD
+|Price|59.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|1 GB
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

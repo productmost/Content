@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BQ 2442 One L+
 |Price|13.4 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow` `Blue` `Black`
+|Color|`Yellow` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

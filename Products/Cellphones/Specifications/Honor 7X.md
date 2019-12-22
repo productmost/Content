@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Honor 7X
-|Price|151.5 USD
-|Launched|
+|Price|166.5 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold`
 |Memory|32 GB;128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

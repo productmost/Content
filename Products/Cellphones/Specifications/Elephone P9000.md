@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Elephone P9000
 |Price|180 USD
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

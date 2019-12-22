@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|KYOCERA Torque KC-S701
 |Price|540.6 USD
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy Note 9
-|Price|765.6 USD
-|Launched|
+|Price|1019.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black` `Brown` `Orange`
-|Memory|128 GB;512 GB;256 GB
+|Memory|128 GB;512 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`Yes`
@@ -39,7 +40,7 @@
 |Video Recording Resolution|3840x2160
 |Macro Mode|`Yes`
 |Geo-tagging|
-|RAW Format Support|`No`
+|RAW Format Support|
 
 # Display
 
@@ -68,7 +69,7 @@
 |Glonass|`Yes`
 |Bluetooth Standard Version|5.0
 |Wi-Fi Standard Version|802.11ac
-|LTE Advanced Speed|`Cat. 18`
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`Yes`
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 

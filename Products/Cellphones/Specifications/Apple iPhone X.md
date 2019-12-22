@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Apple iPhone X
 |Price|968.3 USD
-|Launched|
+|Launched|2018;2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|256 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`Yes`

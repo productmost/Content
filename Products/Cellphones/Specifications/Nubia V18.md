@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nubia V18
-|Price|156 USD
-|Launched|
+|Price|202.9 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

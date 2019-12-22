@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor V4
-|Price|192 USD
+|Price|239.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

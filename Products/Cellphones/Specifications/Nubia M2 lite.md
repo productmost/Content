@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Nubia M2 lite
-|Price|109.6 USD
+|Price|138.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

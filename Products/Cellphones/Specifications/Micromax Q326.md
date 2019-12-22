@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Micromax Q326
-|Price|29.9 USD
+|Price|
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

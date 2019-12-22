@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Core 57S
-|Price|103.2 USD
-|Launched|
+|Price|101.7 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Nobby 101
 |Price|11.1 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Gray` `Blue` `Black`
+|Color|`Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

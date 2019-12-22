@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Innos D6000
-|Price|127.5 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

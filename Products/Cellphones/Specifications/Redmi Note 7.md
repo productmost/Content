@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Redmi Note 7
 |Price|262.6 USD
-|Launched|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black` `Red`
 |Memory|128 GB;64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

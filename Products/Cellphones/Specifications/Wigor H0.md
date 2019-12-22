@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor H0
-|Price|41.9 USD
+|Price|35.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

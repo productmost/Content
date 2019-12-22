@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos 50 Helium Plus
-|Price|73.6 USD
-|Launched|
+|Price|79.6 USD
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

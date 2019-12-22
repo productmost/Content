@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Runbo F1 Plus
-|Price|434.7 USD
-|Launched|
+|Price|429.4 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade A5
-|Price|82.4 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

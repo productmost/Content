@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI B6
-|Price|24.9 USD
+|Price|25.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Red` `Blue` `Black`
+|Color|`Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

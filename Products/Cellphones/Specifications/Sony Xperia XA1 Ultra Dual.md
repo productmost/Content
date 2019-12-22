@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia XA1 Ultra Dual
 |Price|165 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

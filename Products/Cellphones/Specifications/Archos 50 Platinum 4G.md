@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos 50 Platinum 4G
-|Price|57.2 USD
+|Price|57.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

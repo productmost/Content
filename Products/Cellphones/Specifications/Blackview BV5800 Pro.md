@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Blackview BV5800 Pro
 |Price|154.4 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Yellow` `Green` `Orange` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

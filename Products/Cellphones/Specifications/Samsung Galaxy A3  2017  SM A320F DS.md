@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A3 (2017) SM-A320F/DS
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Gold`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

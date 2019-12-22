@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly Life Compact 4G
-|Price|52.1 USD
+|Price|57.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Red` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

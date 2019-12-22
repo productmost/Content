@@ -8,7 +8,8 @@
 |Property| Value |
 |--------|-------|
 |Color|
-|Memory|4 GB
+|Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -51,7 +52,7 @@
 |Multitouch|`Yes`
 |Display Technology|`TFT`
 |Scratch Resistant Glass|`No`
-|Force Touch|`No`
+|Force Touch|
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
 |Two Displays|`No`
@@ -77,7 +78,7 @@
 |Bluetooth|`Yes`
 |4G LTE-A|
 |A-GPS|
-|BeiDou|`No`
+|BeiDou|
 |Wi-Fi Direct|`Yes`
 |WiMAX|`No`
 |CDMA 800|`No`
@@ -86,7 +87,7 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
@@ -137,14 +138,14 @@
 
 |Property| Value |
 |--------|-------|
-|Compass|`No`
+|Compass|
 |Gyroscope|`No`
 |Light Sensor|`No`
 |Proximity Sensor|`Yes`
-|Hall Sensor|`No`
+|Hall Sensor|
 |Barometer|`No`
 |Fingerprint Scanner|`No`
-|Iris scanner|`No`
+|Iris scanner|
 
 # Ports
 
@@ -168,7 +169,7 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
+|Stereo Sound|
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`No`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|
-|USB-host/OTG|`No`
+|USB-host/OTG|

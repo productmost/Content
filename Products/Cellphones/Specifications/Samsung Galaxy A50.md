@@ -1,19 +1,20 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A50
-|Price|342.6 USD
-|Launched|
+|Price|375.2 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Blue` `Black`
 |Memory|128 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
-|Type of Memory Card Slot|`Separate`
+|Type of Memory Card Slot|`Combined with SIM Card`
 |Product Line|`Galaxy A`
 |Operating System|`Android`
 |Operating System Version|`Android 9.0`
@@ -36,7 +37,7 @@
 |Front Camera|`Yes`
 |Resolution of Front Camera|25 MP
 |Optical Stabilization|`No`
-|Video Recording Resolution|1920x1080
+|Video Recording Resolution|
 |Macro Mode|`Yes`
 |Geo-tagging|
 |RAW Format Support|`No`
@@ -46,11 +47,11 @@
 |Property| Value |
 |--------|-------|
 |Display Size|6.4 in
-|Display Aspect Ratio|19.5:9
+|Display Aspect Ratio|
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`AMOLED`
-|Scratch Resistant Glass|`Yes` `No`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -62,7 +63,7 @@
 
 |Property| Value |
 |--------|-------|
-|SIM Card Form Factor|`nano SIM`
+|SIM Card Form Factor|
 |SIM Card Slots|2
 |Dual SIM Card Mode|`Dual SIM Standby`
 |Glonass|`Yes`
@@ -78,7 +79,7 @@
 |4G LTE-A|`Yes`
 |A-GPS|`Yes`
 |BeiDou|`Yes`
-|Wi-Fi Direct|`Yes`
+|Wi-Fi Direct|
 |WiMAX|`No`
 |CDMA 800|`No`
 |GSM 900|`Yes`
@@ -93,13 +94,13 @@
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -124,11 +125,11 @@
 |Battery Capacity|4000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|
-|Battery Mount Type|`Integrated`
-|Speaking Run Time|23 h
-|Type of Battery|`Li-polymer`
+|Battery Mount Type|
+|Speaking Run Time|
+|Type of Battery|
 |Additional Battery Capacity|
-|Audio Playback Run Time|92 h
+|Audio Playback Run Time|
 |Wireless Charging|`No`
 |Fast Charging Support|`Yes`
 |Charging via USB|`Yes`
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`No`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

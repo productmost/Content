@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OLMIO C17
-|Price|21.3 USD
+|Price|22.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone for Seniors`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

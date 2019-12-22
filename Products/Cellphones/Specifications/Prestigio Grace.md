@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Prestigio Grace
 |Price|63.1 USD
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

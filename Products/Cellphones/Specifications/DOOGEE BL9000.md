@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE BL9000
-|Price|240.1 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

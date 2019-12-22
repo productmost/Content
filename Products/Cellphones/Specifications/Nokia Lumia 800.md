@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia Lumia 800
-|Price|120.6 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

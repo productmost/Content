@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly FS408 Stratus 8
-|Price|29.2 USD
-|Launched|
+|Price|33 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Green` `Red` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

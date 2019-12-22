@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|BQ 5302G Velvet 2
 |Price|67.4 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Red` `Blue` `Purple` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

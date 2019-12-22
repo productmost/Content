@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Honor View 20
-|Price|390.2 USD
-|Launched|
+|Price|570.4 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Black` `Red`
 |Memory|128 GB;256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -35,7 +36,7 @@
 |Flash Type|`LED Flash`
 |Front Camera|`Yes`
 |Resolution of Front Camera|25 MP
-|Optical Stabilization|`No`
+|Optical Stabilization|
 |Video Recording Resolution|3840x2160
 |Macro Mode|`Yes`
 |Geo-tagging|
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|
-|Scratch Resistant Glass|`No`
+|Scratch Resistant Glass|
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -95,16 +96,16 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|`Yes`
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -126,7 +127,7 @@
 |Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
 |Speaking Run Time|
-|Type of Battery|`Li-polymer`
+|Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 
@@ -174,7 +175,7 @@
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`

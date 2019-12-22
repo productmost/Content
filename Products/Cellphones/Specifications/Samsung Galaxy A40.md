@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A40
-|Price|262.8 USD
-|Launched|
+|Price|270.1 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Red` `Blue` `Black`
+|Color|`Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -113,9 +114,9 @@
 |RAM|4 GB
 |Memory Card Maximum Capacity|512 GB
 |CPU Cores|8
-|CPU Model|`Samsung Exynos 7904`
+|CPU Model|
 |CPU Clock Rate|
-|Graphics Processor Unit|`Mali-G71 MP2`
+|Graphics Processor Unit|
 
 # Battery & Charging
 
@@ -160,10 +161,10 @@
 |Property| Value |
 |--------|-------|
 |Push-To-Talk|`No`
-|Body Material|`Plastic`
+|Body Material|
 |Specific Absorption Rate|0.49 W/kg
 |Changeable Parts|`No`
-|Buttons|`On Display`
+|Buttons|
 |Vibration|`Yes`
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
-|USB-host/OTG|`No`
+|MST|
+|USB-host/OTG|

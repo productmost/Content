@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel it5613
-|Price|18.3 USD
+|Price|22.2 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

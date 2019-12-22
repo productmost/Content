@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|TP-LINK Neffos Y5s
-|Price|82.3 USD
+|Price|91.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

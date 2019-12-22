@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|
 |Waterproof|`No`
@@ -93,7 +94,7 @@
 |HSUPA|`No`
 |HSPA+|`No`
 |FM Transmitter|
-|Integrated Radio Antenna|
+|Integrated Radio Antenna|`No`
 |TV Tunner|
 |FM-radio|`No`
 |Integrated Two-Way Radio Set|

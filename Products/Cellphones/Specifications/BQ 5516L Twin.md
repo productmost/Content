@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5516L Twin
-|Price|89.9 USD
+|Price|120 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gray`
+|Color|`Gold` `Gray`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

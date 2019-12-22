@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Blackview BV7000 Pro
 |Price|187.7 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

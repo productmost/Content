@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|HUAWEI Y5 Lite
-|Price|83.3 USD
-|Launched|
+|Price|105 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Brown` `Blue` `Black`
+|Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 6001L Jumbo
-|Price|105 USD
+|Price|135 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold`
+|Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 210
-|Price|41.6 USD
-|Launched|
+|Price|41.9 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Red` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu 15
-|Price|305.5 USD
-|Launched|
+|Price|360.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`White` `Blue` `Black` `Gold`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

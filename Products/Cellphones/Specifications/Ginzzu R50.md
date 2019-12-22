@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu R50
-|Price|22.7 USD
+|Price|26.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

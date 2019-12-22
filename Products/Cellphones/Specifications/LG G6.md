@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|LG G6
-|Price|350.2 USD
-|Launched|
+|Price|500.8 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Gray` `Blue` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

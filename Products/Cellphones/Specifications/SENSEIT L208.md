@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|SENSEIT L208
 |Price|25.4 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

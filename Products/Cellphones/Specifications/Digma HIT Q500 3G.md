@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma HIT Q500 3G
-|Price|51.1 USD
-|Launched|
+|Price|56.2 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Red` `Gray` `Blue` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

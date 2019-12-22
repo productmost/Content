@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Meizu M5 Note
 |Price|165.8 USD
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Gray` `Silver`
 |Memory|32 GB;64 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

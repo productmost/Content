@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL C12
-|Price|71.3 USD
-|Launched|
+|Price|
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

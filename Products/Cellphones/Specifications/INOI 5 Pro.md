@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 5 Pro
-|Price|79 USD
-|Launched|
+|Price|105 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Red` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

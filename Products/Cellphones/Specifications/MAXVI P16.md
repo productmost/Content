@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|MAXVI P16
-|Price|21 USD
+|Price|21.3 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Silver` `Gray` `Black`
+|Color|`Red` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

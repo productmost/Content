@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Alcatel U5 3G 4047D
-|Price|62.6 USD
-|Launched|
+|Price|52.1 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Gray`
+|Color|`Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

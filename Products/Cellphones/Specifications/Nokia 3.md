@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 3
-|Price|117 USD
-|Launched|
+|Price|129.6 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Beige`
+|Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

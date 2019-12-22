@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor H1
-|Price|35.3 USD
+|Price|44.9 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

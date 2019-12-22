@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel it2160
-|Price|10.4 USD
+|Price|10.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS Padfone S
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -89,8 +90,8 @@
 |VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
-|HSDPA|`Yes`
-|HSUPA|`Yes`
+|HSDPA|
+|HSUPA|
 |HSPA+|
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
@@ -98,13 +99,13 @@
 |FM-radio|`No`
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
-|VoIP|`No`
+|VoIP|
 |DLNA Support|`No`
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -170,8 +171,8 @@
 |Speech Recording|`Yes`
 |Stereo Sound|
 |AAC Support|`Yes`
-|WAV Support|`Yes`
-|WMA Support|`Yes`
+|WAV Support|
+|WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|

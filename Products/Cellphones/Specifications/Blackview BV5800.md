@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV5800
-|Price|122.2 USD
-|Launched|
+|Price|143.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Black`
+|Color|`Yellow` `Green` `Orange` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

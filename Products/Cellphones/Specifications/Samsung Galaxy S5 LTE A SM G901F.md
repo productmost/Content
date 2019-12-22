@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy S5 LTE-A SM-G901F
 |Price|
-|Launched|
+|Launched|2014
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

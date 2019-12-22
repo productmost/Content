@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Blackview BV1000
-|Price|38.3 USD
+|Price|39.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Yellow` `Black`
+|Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

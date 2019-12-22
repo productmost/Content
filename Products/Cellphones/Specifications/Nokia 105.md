@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 105
-|Price|19.1 USD
-|Launched|
+|Price|20.9 USD
+|Launched|2013
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

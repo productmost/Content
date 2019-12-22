@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Motorola Moto G6
-|Price|196.4 USD
+|Price|240.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

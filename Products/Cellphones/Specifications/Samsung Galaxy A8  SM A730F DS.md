@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy A8+ SM-A730F/DS
-|Price|352.7 USD
-|Launched|
+|Price|337.7 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Blue` `Black`
+|Color|`Gold` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

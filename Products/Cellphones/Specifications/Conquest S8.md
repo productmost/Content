@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Conquest S8
-|Price|390.2 USD
+|Price|285.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`Yes`
 |Waterproof|`Yes`

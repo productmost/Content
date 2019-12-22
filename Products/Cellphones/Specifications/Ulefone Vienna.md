@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ulefone Vienna
-|Price|130.6 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

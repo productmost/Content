@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2436 Fortune Power
-|Price|22.8 USD
+|Price|25.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`White` `Green` `Red` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -121,7 +122,7 @@
 
 |Property| Value |
 |--------|-------|
-|Battery Capacity|3000 mAh
+|Battery Capacity|
 |Fast Charging Standard|
 |Run Time in Idle Mode|
 |Battery Mount Type|`Removable`

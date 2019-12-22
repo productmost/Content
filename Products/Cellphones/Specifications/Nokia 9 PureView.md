@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 9 PureView
-|Price|706.7 USD
-|Launched|
+|Price|750.6 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
+|Color|
 |Memory|128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

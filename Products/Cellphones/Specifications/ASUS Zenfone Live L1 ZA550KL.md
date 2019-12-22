@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS Zenfone Live L1 ZA550KL
-|Price|127.5 USD
+|Price|120 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

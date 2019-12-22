@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Gamma
-|Price|98.5 USD
+|Price|133.6 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

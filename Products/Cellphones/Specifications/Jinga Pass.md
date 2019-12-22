@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Jinga Pass
-|Price|60 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,20 +1,21 @@
 |Property|Value|
 |--------|-----|
 |Name|ASUS Zenfone Max (M2) ZB633KL
-|Price|150 USD
-|Launched|
+|Price|164.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`Silver` `Blue` `Black`
 |Memory|32 GB;64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
 |Type of Memory Card Slot|`Separate`
-|Product Line|`ZenFone`
+|Product Line|
 |Operating System|`Android`
 |Operating System Version|`Android 8.0`
 |Form Factor|`Phablet`
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|8 MP
 |Optical Stabilization|`No`
 |Video Recording Resolution|3840x2160
-|Macro Mode|`Yes`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`No`
 
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -124,7 +125,7 @@
 |Battery Capacity|4000 mAh
 |Fast Charging Standard|
 |Run Time in Idle Mode|792 h
-|Battery Mount Type|`Integrated`
+|Battery Mount Type|
 |Speaking Run Time|35 h
 |Type of Battery|
 |Additional Battery Capacity|
@@ -172,7 +173,7 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`No`
+|USB-host/OTG|

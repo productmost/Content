@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy J7 Prime 2 SM-G611F
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

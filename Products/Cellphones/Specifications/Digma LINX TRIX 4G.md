@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Digma LINX TRIX 4G
-|Price|83.3 USD
-|Launched|
+|Price|101.4 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Brown` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

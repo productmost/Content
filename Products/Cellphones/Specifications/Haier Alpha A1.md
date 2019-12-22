@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Haier Alpha A1
-|Price|36.2 USD
+|Price|44.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White` `Black`
+|Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

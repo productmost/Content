@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Xiaomi Mi Mix 2S
-|Price|375.2 USD
-|Launched|
+|Price|466.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Black`
 |Memory|64 GB;128 GB;256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -68,7 +69,7 @@
 |Glonass|`Yes`
 |Bluetooth Standard Version|5.0
 |Wi-Fi Standard Version|802.11ac
-|LTE Advanced Speed|`Cat. 18`
+|LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
 |NFC|`Yes`
@@ -86,7 +87,7 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`Yes`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
@@ -95,11 +96,11 @@
 |FM Transmitter|`No`
 |Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`No`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -138,11 +139,11 @@
 |Property| Value |
 |--------|-------|
 |Compass|`Yes`
-|Gyroscope|`No`
+|Gyroscope|
 |Light Sensor|`Yes`
 |Proximity Sensor|`Yes`
-|Hall Sensor|`No`
-|Barometer|`No`
+|Hall Sensor|
+|Barometer|
 |Fingerprint Scanner|`Yes`
 |Iris scanner|`No`
 
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|`USB Type-C`
 |External Antenna Port|`No`
 
@@ -168,13 +169,13 @@
 |Flashlight|`Yes`
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|`No`
+|Stereo Sound|
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
 |Speakerphone Mode|`Yes`
 |MP3 Ringtones|`Yes`
-|Notification Indicator|`Yes`
+|Notification Indicator|
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`Yes`
@@ -187,4 +188,4 @@
 |Airplane Mode|`Yes`
 |Java applications|
 |MST|`No`
-|USB-host/OTG|`Yes`
+|USB-host/OTG|

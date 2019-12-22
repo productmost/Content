@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Wigor H3
-|Price|56.3 USD
+|Price|67.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

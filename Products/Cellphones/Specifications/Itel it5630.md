@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel it5630
-|Price|26.6 USD
+|Price|29.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Silver` `Gray`
+|Color|`Gold`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

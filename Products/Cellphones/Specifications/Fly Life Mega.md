@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Fly Life Mega
-|Price|59.9 USD
+|Price|65 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

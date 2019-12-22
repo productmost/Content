@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy J2 core SM-J260F
 |Price|89.9 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -30,7 +31,7 @@
 |Rear Camera|`Yes`
 |Camera Resolution|8 MP
 |Number of Rear Cameras|1
-|Autofocus|`Yes`
+|Autofocus|
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`
 |Front Camera|`Yes`
@@ -76,7 +77,7 @@
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|`Yes`
-|A-GPS|`Yes`
+|A-GPS|
 |BeiDou|`Yes`
 |Wi-Fi Direct|`Yes`
 |WiMAX|`No`
@@ -86,20 +87,20 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|

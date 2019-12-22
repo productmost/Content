@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Highscreen Expanse
-|Price|105 USD
-|Launched|
+|Price|114.7 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Silver` `Gray` `Blue`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

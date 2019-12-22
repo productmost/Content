@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ZTE Blade V8 mini
 |Price|169.5 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

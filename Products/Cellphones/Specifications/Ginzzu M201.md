@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu M201
-|Price|9.8 USD
+|Price|11.9 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White` `Red`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

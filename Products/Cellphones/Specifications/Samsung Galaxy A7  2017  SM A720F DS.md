@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy A7 (2017) SM-A720F/DS
 |Price|
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

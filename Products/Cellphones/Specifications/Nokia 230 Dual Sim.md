@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 230 Dual Sim
-|Price|74.5 USD
-|Launched|
+|Price|74.9 USD
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Silver` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

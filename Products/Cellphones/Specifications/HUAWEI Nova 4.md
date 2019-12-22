@@ -2,14 +2,15 @@
 |--------|-----|
 |Name|HUAWEI Nova 4
 |Price|
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|128 GB
-|Memory Card Slot|`No`
+|Type|`Smartphone`
+|Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`

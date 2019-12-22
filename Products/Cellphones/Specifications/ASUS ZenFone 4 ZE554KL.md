@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 4 ZE554KL
 |Price|210.1 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`White`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -39,7 +40,7 @@
 |Video Recording Resolution|3840x2160
 |Macro Mode|
 |Geo-tagging|
-|RAW Format Support|`Yes` `No`
+|RAW Format Support|`Yes`
 
 # Display
 
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|4 GB;6 GB
+|RAM|4 GB
 |Memory Card Maximum Capacity|2048 GB
 |CPU Cores|8
 |CPU Model|

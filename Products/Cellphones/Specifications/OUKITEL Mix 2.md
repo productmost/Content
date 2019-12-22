@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OUKITEL Mix 2
-|Price|211.7 USD
+|Price|285.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

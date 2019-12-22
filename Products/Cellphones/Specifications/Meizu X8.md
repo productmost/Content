@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu X8
-|Price|194.9 USD
-|Launched|
+|Price|240.1 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue` `Black`
+|Color|`Black` `Blue`
 |Memory|64 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

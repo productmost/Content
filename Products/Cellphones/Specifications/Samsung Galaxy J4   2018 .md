@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy J4+ (2018)
-|Price|180 USD
-|Launched|
+|Price|150 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Black`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|`Separate`
 |Product Line|`Galaxy J`
 |Operating System|`Android`
-|Operating System Version|`Android 8.0`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|76.9 mm
 |Height|161.4 mm
@@ -76,7 +77,7 @@
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
 |4G LTE-A|
-|A-GPS|`Yes`
+|A-GPS|
 |BeiDou|`Yes`
 |Wi-Fi Direct|`Yes`
 |WiMAX|`No`
@@ -86,16 +87,16 @@
 |GSM 1900|`Yes`
 |CDMA 1900|`No`
 |CDMA 450|`No`
-|VoLTE|`No`
+|VoLTE|
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`Yes`
 |HSUPA|`Yes`
 |HSPA+|
 |FM Transmitter|`No`
-|Integrated Radio Antenna|`No`
+|Integrated Radio Antenna|
 |TV Tunner|`No`
-|FM-radio|`Yes`
+|FM-radio|
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
@@ -140,7 +141,7 @@
 |Compass|
 |Gyroscope|`No`
 |Light Sensor|`Yes`
-|Proximity Sensor|`Yes`
+|Proximity Sensor|
 |Hall Sensor|`No`
 |Barometer|`No`
 |Fingerprint Scanner|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Xiaomi Redmi Note 5A Prime
 |Price|139.6 USD
-|Launched|
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold`
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

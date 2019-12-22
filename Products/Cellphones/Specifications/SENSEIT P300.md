@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|SENSEIT P300
-|Price|74.9 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|

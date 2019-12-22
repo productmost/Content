@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ASUS ZenFone 2 Deluxe SE
 |Price|
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|256 GB;128 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -159,7 +160,7 @@
 
 |Property| Value |
 |--------|-------|
-|Push-To-Talk|`No`
+|Push-To-Talk|
 |Body Material|
 |Specific Absorption Rate|
 |Changeable Parts|`No`
@@ -169,9 +170,9 @@
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
 |Stereo Sound|
-|AAC Support|`Yes`
-|WAV Support|`Yes`
-|WMA Support|`Yes`
+|AAC Support|
+|WAV Support|
+|WMA Support|
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|

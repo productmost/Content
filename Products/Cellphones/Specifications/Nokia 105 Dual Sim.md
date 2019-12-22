@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 105 Dual Sim
-|Price|21 USD
-|Launched|
+|Price|22.4 USD
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`No`
 |Shockproof|`No`
 |Waterproof|`No`

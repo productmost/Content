@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Prestigio X Pro
-|Price|105 USD
-|Launched|
+|Price|135 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Blue`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

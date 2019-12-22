@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy S9 Plus
-|Price|555.4 USD
-|Launched|
+|Price|623 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Purple` `Gold` `Red` `Silver` `Black`
 |Memory|128 GB;64 GB;256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -39,7 +40,7 @@
 |Video Recording Resolution|3840x2160
 |Macro Mode|`Yes`
 |Geo-tagging|
-|RAW Format Support|`No`
+|RAW Format Support|
 
 # Display
 
@@ -123,9 +124,9 @@
 |--------|-------|
 |Battery Capacity|3500 mAh
 |Fast Charging Standard|`Qualcomm Quick Charge 2.0`
-|Run Time in Idle Mode|48 h
+|Run Time in Idle Mode|
 |Battery Mount Type|`Integrated`
-|Speaking Run Time|22 h
+|Speaking Run Time|
 |Type of Battery|
 |Additional Battery Capacity|
 |Audio Playback Run Time|

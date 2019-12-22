@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu M8 lite
-|Price|108 USD
-|Launched|
+|Price|142.5 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`White` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

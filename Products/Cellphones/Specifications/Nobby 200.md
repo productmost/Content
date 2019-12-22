@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 200
-|Price|14.4 USD
+|Price|13.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

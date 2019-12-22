@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit S505
-|Price|45.3 USD
+|Price|53.5 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Black`
+|Color|`Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

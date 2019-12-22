@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|DEXP Larus M8
-|Price|29.4 USD
+|Price|
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|
 |Waterproof|`No`
@@ -38,7 +39,7 @@
 |Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|`No`
-|Geo-tagging|
+|Geo-tagging|`No`
 |RAW Format Support|
 
 # Display
@@ -90,7 +91,7 @@
 |GPRS|`Yes`
 |EDGE|`Yes`
 |HSDPA|`No`
-|HSUPA|
+|HSUPA|`No`
 |HSPA+|`No`
 |FM Transmitter|
 |Integrated Radio Antenna|`No`
@@ -112,7 +113,7 @@
 |--------|-------|
 |RAM|
 |Memory Card Maximum Capacity|
-|CPU Cores|1
+|CPU Cores|
 |CPU Model|
 |CPU Clock Rate|
 |Graphics Processor Unit|
@@ -131,7 +132,7 @@
 |Audio Playback Run Time|
 |Wireless Charging|`No`
 |Fast Charging Support|
-|Charging via USB|
+|Charging via USB|`Yes`
 
 # Sensors
 
@@ -168,13 +169,13 @@
 |Flashlight|
 |MP3 Support|`Yes`
 |Speech Recording|`Yes`
-|Stereo Sound|
+|Stereo Sound|`No`
 |AAC Support|`Yes`
 |WAV Support|`No`
 |WMA Support|`No`
 |Speakerphone Mode|
 |MP3 Ringtones|`Yes`
-|Notification Indicator|
+|Notification Indicator|`No`
 |QWERTY Keyboard|`No`
 |Sync with Personal Computer|`Yes`
 |Automaric Display Orientation Change|`No`
@@ -187,4 +188,4 @@
 |Airplane Mode|`No`
 |Java applications|`Yes`
 |MST|
-|USB-host/OTG|
+|USB-host/OTG|`No`

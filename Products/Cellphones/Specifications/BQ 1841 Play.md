@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 1841 Play
-|Price|14.8 USD
+|Price|14.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Blue` `Gold` `Red` `Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu M102D mini
-|Price|8.3 USD
+|Price|11.7 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

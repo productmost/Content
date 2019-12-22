@@ -1,20 +1,21 @@
 |Property|Value|
 |--------|-----|
 |Name|DOOGEE X20L
-|Price|74.9 USD
-|Launched|
+|Price|86.9 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Black`
+|Color|`Gold` `Silver` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
 |Stylus|`No`
 |Type of Memory Card Slot|
-|Product Line|`X`
+|Product Line|`X` `X`
 |Operating System|`Android`
 |Operating System Version|`Android 7.0`
 |Form Factor|`Phablet`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Archos 50 Oxygen Plus
 |Price|85.6 USD
-|Launched|
+|Launched|2015
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

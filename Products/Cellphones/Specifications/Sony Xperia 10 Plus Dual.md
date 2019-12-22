@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Sony Xperia 10 Plus Dual
-|Price|351.4 USD
-|Launched|
+|Price|412.9 USD
+|Launched|2019
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Silver` `Blue` `Black`
 |Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

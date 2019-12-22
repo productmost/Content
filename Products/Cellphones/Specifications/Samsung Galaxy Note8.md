@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Samsung Galaxy Note8
-|Price|900.8 USD
-|Launched|
+|Price|803.3 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Gold` `Blue` `Black`
 |Memory|64 GB;128 GB;256 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`
@@ -37,7 +38,7 @@
 |Resolution of Front Camera|8 MP
 |Optical Stabilization|`Yes`
 |Video Recording Resolution|3840x2160
-|Macro Mode|`Yes`
+|Macro Mode|
 |Geo-tagging|
 |RAW Format Support|`Yes`
 
@@ -55,7 +56,7 @@
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
 |Two Displays|`No`
-|Curved Display|`No`
+|Curved Display|
 |Colorful Secondary Display|`No`
 
 # Communications
@@ -151,7 +152,7 @@
 |Property| Value |
 |--------|-------|
 |USB Port|`Yes`
-|IrDA Port|`No`
+|IrDA Port|
 |Headphone Port|3.5 mm
 |External Antenna Port|`No`
 

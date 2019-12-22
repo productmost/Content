@@ -1,6 +1,6 @@
 |Property|Value|
 |--------|-----|
-|Name|VERTEX Impress Dune
+|Name|VERTEX IMPRESS DUNE
 |Price|
 |Launched|
 
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

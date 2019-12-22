@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5204 Strike Selfie
-|Price|68.5 USD
+|Price|97.4 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Pink` `Gray`
+|Color|`Pink` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Elephone M3
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
 |Color|
-|Memory|32 GB;16 GB
+|Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -28,7 +29,7 @@
 |Property| Value |
 |--------|-------|
 |Rear Camera|`Yes`
-|Camera Resolution|21 MP;13 MP
+|Camera Resolution|13 MP
 |Number of Rear Cameras|1
 |Autofocus|`Yes`
 |Flash|`Rear Flash`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|3 GB;2 GB
+|RAM|2 GB
 |Memory Card Maximum Capacity|128 GB
 |CPU Cores|8
 |CPU Model|`MediaTek Helio P10 (MT6755)`
@@ -130,7 +131,7 @@
 |Additional Battery Capacity|
 |Audio Playback Run Time|
 |Wireless Charging|`No`
-|Fast Charging Support|`Yes`
+|Fast Charging Support|
 |Charging via USB|`Yes`
 
 # Sensors

@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 5522 Next
-|Price|59.9 USD
-|Launched|
+|Price|74.9 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Gold` `Red` `Gray` `Black`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

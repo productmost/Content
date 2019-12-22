@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ginzzu M108D
-|Price|17.6 USD
+|Price|18 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`White`
+|Color|`White` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

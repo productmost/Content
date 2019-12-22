@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Archos Core 50
-|Price|86.9 USD
-|Launched|
+|Price|67.4 USD
+|Launched|2017
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Red` `Black`
+|Color|`Red` `Gray` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

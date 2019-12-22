@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Nobby 210
-|Price|19.1 USD
+|Price|19.5 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gray` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

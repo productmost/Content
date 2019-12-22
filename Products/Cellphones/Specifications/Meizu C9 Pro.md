@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Meizu C9 Pro
-|Price|90.8 USD
-|Launched|
+|Price|101.2 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Black`
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

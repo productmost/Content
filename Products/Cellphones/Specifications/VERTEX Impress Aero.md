@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|VERTEX Impress Aero
-|Price|52.4 USD
+|Price|67.4 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Silver` `Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -29,7 +30,7 @@
 |--------|-------|
 |Rear Camera|`Yes`
 |Camera Resolution|5 MP
-|Number of Rear Cameras|1
+|Number of Rear Cameras|
 |Autofocus|
 |Flash|`Rear Flash`
 |Flash Type|`LED Flash`

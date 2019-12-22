@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Benefit S504
-|Price|37.7 USD
+|Price|39.6 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Black`
+|Color|`Gold` `Red` `Black`
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

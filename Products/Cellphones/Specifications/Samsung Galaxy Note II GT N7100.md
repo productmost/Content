@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Samsung Galaxy Note II GT-N7100
 |Price|
-|Launched|
+|Launched|2012
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|32 GB;64 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

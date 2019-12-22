@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|
 |Memory|4 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -16,7 +17,7 @@
 |Type of Memory Card Slot|
 |Product Line|
 |Operating System|`Android`
-|Operating System Version|`Android 4.0`
+|Operating System Version|
 |Form Factor|`Phablet`
 |Width|61.6 mm
 |Height|123 mm

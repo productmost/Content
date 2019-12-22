@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|BQ 2433 Dream DUO
-|Price|33 USD
+|Price|33.8 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Green` `Gold` `Red` `Pink` `Gray` `Blue` `Purple` `Black`
+|Color|`Gold` `Red` `Gray` `Blue` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

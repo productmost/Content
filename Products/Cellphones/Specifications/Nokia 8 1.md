@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Nokia 8.1
-|Price|427.1 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Blue`
-|Memory|64 GB;128 GB
+|Color|
+|Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -99,7 +100,7 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|`No`
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|4 GB;6 GB
+|RAM|4 GB
 |Memory Card Maximum Capacity|400 GB
 |CPU Cores|8
 |CPU Model|`Qualcomm Snapdragon 710`

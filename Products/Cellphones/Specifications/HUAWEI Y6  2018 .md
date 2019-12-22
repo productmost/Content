@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|HUAWEI Y6 (2018)
 |Price|138.1 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|
+|Color|`Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -30,16 +31,16 @@
 |Rear Camera|`Yes`
 |Camera Resolution|13 MP
 |Number of Rear Cameras|1
-|Autofocus|`Yes`
-|Flash|`Rear Flash`
-|Flash Type|`LED Flash`
+|Autofocus|
+|Flash|
+|Flash Type|
 |Front Camera|`Yes`
 |Resolution of Front Camera|5 MP
-|Optical Stabilization|`No`
+|Optical Stabilization|
 |Video Recording Resolution|
 |Macro Mode|
 |Geo-tagging|
-|RAW Format Support|`No`
+|RAW Format Support|
 
 # Display
 
@@ -71,7 +72,7 @@
 |LTE Advanced Speed|
 |GPS|`Yes`
 |4G LTE|`Yes`
-|NFC|`No`
+|NFC|
 |3G|`Yes`
 |Wi-Fi|`Yes`
 |Bluetooth|`Yes`
@@ -79,7 +80,7 @@
 |A-GPS|`Yes`
 |BeiDou|
 |Wi-Fi Direct|`Yes`
-|WiMAX|`No`
+|WiMAX|
 |CDMA 800|`No`
 |GSM 900|`Yes`
 |GSM 1800|`Yes`
@@ -87,8 +88,8 @@
 |CDMA 1900|`No`
 |CDMA 450|`No`
 |VoLTE|
-|GPRS|`Yes`
-|EDGE|`Yes`
+|GPRS|
+|EDGE|
 |HSDPA|
 |HSUPA|
 |HSPA+|
@@ -99,12 +100,12 @@
 |Integrated Two-Way Radio Set|`No`
 |Power of Radio Set|
 |VoIP|
-|DLNA Support|`No`
+|DLNA Support|
 |Bluetooth Audio Streaming|
 |VHF|
 |UHF|
 |MMS|`Yes`
-|ANT+|`No`
+|ANT+|
 
 # Hardware
 
@@ -172,7 +173,7 @@
 |AAC Support|`Yes`
 |WAV Support|`Yes`
 |WMA Support|`Yes`
-|Speakerphone Mode|`Yes`
+|Speakerphone Mode|
 |MP3 Ringtones|`Yes`
 |Notification Indicator|
 |QWERTY Keyboard|`No`
@@ -186,5 +187,5 @@
 |Voice Control|`Yes`
 |Airplane Mode|`Yes`
 |Java applications|
-|MST|`No`
+|MST|
 |USB-host/OTG|

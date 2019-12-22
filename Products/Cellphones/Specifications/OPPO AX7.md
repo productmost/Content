@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|OPPO AX7
-|Price|225.1 USD
+|Price|250.8 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Blue`
 |Memory|64 GB;32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

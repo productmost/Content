@@ -1,7 +1,7 @@
 |Property|Value|
 |--------|-----|
 |Name|Ark Power F3
-|Price|22.5 USD
+|Price|28.1 USD
 |Launched|
 
  
@@ -9,6 +9,7 @@
 |--------|-------|
 |Color|`Gold` `Black`
 |Memory|
+|Type|`Mobile Phone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

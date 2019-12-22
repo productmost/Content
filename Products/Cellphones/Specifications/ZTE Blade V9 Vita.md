@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|ZTE Blade V9 Vita
-|Price|120 USD
-|Launched|
+|Price|138 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Green` `Pink` `Blue` `Black`
 |Memory|32 GB;16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

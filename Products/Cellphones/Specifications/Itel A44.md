@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Itel A44
-|Price|67.3 USD
-|Launched|
+|Price|75.3 USD
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Gold` `Gray`
+|Color|`Gray`
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

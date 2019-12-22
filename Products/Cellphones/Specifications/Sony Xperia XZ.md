@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Sony Xperia XZ
 |Price|
-|Launched|
+|Launched|2016
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Brown` `Silver` `Blue`
+|Color|
 |Memory|32 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`Yes`

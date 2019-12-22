@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|Motorola Moto G7 Power
-|Price|202.7 USD
+|Price|270.1 USD
 |Launched|
 
  
 |Property| Value |
 |--------|-------|
 |Color|`Black`
-|Memory|64 GB;32 GB
+|Memory|64 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
@@ -19,8 +20,8 @@
 |Operating System Version|`Android 9.0`
 |Form Factor|`Phablet`
 |Width|76 mm
-|Height|159.43 mm;160.83 mm
-|Depth|9.3 mm;9.4 mm
+|Height|159.43 mm
+|Depth|9.3 mm
 |Weight|
 
 # Camera
@@ -50,7 +51,7 @@
 |Touch Screen|`Yes`
 |Multitouch|`Yes`
 |Display Technology|`IPS`
-|Scratch Resistant Glass|`No` `Yes`
+|Scratch Resistant Glass|`No`
 |Force Touch|`No`
 |Colorful Display|`Yes`
 |Touch Screen Technology|`Capacitive`
@@ -110,7 +111,7 @@
 
 |Property| Value |
 |--------|-------|
-|RAM|4 GB;3 GB
+|RAM|4 GB
 |Memory Card Maximum Capacity|512 GB
 |CPU Cores|8
 |CPU Model|`Qualcomm Snapdragon 632`

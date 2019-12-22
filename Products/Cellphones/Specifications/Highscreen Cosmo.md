@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|Highscreen Cosmo
 |Price|115.5 USD
-|Launched|
+|Launched|2011
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

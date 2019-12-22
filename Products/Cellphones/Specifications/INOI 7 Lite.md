@@ -1,14 +1,15 @@
 |Property|Value|
 |--------|-----|
 |Name|INOI 7 Lite
-|Price|97.4 USD
-|Launched|
+|Price|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
 |Color|
 |Memory|8 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`

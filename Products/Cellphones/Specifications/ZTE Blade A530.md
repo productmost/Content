@@ -2,13 +2,14 @@
 |--------|-----|
 |Name|ZTE Blade A530
 |Price|89.9 USD
-|Launched|
+|Launched|2018
 
  
 |Property| Value |
 |--------|-------|
-|Color|`Silver` `Gray` `Blue`
+|Color|`Silver` `Gray` `Blue` `Black`
 |Memory|16 GB
+|Type|`Smartphone`
 |Memory Card Slot|`Yes`
 |Shockproof|`No`
 |Waterproof|`No`
